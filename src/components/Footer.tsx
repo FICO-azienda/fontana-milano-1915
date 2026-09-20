@@ -54,6 +54,19 @@ export function Footer() {
           <p>© 1915 – {new Date().getFullYear()} Fontana Milano 1915. {t('footer.rights')}</p>
           <p><a href={SITE} {...ext} className="u-link">fontanamilano1915.com</a></p>
         </div>
+
+        <a
+          href="mailto:ficolc78@gmail.com?subject=RICHIESTA%20INFORMAZIONI%20PER%20SITO"
+          title="Website designed by FICO"
+          aria-label="Website designed by FICO"
+          className="group mx-auto mt-14 flex w-fit items-center gap-3 text-[10px] uppercase tracking-[0.28em] text-mute transition-colors duration-500 hover:text-ink"
+        >
+          <span>Website designed by FICO</span>
+          <picture>
+            <source type="image/webp" srcSet={`${import.meta.env.BASE_URL}fico-logo.webp`} />
+            <img src={`${import.meta.env.BASE_URL}fico-logo.png`} alt="" width={28} height={28} loading="lazy" decoding="async" className="h-7 w-7 rounded-[6px] opacity-90 transition-opacity duration-500 group-hover:opacity-100" />
+          </picture>
+        </a>
       </div>
     </footer>
   )
