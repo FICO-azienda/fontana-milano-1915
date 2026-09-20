@@ -1,8 +1,9 @@
 import { createContext, useCallback, useContext, useEffect, useMemo, useReducer, type ReactNode } from 'react'
 import { dict, type Key, type Lang } from './i18n'
-import { A_MAN } from '../data/catalog'
+import { findProduct } from '../data/products'
 
-export type CartLine = { colorId: string; qty: number }
+export type CartLine = { productId: string; colorId: string; qty: number }
+export const lineKey = (l: { productId: string; colorId: string }) => `${l.productId}:${l.colorId}`
 type State = {
   lang: Lang
   cart: CartLine[]
@@ -14,23 +15,23 @@ type State = {
 }
 type Action =
   | { t: 'lang'; v: Lang }
-  | { t: 'add'; colorId: string; qty: number }
-  | { t: 'qty'; colorId: string; qty: number }
-  | { t: 'remove'; colorId: string }
+  | { t: 'add'; productId: string; colorId: string; qty: number }
+  | { t: 'qty'; productId: string; colorId: string; qty: number }
+  | { t: 'remove'; productId: string; colorId: string }
   | { t: 'clear' }
   | { t: 'wish'; id: string }
   | { t: 'mini'; v: boolean }
   | { t: 'search'; v: boolean }
   | { t: 'menu'; v: boolean }
 
-const KEY = 'fm1915:v1'
+const KEY = 'fm1915:v2'
 const initial = (): State => {
   let saved: Partial<State> = {}
   try { saved = JSON.parse(localStorage.getItem(KEY) || '{}') } catch { /* storage non disponibile */ }
   const nav = typeof navigator !== 'undefined' && navigator.language?.toLowerCase().startsWith('en') ? 'en' : 'it'
   return {
     lang: saved.lang === 'en' || saved.lang === 'it' ? saved.lang : nav,
-    cart: Array.isArray(saved.cart) ? saved.cart : [],
+    cart: Array.isArray(saved.cart) ? saved.cart.filter((l) => l?.productId && findProduct(l.productId)) : [],
     wishlist: Array.isArray(saved.wishlist) ? saved.wishlist : [],
     miniCart: false, justAdded: false, search: false, menu: false,
   }
@@ -42,14 +43,15 @@ function reduce(s: State, a: Action): State {
   switch (a.t) {
     case 'lang': return { ...s, lang: a.v }
     case 'add': {
-      const found = s.cart.find((l) => l.colorId === a.colorId)
+      const k = lineKey(a)
+      const found = s.cart.find((l) => lineKey(l) === k)
       const cart = found
-        ? s.cart.map((l) => (l.colorId === a.colorId ? { ...l, qty: clamp(l.qty + a.qty) } : l))
-        : [...s.cart, { colorId: a.colorId, qty: clamp(a.qty) }]
+        ? s.cart.map((l) => (lineKey(l) === k ? { ...l, qty: clamp(l.qty + a.qty) } : l))
+        : [...s.cart, { productId: a.productId, colorId: a.colorId, qty: clamp(a.qty) }]
       return { ...s, cart, miniCart: true, justAdded: true }
     }
-    case 'qty': return { ...s, cart: s.cart.map((l) => (l.colorId === a.colorId ? { ...l, qty: clamp(a.qty) } : l)) }
-    case 'remove': return { ...s, cart: s.cart.filter((l) => l.colorId !== a.colorId) }
+    case 'qty': return { ...s, cart: s.cart.map((l) => (lineKey(l) === lineKey(a) ? { ...l, qty: clamp(a.qty) } : l)) }
+    case 'remove': return { ...s, cart: s.cart.filter((l) => lineKey(l) !== lineKey(a)) }
     case 'clear': return { ...s, cart: [] }
     case 'wish': return { ...s, wishlist: s.wishlist.includes(a.id) ? s.wishlist.filter((x) => x !== a.id) : [...s.wishlist, a.id] }
     case 'mini': return { ...s, miniCart: a.v, justAdded: a.v ? s.justAdded : false, search: a.v ? false : s.search, menu: a.v ? false : s.menu }
@@ -82,7 +84,8 @@ export function StoreProvider({ children }: { children: ReactNode }) {
   )
   const value = useMemo<Ctx>(() => {
     const count = s.cart.reduce((n, l) => n + l.qty, 0)
-    return { ...s, t, money, count, total: count * A_MAN.price, dispatch }
+    const total = s.cart.reduce((n, l) => n + l.qty * (findProduct(l.productId)?.price ?? 0), 0)
+    return { ...s, t, money, count, total, dispatch }
   }, [s, t, money])
   return <StoreCtx.Provider value={value}>{children}</StoreCtx.Provider>
 }

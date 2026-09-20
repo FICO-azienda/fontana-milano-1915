@@ -1,0 +1,6949 @@
+{
+ "a-man": {
+  "gender": "uomo",
+  "title": "A Man",
+  "desc_it": [
+   "A: essenziale, minimale, strutturata.",
+   "A: anche per Lui.",
+   "Più lunga e più stretta rispetto alla versione femminile, mantiene ogni elemento distintivo del primo modello \"senza tempo\", realizzato dalla maison.",
+   "Una cartella da città, che si fa riconoscere, tra la folla, nel corso di un meeting, durante un pranzo di lavoro e in mille altre occasioni, tutte da vivere."
+  ],
+  "desc_en": [
+   "A: quintessential, minimalist, structured.",
+   "A: for him too.",
+   "Longer and narrower than the women’s version, it retains each distinctive element of the first Timeless model created by our firm.",
+   "A briefcase for the city, which stands out in the crowd, in a meeting, during a business lunch and a host of other occasions, all for his enjoyment."
+  ],
+  "images": [
+   {
+    "file": "00.png",
+    "alt": "7.png",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.31,
+    "rgb": [
+     51,
+     49,
+     49
+    ]
+   },
+   {
+    "file": "01.png",
+    "alt": "8.png",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.284,
+    "rgb": [
+     33,
+     31,
+     32
+    ]
+   },
+   {
+    "file": "02.png",
+    "alt": "9.png",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.287,
+    "rgb": [
+     45,
+     43,
+     44
+    ]
+   },
+   {
+    "file": "03.jpg",
+    "alt": "07_fontana0928.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.31,
+    "rgb": [
+     85,
+     92,
+     97
+    ]
+   },
+   {
+    "file": "04.jpg",
+    "alt": "07_fontana0926.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.277,
+    "rgb": [
+     78,
+     86,
+     93
+    ]
+   },
+   {
+    "file": "05.jpg",
+    "alt": "07_fontana0921.jpg",
+    "w": 1920,
+    "h": 1510,
+    "studio": true,
+    "frac": 0.227,
+    "rgb": [
+     76,
+     83,
+     89
+    ]
+   },
+   {
+    "file": "06.jpg",
+    "alt": "05_fontana0876.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.307,
+    "rgb": [
+     65,
+     71,
+     76
+    ]
+   },
+   {
+    "file": "07.jpg",
+    "alt": "07_fontana0924.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.284,
+    "rgb": [
+     82,
+     91,
+     96
+    ]
+   },
+   {
+    "file": "08.jpg",
+    "alt": "A Man_1_Carbon.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.266,
+    "rgb": [
+     56,
+     56,
+     56
+    ]
+   },
+   {
+    "file": "09.jpg",
+    "alt": "A Man_Carbon.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.339,
+    "rgb": [
+     47,
+     47,
+     47
+    ]
+   },
+   {
+    "file": "10.jpg",
+    "alt": "A Man_2_Carbon.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.284,
+    "rgb": [
+     50,
+     50,
+     50
+    ]
+   },
+   {
+    "file": "11.jpg",
+    "alt": "A Man_3_Carbon.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.238,
+    "rgb": [
+     49,
+     49,
+     49
+    ]
+   }
+  ]
+ },
+ "summit": {
+  "gender": "uomo",
+  "title": "SUMMIT",
+  "desc_it": [
+   "Lineare, sobria, ma fortemente autorevole. Di poche parole e tutte estremamente ponderate. Nasce con una vocazione diplomatica e vive per trasportare quei contenuti importanti (oggetti, documenti e cose) in grado di fare la differenza, nelle mani di chi si accompagna ad essa.",
+   "Soffietti a costa, chiusura preziosa in oro chiaro, totalmente in box calf, sia all'interno che all'esterno.",
+   "Summit è il vertice, sia in termini di sintesi estrema del concetto di cartella, sia della maestria artigianale Fontana Milano 1915 stratificata nel tempo, al servizio delle molteplici funzioni d'uso della contemporaneità."
+  ],
+  "desc_en": [
+   "Straightforward, serious, but very authoritative. Of few words and all extremely thoughtful. Created with the calling of a diplomat and existing to convey those important contents (objects, documents and things) that can make the difference, in the hands of the person carrying it. Ribbed gussets, precious light gold clasp, entirely made of box calfskin both inside and out.",
+   "Summit is the pinnacle, quite simply both in terms of the concept of briefcase and the craftmanship of Fontana Milano 1915, accumulated over time at the service of the multiple uses of today’s world."
+  ],
+  "images": [
+   {
+    "file": "00.jpg",
+    "alt": "Summit 2 soffietti_Grande_1_Carbon.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.312,
+    "rgb": [
+     64,
+     64,
+     64
+    ]
+   },
+   {
+    "file": "01.jpg",
+    "alt": "Summit 2 soffietti Grande_Carbon.jpg",
+    "w": 1920,
+    "h": 1272,
+    "studio": true,
+    "frac": 0.314,
+    "rgb": [
+     40,
+     40,
+     40
+    ]
+   },
+   {
+    "file": "02.jpg",
+    "alt": "Summit 2 soffietti_Grande_2_Carbon.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.126,
+    "rgb": [
+     43,
+     43,
+     43
+    ]
+   },
+   {
+    "file": "03.jpg",
+    "alt": "Summit 2 soffietti_Grande_3_Carbon.jpg",
+    "w": 1920,
+    "h": 1283,
+    "studio": true,
+    "frac": 0.338,
+    "rgb": [
+     41,
+     41,
+     41
+    ]
+   },
+   {
+    "file": "04.jpg",
+    "alt": "Summit 2 soffietti_Grande_4_Carbon.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.233,
+    "rgb": [
+     64,
+     64,
+     64
+    ]
+   },
+   {
+    "file": "05.jpg",
+    "alt": "Summit 2 soffietti_Grande_5_Carbon.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.303,
+    "rgb": [
+     78,
+     78,
+     78
+    ]
+   },
+   {
+    "file": "06.jpg",
+    "alt": "Summit 2 soffietti Piccolo_1_Scarlett.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.234,
+    "rgb": [
+     146,
+     15,
+     20
+    ]
+   },
+   {
+    "file": "07.jpg",
+    "alt": "Summit 2 soffietti Piccolo_Scarlett.jpg",
+    "w": 1920,
+    "h": 1323,
+    "studio": true,
+    "frac": 0.301,
+    "rgb": [
+     137,
+     8,
+     20
+    ]
+   },
+   {
+    "file": "08.jpg",
+    "alt": "Summit 2 soffietti Piccolo_2_Scarlett.jpg",
+    "w": 1920,
+    "h": 1297,
+    "studio": true,
+    "frac": 0.113,
+    "rgb": [
+     118,
+     11,
+     18
+    ]
+   },
+   {
+    "file": "09.jpg",
+    "alt": "Summit 2 soffietti Piccolo_3_Scarlett.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.306,
+    "rgb": [
+     141,
+     8,
+     21
+    ]
+   },
+   {
+    "file": "10.jpg",
+    "alt": "Summit 2 soffietti Piccolo_4_Scarlett.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.262,
+    "rgb": [
+     146,
+     39,
+     33
+    ]
+   }
+  ]
+ },
+ "wonderland": {
+  "gender": "uomo",
+  "title": "Wonderland",
+  "desc_it": [
+   "Per il viaggio, reale o immaginario, Wonderland è la compagna perfetta.",
+   "La nuova travel bag genderless e ultracapiente (presenta 3 pratici scomparti in cui custodire tutto il necessario) ideale, per scoprire le meraviglie di ogni paese e le peculiarità di qualsiasi latitudine.",
+   "Wonderland è unica, grazie alla ricerca effettuata, sia sui pellami selezionati per qualità materiche intrinseche (e generale lucentezza), sia sul colore, affinché si giungesse a quel grado di tonalità esclusiva, capace di renderla bella e inconfondibile."
+  ],
+  "desc_en": [
+   "For travel – real or imagined – Wonderland is the perfect companion.",
+   "The new, genderless and ultra-spacious travel bag, with 3 practical compartments to store everything you need, is ideal for discovering the wonders of every country and the uniqueness of any latitude.",
+   "Wonderland is unique as a result of the research conducted on both the leather, chosen for its innate texture (and overall sheen), and the colour, in order to achieve an exclusive shade which makes the bag beautiful and distinctive."
+  ],
+  "images": [
+   {
+    "file": "00.jpg",
+    "alt": "Wonderland New_Aral_Carbon.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.233,
+    "rgb": [
+     55,
+     66,
+     71
+    ]
+   },
+   {
+    "file": "01.jpg",
+    "alt": "Wonderland New_1_Aral_Carbon.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.2,
+    "rgb": [
+     56,
+     63,
+     65
+    ]
+   },
+   {
+    "file": "02.jpg",
+    "alt": "Wonderland New_2_Aral_Carbon.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.24,
+    "rgb": [
+     49,
+     60,
+     65
+    ]
+   },
+   {
+    "file": "03.jpg",
+    "alt": "Wonderland New_3_Aral_Carbon.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.279,
+    "rgb": [
+     40,
+     48,
+     51
+    ]
+   },
+   {
+    "file": "04.jpg",
+    "alt": "Wonderland New_4_Aral_Carbon.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.268,
+    "rgb": [
+     44,
+     54,
+     58
+    ]
+   },
+   {
+    "file": "05.jpg",
+    "alt": "Wonderland New_5_Aral_Carbon.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.128,
+    "rgb": [
+     45,
+     59,
+     63
+    ]
+   }
+  ]
+ },
+ "back24-back48": {
+  "gender": "uomo",
+  "title": "BACK24 & BACK48",
+  "desc_it": [
+   "C’era una volta la ventiquattr’ore, la cosiddetta “valigetta”, sinonimo del viaggio di lavoro da effettuare in giornata, capiente quanto basta per portare tutto l’occorrente per la breve trasferta.",
+   "Poi arrivò la quarantott’ore, grande il doppio pensata per la giornata di lavoro più pernottamento. Nella quotidianità di oggi, ed in particolare nei terminal e nelle stazioni, è facile osservare come questi piccoli grandi classici siano stati sostituiti dall’utilizzo di zaini nelle più diverse fogge che però mantengono la medesima funzione d’uso di ieri, con, in più, un maggior confort. Giacche, cravatte e zaino in spalla. Fontana Milano 1915 ha voluto così rendere omaggio all’attuale tipologia d’uso con un’edizione speciale di zaini elegantissimi e pratici, concepiti proprio per le trasferte di lavoro di uno o due giorni: il Back24 e il Back48.",
+   "Chiusura con coulisse. Fondo e schienale rinforzati. Due capienti tasche anteriori. Soffietti laterali apribili (con zip) che permettono di aumentarne la capienza. Maniglietta per trasporto a mano. Tasca interna con zip."
+  ],
+  "desc_en": [
+   "Once upon a time there was the 24-hour briefcase, the epitome of the single-day business trip, just big enough to contain everything necessary for a short trip. Then came the 48-hour briefcase, twice as big for the day’s work plus an overnight stay. Nowadays, you can easily see, especially in terminals and stations, that these little big classics have been replaced by backpacks in all shapes and sizes that still perform the same function as before but more comfortably. Jackets, ties and backpack.",
+   "Fontana Milano 1915 wanted to pay homage to their function today with a special edition of very elegant, practical backpacks specifically designed for business trips of one to two days: the Back24 and the Back48. Drawstring closure. Reinforced bottom and back. Two roomy front pockets. Zippered side gussets that can be opened to increase capacity. Carry handle. Zippered interior pocket."
+  ],
+  "images": [
+   {
+    "file": "00.png",
+    "alt": "2.png",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.262,
+    "rgb": [
+     56,
+     54,
+     55
+    ]
+   },
+   {
+    "file": "01.png",
+    "alt": "1.png",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.238,
+    "rgb": [
+     61,
+     60,
+     60
+    ]
+   },
+   {
+    "file": "02.png",
+    "alt": "3.png",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.279,
+    "rgb": [
+     67,
+     56,
+     56
+    ]
+   },
+   {
+    "file": "03.jpg",
+    "alt": "Backpack_Aral.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.233,
+    "rgb": [
+     60,
+     75,
+     80
+    ]
+   },
+   {
+    "file": "04.jpg",
+    "alt": "Backpack24_Aral_1.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.236,
+    "rgb": [
+     54,
+     68,
+     73
+    ]
+   },
+   {
+    "file": "05.jpg",
+    "alt": "Backpack24_Aral_2.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.236,
+    "rgb": [
+     53,
+     67,
+     72
+    ]
+   },
+   {
+    "file": "06.jpg",
+    "alt": "Backpack24_Aral_3.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.209,
+    "rgb": [
+     67,
+     81,
+     86
+    ]
+   },
+   {
+    "file": "07.jpg",
+    "alt": "Backpack24_Aral_4.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.247,
+    "rgb": [
+     49,
+     63,
+     67
+    ]
+   },
+   {
+    "file": "08.jpg",
+    "alt": "VIAGGIO_3.jpg",
+    "w": 1200,
+    "h": 848,
+    "studio": false,
+    "frac": 0.632,
+    "rgb": [
+     43,
+     43,
+     42
+    ]
+   },
+   {
+    "file": "09.jpg",
+    "alt": "VIAGGIO_4.jpg",
+    "w": 1200,
+    "h": 848,
+    "studio": false,
+    "frac": 0.447,
+    "rgb": [
+     63,
+     63,
+     60
+    ]
+   },
+   {
+    "file": "10.jpg",
+    "alt": "10_MG_0052.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.334,
+    "rgb": [
+     49,
+     49,
+     49
+    ]
+   },
+   {
+    "file": "11.jpg",
+    "alt": "13_IMG_0069.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.328,
+    "rgb": [
+     54,
+     54,
+     54
+    ]
+   }
+  ]
+ },
+ "rush-peterpan": {
+  "gender": "uomo",
+  "title": "Rush",
+  "desc_it": [
+   "Apollinea come la cavalcata forsennata del pony express per andare a consegnare in tempo limite, quelle carte strategiche che cambieranno l’esito della battaglia o Dionisiaca come l’eterna primavera dell’immaginazione che trasporta suggestioni dal sogno alla realtà e viceversa?",
+   "Due nature interscambiabili della postina a tracolla FM1915 per decidere di volta in volta come affronterà la sua giornata, l’uomo che sarai oggi."
+  ],
+  "desc_en": [
+   "Apollonian as the crazy pony express ride to deliver within a short deadline the strategic cards that will change the outcome of the battle, or Dionysian as the eternal spring of the imagination that transports suggestions from dream to reality and vice versa?",
+   "Two interchangeable concepts for the FM1915 messenger bag to decide from time to time how to tackle the day, the man you will be today."
+  ],
+  "images": [
+   {
+    "file": "00.png",
+    "alt": "5.png",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.35,
+    "rgb": [
+     47,
+     46,
+     47
+    ]
+   },
+   {
+    "file": "01.png",
+    "alt": "4.png",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.368,
+    "rgb": [
+     49,
+     50,
+     51
+    ]
+   },
+   {
+    "file": "02.png",
+    "alt": "6.png",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.34,
+    "rgb": [
+     53,
+     53,
+     54
+    ]
+   },
+   {
+    "file": "03.jpg",
+    "alt": "Rush_1_Brownie.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.341,
+    "rgb": [
+     67,
+     53,
+     52
+    ]
+   },
+   {
+    "file": "04.jpg",
+    "alt": "Rush_2_Brownie.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.436,
+    "rgb": [
+     55,
+     41,
+     40
+    ]
+   },
+   {
+    "file": "05.jpg",
+    "alt": "Rush_3_Brownie.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.198,
+    "rgb": [
+     66,
+     53,
+     52
+    ]
+   },
+   {
+    "file": "06.jpg",
+    "alt": "Rush_4_Brownie.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.268,
+    "rgb": [
+     74,
+     60,
+     59
+    ]
+   },
+   {
+    "file": "07.jpg",
+    "alt": "Rush_5_Brownie.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.385,
+    "rgb": [
+     59,
+     45,
+     44
+    ]
+   },
+   {
+    "file": "08.jpg",
+    "alt": "Rush_Brownie.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.358,
+    "rgb": [
+     61,
+     47,
+     46
+    ]
+   },
+   {
+    "file": "09.jpg",
+    "alt": "19_IMG_0002.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.404,
+    "rgb": [
+     108,
+     126,
+     129
+    ]
+   },
+   {
+    "file": "10.jpg",
+    "alt": "20_IMG_0005.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.188,
+    "rgb": [
+     119,
+     135,
+     137
+    ]
+   },
+   {
+    "file": "11.jpg",
+    "alt": "21_IMG_0008.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.333,
+    "rgb": [
+     89,
+     104,
+     107
+    ]
+   },
+   {
+    "file": "12.jpg",
+    "alt": "22a_IMG_0011.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.253,
+    "rgb": [
+     98,
+     114,
+     117
+    ]
+   },
+   {
+    "file": "13.jpg",
+    "alt": "22b_IMG_0012.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.24,
+    "rgb": [
+     99,
+     115,
+     117
+    ]
+   }
+  ]
+ },
+ "timothy": {
+  "gender": "uomo",
+  "title": "Timothy",
+  "desc_it": [
+   "Timothy è uno zaino pensato per la città e ispirato al mondo della selleria con spallacci ergonomici che si adattano ad ogni figura.",
+   "La sua chiusura a zip, direttamente sullo schienale, è pensata per una maggiore sicurezza. All’interno dello zaino si trova una tasca, sempre con chiusura a zip, per riporre i propri oggetti di valore. Una seconda zip introduce un’ulteriore tasca, capiente, per piccoli oggetti. Altre tasche sono presenti una integrata sullo spallaccio e un'altra su un fianco, dove si possono riporre le chiavi fissate ad una catena staccabile mediante moschettone. Lo schienale è imbottito per un maggiore comfort, trapuntato con un motivo ispirato alla selleria."
+  ],
+  "desc_en": [
+   "Saddlebag-inspired city backpack with ergonomic shoulder straps that adapt to each figure.",
+   "It has a special zip fastener directly on the back for extra security. Inside the body of the bag there is a pocket, also with a zip, for valuables personal belongings. A second zip leads to another large pocket for small items. There is also a handy integrated pocket on the shoulder strap. On one side there is a small pocket with a flap where you can store your keys, which are attached to a detachable chain with a snap hook. The back is padded for greater comfort, quilted with a pattern inspired by saddlery."
+  ],
+  "images": [
+   {
+    "file": "00.jpg",
+    "alt": "Zainio Citta_1_Brownie.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.222,
+    "rgb": [
+     68,
+     54,
+     53
+    ]
+   },
+   {
+    "file": "01.jpg",
+    "alt": "Zaino Città_Brownie.jpg",
+    "w": 1920,
+    "h": 1319,
+    "studio": true,
+    "frac": 0.33,
+    "rgb": [
+     51,
+     38,
+     37
+    ]
+   },
+   {
+    "file": "02.jpg",
+    "alt": "Zainio Citta_2_Brownie.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.311,
+    "rgb": [
+     55,
+     41,
+     40
+    ]
+   },
+   {
+    "file": "03.jpg",
+    "alt": "Zainio Citta_3_Brownie.jpg",
+    "w": 1920,
+    "h": 1311,
+    "studio": true,
+    "frac": 0.192,
+    "rgb": [
+     60,
+     47,
+     46
+    ]
+   },
+   {
+    "file": "04.jpg",
+    "alt": "Zainio Citta_4_Brownie.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.299,
+    "rgb": [
+     68,
+     54,
+     53
+    ]
+   },
+   {
+    "file": "05.jpg",
+    "alt": "Zaino Città_Carbon_Naturale.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.226,
+    "rgb": [
+     172,
+     162,
+     144
+    ]
+   },
+   {
+    "file": "06.jpg",
+    "alt": "Zaino Città_1_Carbon_Naturale.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.31,
+    "rgb": [
+     171,
+     159,
+     140
+    ]
+   },
+   {
+    "file": "07.jpg",
+    "alt": "Zaino Città_2_Carbon_Naturale.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.223,
+    "rgb": [
+     98,
+     96,
+     92
+    ]
+   },
+   {
+    "file": "08.jpg",
+    "alt": "Zaino Città_3_Carbon_Naturale.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.247,
+    "rgb": [
+     38,
+     38,
+     38
+    ]
+   },
+   {
+    "file": "09.jpg",
+    "alt": "Zaino Città_4_Carbon_Naturale.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.29,
+    "rgb": [
+     61,
+     61,
+     61
+    ]
+   }
+  ]
+ },
+ "bazooka": {
+  "gender": "uomo",
+  "title": "Bazooka",
+  "desc_it": [
+   "Ispirato al modello A, assottigliato, semplificato e adattato per portare comodamente Laptop e documenti.",
+   "È dotato di una tasca interna ed una esterna per organizzare al meglio la disposizione dei propri effetti personali al loro interno."
+  ],
+  "desc_en": [
+   "Inspired by the A model, slimmed down, simplified and adapted to comfortably carry laptops and documents.",
+   "It features an internal and an external pocket to better organise the arrangement of your personal belongings inside."
+  ],
+  "images": [
+   {
+    "file": "00.jpg",
+    "alt": "3.jpg",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.248,
+    "rgb": [
+     8,
+     51,
+     60
+    ]
+   },
+   {
+    "file": "01.jpg",
+    "alt": "4.jpg",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.255,
+    "rgb": [
+     91,
+     43,
+     29
+    ]
+   },
+   {
+    "file": "02.jpg",
+    "alt": "5.jpg",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.268,
+    "rgb": [
+     44,
+     37,
+     33
+    ]
+   },
+   {
+    "file": "03.jpg",
+    "alt": "Bazooka_Aral_Carbon_Caramel.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.211,
+    "rgb": [
+     51,
+     65,
+     70
+    ]
+   },
+   {
+    "file": "04.jpg",
+    "alt": "Porta PC_3_Aral_Carbon_Caramel.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.214,
+    "rgb": [
+     47,
+     60,
+     65
+    ]
+   },
+   {
+    "file": "05.jpg",
+    "alt": "Porta PC_Aral_Carbon_Caramel.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.273,
+    "rgb": [
+     46,
+     59,
+     64
+    ]
+   },
+   {
+    "file": "06.jpg",
+    "alt": "Porta PC_2_Aral_Carbon_Caramel.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.276,
+    "rgb": [
+     49,
+     62,
+     68
+    ]
+   }
+  ]
+ },
+ "titan": {
+  "gender": "uomo",
+  "title": "Titan",
+  "desc_it": [
+   "Titan accompagna la giornata di lei o di lui portando documenti e tablet con eleganza.",
+   "Questa cartella a mano è disponibille in tre misure, ha una chiusura centrale a spadino, di forma rettangolare, dotata di quattro fori per la regolazione e di una linguetta in pelle che ne facilita l’apertura.",
+   "La struttura, a costa, presenta un fianco e una tasca applicata, entrambi a soffietto."
+  ],
+  "desc_en": [
+   "Titan comes every day with her or him bringing documents and tablet in an elegant way.",
+   "This rectangular hand briefcase is available in three sizes with a central spadework closure, four holes for adjustment and a leather flap for easy opening.",
+   "The ribbed structure features a side panel and a patch pocket, both with gussets."
+  ],
+  "images": [
+   {
+    "file": "00.png",
+    "alt": "14.png",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.276,
+    "rgb": [
+     30,
+     28,
+     29
+    ]
+   },
+   {
+    "file": "01.png",
+    "alt": "13.png",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.316,
+    "rgb": [
+     38,
+     37,
+     37
+    ]
+   },
+   {
+    "file": "02.png",
+    "alt": "15.png",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.326,
+    "rgb": [
+     8,
+     8,
+     9
+    ]
+   },
+   {
+    "file": "03.jpg",
+    "alt": "Cartella a Mano Media_1_Aral.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.233,
+    "rgb": [
+     57,
+     71,
+     77
+    ]
+   },
+   {
+    "file": "04.jpg",
+    "alt": "Cartella a Mano Media_2_Aral.jpg",
+    "w": 1920,
+    "h": 1253,
+    "studio": true,
+    "frac": 0.313,
+    "rgb": [
+     43,
+     57,
+     62
+    ]
+   },
+   {
+    "file": "05.jpg",
+    "alt": "Cartella a Mano Media_3_Aral.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.258,
+    "rgb": [
+     52,
+     67,
+     72
+    ]
+   },
+   {
+    "file": "06.jpg",
+    "alt": "Cartella a Mano Media_4_Aral.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.278,
+    "rgb": [
+     57,
+     72,
+     77
+    ]
+   },
+   {
+    "file": "07.jpg",
+    "alt": "Cartella a Mano Media_Aral.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.334,
+    "rgb": [
+     51,
+     66,
+     71
+    ]
+   },
+   {
+    "file": "08.jpg",
+    "alt": "Cartella a Mano Piccola_1_Caramel.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.225,
+    "rgb": [
+     151,
+     126,
+     106
+    ]
+   },
+   {
+    "file": "09.jpg",
+    "alt": "Cartella a Mano Piccola_3_Caramel.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.124,
+    "rgb": [
+     149,
+     124,
+     104
+    ]
+   },
+   {
+    "file": "10.jpg",
+    "alt": "Cartella a Mano Piccola_Caramel.jpg",
+    "w": 1920,
+    "h": 1235,
+    "studio": true,
+    "frac": 0.231,
+    "rgb": [
+     147,
+     122,
+     102
+    ]
+   },
+   {
+    "file": "11.jpg",
+    "alt": "Cartella a Mano Grande_1_Carbon.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.299,
+    "rgb": [
+     39,
+     39,
+     39
+    ]
+   },
+   {
+    "file": "12.jpg",
+    "alt": "Cartella a Mano Grande_Carbon.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.371,
+    "rgb": [
+     29,
+     29,
+     29
+    ]
+   },
+   {
+    "file": "13.jpg",
+    "alt": "Cartella a Mano Grande_3_.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.194,
+    "rgb": [
+     62,
+     62,
+     62
+    ]
+   },
+   {
+    "file": "14.jpg",
+    "alt": "Cartella a Mano Grande_2_Carbon.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.361,
+    "rgb": [
+     33,
+     33,
+     33
+    ]
+   }
+  ]
+ },
+ "wall-street": {
+  "gender": "uomo",
+  "title": "Wall Street",
+  "desc_it": [
+   "Porta documenti piatto a mano, ispirato alle buste da lettere. La chiusura è in metallo a spadino che unisce forme più rigide a forme più morbide.",
+   "All’interno sono presenti due scomparti. L’intero modello è costruito a costa con fianco a soffietto."
+  ],
+  "desc_en": [
+   "Handmade flat document holder, inspired by envelopes. The metal clasp combines stiffer and softer shapes.",
+   "Inside it has two compartments. The entire model is constructed in the shape of a rib with a gusseted side."
+  ],
+  "images": [
+   {
+    "file": "00.png",
+    "alt": "10.png",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.229,
+    "rgb": [
+     39,
+     38,
+     39
+    ]
+   },
+   {
+    "file": "01.png",
+    "alt": "11.png",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.261,
+    "rgb": [
+     22,
+     21,
+     21
+    ]
+   },
+   {
+    "file": "02.png",
+    "alt": "12.png",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.276,
+    "rgb": [
+     28,
+     26,
+     29
+    ]
+   },
+   {
+    "file": "03.jpg",
+    "alt": "Busta a Mano_1_Carbon.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.122,
+    "rgb": [
+     74,
+     74,
+     74
+    ]
+   },
+   {
+    "file": "04.jpg",
+    "alt": "Busta a Mano_Frontale_Carbon.jpg",
+    "w": 1920,
+    "h": 1240,
+    "studio": true,
+    "frac": 0.232,
+    "rgb": [
+     42,
+     42,
+     42
+    ]
+   },
+   {
+    "file": "05.jpg",
+    "alt": "Busta a Mano_2_Carbon.jpg",
+    "w": 1920,
+    "h": 1256,
+    "studio": true,
+    "frac": 0.225,
+    "rgb": [
+     58,
+     58,
+     58
+    ]
+   },
+   {
+    "file": "06.jpg",
+    "alt": "Busta a Mano_3_Carbon.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.202,
+    "rgb": [
+     62,
+     62,
+     62
+    ]
+   }
+  ]
+ },
+ "mina": {
+  "gender": "donna",
+  "title": "Mina",
+  "desc_it": [
+   "Nasce dalla reinterpretazione del modello Timeless A in chiave di morbidezza e sensualità.",
+   "Le 2 chiusure a laccetti, il motivo a onda delle cuciture e delle tasche (interna ed esterna), i piedini di appoggio che proteggono il fondo della borsa, sono i dettagli che rievocano i codici classici di FM1915, che in questo nuovo modello si abbinano ad inediti tratti distintivi, come ad esempio, gli attacchi della maniglia e della tracolla interamente ricoperti in pelle e un laccetto con moschettone, presente all'interno, per poter chiudere e indossare la borsa evitando, eventualmente, i laccetti esterni.",
+   "Viene realizzata in diversi materiali e mix: vitello liscio, martellato, abbinato al canvas o ricoperto da una moltitudine di borchiette. Fodera in nappa e tracolla in pelle."
+  ],
+  "desc_en": [
+   "A completely new model that originates from a reinterpretation of the Timeless A with a take on softness and sensuality.",
+   "Details that evoke the distinctive features of FM1915: the two closures with straps, the wave pattern of the stitching and the interior and exterior pockets, and the feet that protect the bottom of the bag.",
+   "There are new features too, such as the leather-covered handle attachments and shoulder strap, and a strap with carabiner inside the bag so that it can be closed and worn without having to use the exterior straps.",
+   "Available in a single material, togo, or a bi-material, togo and natural canvas.",
+   "The bag is lined in nappa leather, whilst the shoulder strap is in fabric."
+  ],
+  "images": [
+   {
+    "file": "00.jpg",
+    "alt": "foto mina per sito SS 20253.jpg",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.262,
+    "rgb": [
+     188,
+     175,
+     157
+    ]
+   },
+   {
+    "file": "01.jpg",
+    "alt": "foto mina per sito SS 2025.jpg",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.127,
+    "rgb": [
+     187,
+     168,
+     152
+    ]
+   },
+   {
+    "file": "02.jpg",
+    "alt": "foto mina per sito SS 20252.jpg",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.126,
+    "rgb": [
+     186,
+     174,
+     147
+    ]
+   },
+   {
+    "file": "03.jpg",
+    "alt": "foto campagna per sito.jpg",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.266,
+    "rgb": [
+     96,
+     31,
+     58
+    ]
+   },
+   {
+    "file": "04.jpg",
+    "alt": "foto campagna per sito2.jpg",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.329,
+    "rgb": [
+     91,
+     27,
+     56
+    ]
+   },
+   {
+    "file": "05.jpg",
+    "alt": "foto campagna per sito3.jpg",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.331,
+    "rgb": [
+     94,
+     29,
+     58
+    ]
+   },
+   {
+    "file": "06.png",
+    "alt": "saddlesoft1",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.232,
+    "rgb": [
+     244,
+     150,
+     65
+    ]
+   },
+   {
+    "file": "07.png",
+    "alt": "saddlesoft2",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.24,
+    "rgb": [
+     248,
+     156,
+     78
+    ]
+   },
+   {
+    "file": "08.png",
+    "alt": "saddlesoft3",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.24,
+    "rgb": [
+     228,
+     186,
+     126
+    ]
+   },
+   {
+    "file": "09.png",
+    "alt": "saddlesoft4",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.234,
+    "rgb": [
+     227,
+     185,
+     125
+    ]
+   },
+   {
+    "file": "10.png",
+    "alt": "1.png",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.316,
+    "rgb": [
+     210,
+     163,
+     78
+    ]
+   },
+   {
+    "file": "11.png",
+    "alt": "2.png",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.265,
+    "rgb": [
+     215,
+     167,
+     83
+    ]
+   },
+   {
+    "file": "12.png",
+    "alt": "3.png",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.263,
+    "rgb": [
+     161,
+     129,
+     75
+    ]
+   },
+   {
+    "file": "13.png",
+    "alt": "4.png",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.247,
+    "rgb": [
+     194,
+     149,
+     67
+    ]
+   },
+   {
+    "file": "14.png",
+    "alt": "5.png",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.307,
+    "rgb": [
+     208,
+     163,
+     79
+    ]
+   },
+   {
+    "file": "15.jpg",
+    "alt": "20220922_fontana0378.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.267,
+    "rgb": [
+     89,
+     62,
+     47
+    ]
+   },
+   {
+    "file": "16.jpg",
+    "alt": "20220922_fontana0384.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.158,
+    "rgb": [
+     66,
+     45,
+     34
+    ]
+   },
+   {
+    "file": "17.jpg",
+    "alt": "20220922_fontana0390.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.289,
+    "rgb": [
+     92,
+     66,
+     51
+    ]
+   },
+   {
+    "file": "18.jpg",
+    "alt": "20220922_fontana0398.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.27,
+    "rgb": [
+     86,
+     64,
+     51
+    ]
+   },
+   {
+    "file": "19.jpg",
+    "alt": "20220922_fontana0502.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.133,
+    "rgb": [
+     161,
+     175,
+     173
+    ]
+   },
+   {
+    "file": "20.jpg",
+    "alt": "20220922_fontana0505.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.118,
+    "rgb": [
+     160,
+     174,
+     174
+    ]
+   },
+   {
+    "file": "21.jpg",
+    "alt": "20220922_fontana0511.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.117,
+    "rgb": [
+     142,
+     156,
+     156
+    ]
+   },
+   {
+    "file": "22.jpg",
+    "alt": "20220922_fontana0516.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.146,
+    "rgb": [
+     152,
+     166,
+     166
+    ]
+   },
+   {
+    "file": "23.jpg",
+    "alt": "20220922_fontana0523.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.125,
+    "rgb": [
+     160,
+     172,
+     170
+    ]
+   },
+   {
+    "file": "24.png",
+    "alt": "Mina_Cachemire_tela_Imperial_01.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.264,
+    "rgb": [
+     148,
+     15,
+     28
+    ]
+   },
+   {
+    "file": "25.png",
+    "alt": "Mina_Cachemire_tela_Imperial_02.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.241,
+    "rgb": [
+     153,
+     17,
+     29
+    ]
+   },
+   {
+    "file": "26.png",
+    "alt": "Mina_Belfiore_01.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.19,
+    "rgb": [
+     141,
+     137,
+     156
+    ]
+   }
+  ]
+ },
+ "wight": {
+  "gender": "donna",
+  "title": "WIGHT",
+  "desc_it": [
+   "Soft bag figlia dei figli dei fiori, prende il proprio nome dall’omonima isola del celebre Festival Rock, quando soffiavano forti i venti di libertà e le utopie degli anni’70. Dal mood libero e casual chic, è la borsa che più entra in empatia con la donna che la porta, adattandosi naturalmente alla sua silhouette."
+  ],
+  "desc_en": [
+   "A soft bag, the offspring of the children of the flower children, which takes its name from the island with the same name, famous for its Rock Festival, when the winds of freedom and the utopia of the 1970s blew strong. Free in spirit and casually chic, this is the bag that empathises most with the woman who wears it, adapting naturally to her figure."
+  ],
+  "images": [
+   {
+    "file": "00.png",
+    "alt": "togo-saddlesoft",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.227,
+    "rgb": [
+     52,
+     51,
+     51
+    ]
+   },
+   {
+    "file": "01.png",
+    "alt": "togo-saddlesoft2",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.235,
+    "rgb": [
+     57,
+     55,
+     56
+    ]
+   },
+   {
+    "file": "02.png",
+    "alt": "saddlesoft1",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.23,
+    "rgb": [
+     137,
+     88,
+     51
+    ]
+   },
+   {
+    "file": "03.png",
+    "alt": "saddlesoft2",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.236,
+    "rgb": [
+     134,
+     84,
+     47
+    ]
+   },
+   {
+    "file": "04.png",
+    "alt": "saddlesoft_miele-salvia",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.22,
+    "rgb": [
+     225,
+     185,
+     127
+    ]
+   },
+   {
+    "file": "05.png",
+    "alt": "saddlesoft_miele-salvia2",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.219,
+    "rgb": [
+     229,
+     197,
+     139
+    ]
+   },
+   {
+    "file": "06.jpg",
+    "alt": "wight_8706_Bis.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.295,
+    "rgb": [
+     151,
+     139,
+     123
+    ]
+   },
+   {
+    "file": "07.jpg",
+    "alt": "wight_8698_Bis.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.311,
+    "rgb": [
+     130,
+     117,
+     101
+    ]
+   },
+   {
+    "file": "08.jpg",
+    "alt": "wight_8702_Bis.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.258,
+    "rgb": [
+     149,
+     136,
+     120
+    ]
+   },
+   {
+    "file": "09.jpg",
+    "alt": "wight_8681_Bis.jpg",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.146,
+    "rgb": [
+     122,
+     115,
+     104
+    ]
+   },
+   {
+    "file": "10.jpg",
+    "alt": "wight_8686_Bis.jpg",
+    "w": 1920,
+    "h": 1268,
+    "studio": true,
+    "frac": 0.338,
+    "rgb": [
+     130,
+     118,
+     101
+    ]
+   },
+   {
+    "file": "11.jpg",
+    "alt": "20220922_fontana0012.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.233,
+    "rgb": [
+     176,
+     188,
+     187
+    ]
+   },
+   {
+    "file": "12.jpg",
+    "alt": "20220922_fontana0027.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.216,
+    "rgb": [
+     179,
+     191,
+     189
+    ]
+   },
+   {
+    "file": "13.jpg",
+    "alt": "20220922_fontana0015.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.22,
+    "rgb": [
+     173,
+     188,
+     187
+    ]
+   },
+   {
+    "file": "14.png",
+    "alt": "Wight_Cachemire_Imperial_02.png",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.255,
+    "rgb": [
+     165,
+     18,
+     33
+    ]
+   }
+  ]
+ },
+ "gallery": {
+  "gender": "donna",
+  "title": "Gallery",
+  "desc_it": [
+   "Gallery, milanese di nome e di fatto, ultima nata in casa Fontana Milano 1915 è il secchiello simbolo della nuova internazionalità dell'eleganza meneghina.",
+   "Le forme sinuose e armoniche e il gioco di lacci, tracolla e maniglia, si intersecano tra loro rievocando il mondo della selleria.",
+   "L’ispirazione al mondo equestre non si limita alla forme, ma si estende ai dettagli come l'anello attraverso il quale si inserisce il laccio di chiusura.",
+   "Gallery è versatile, può essere indossata sia con la sola maniglia, sia con la sola tracolla o con entrambe, e anche grazie alla rimovibilità dei suoi elementi si presta agevolmente alla vita in città.",
+   "Il vitello liscio del corpo borsa è a contrasto con il suede tono su tono dell’ermetta con zip e il suo interno in nappa è caratterizzato da una pratica pochette staccabile.",
+   "Gallery è disponibile in 4 taglie con preziose metallerie in oro chiaro o palladio lucido."
+  ],
+  "desc_en": [
+   "Gallery, Milanese in name and in fact, is the latest creation from Fontana Milano 1915, a bucket bag that symbolises the new international reach of the elegance of Milan.",
+   "Its curvaceous, harmonious lines and the interplay between the straps, shoulder strap and handle are reminiscent of the world of saddlery.",
+   "Its equestrian inspiration is not limited to the lines but extends to details such as the ring used to insert the fastener strap.",
+   "The versatile Gallery can be carried by either just the handle or the shoulder strap or both, and easily adjusts to life in the city due to the detachability of its elements.",
+   "The smooth calfskin of the body contrasts with the tone-on-tone suede recessed zip fastening, whilst its nappa interior features a practical, detachable clutch.",
+   "Gallery is available in four sizes, with exquisite metallic trim in light gold or shiny palladium."
+  ],
+  "images": [
+   {
+    "file": "00.png",
+    "alt": "togo-saddlesoft",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.178,
+    "rgb": [
+     47,
+     46,
+     46
+    ]
+   },
+   {
+    "file": "01.png",
+    "alt": "togo-saddlesoft2",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.183,
+    "rgb": [
+     51,
+     49,
+     50
+    ]
+   },
+   {
+    "file": "02.png",
+    "alt": "Gallery_Belfiore01",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.235,
+    "rgb": [
+     28,
+     64,
+     106
+    ]
+   },
+   {
+    "file": "03.png",
+    "alt": "Gallery_Belfiore02",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.235,
+    "rgb": [
+     36,
+     72,
+     116
+    ]
+   },
+   {
+    "file": "04.jpg",
+    "alt": "IMG_0038.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.199,
+    "rgb": [
+     120,
+     72,
+     45
+    ]
+   },
+   {
+    "file": "05.jpg",
+    "alt": "IMG_0040.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.185,
+    "rgb": [
+     103,
+     59,
+     33
+    ]
+   },
+   {
+    "file": "06.jpg",
+    "alt": "IMG_0047.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.205,
+    "rgb": [
+     105,
+     60,
+     29
+    ]
+   },
+   {
+    "file": "07.jpg",
+    "alt": "IMG_0049.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.252,
+    "rgb": [
+     109,
+     64,
+     39
+    ]
+   },
+   {
+    "file": "08.jpg",
+    "alt": "IMG_0054.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.17,
+    "rgb": [
+     113,
+     72,
+     49
+    ]
+   },
+   {
+    "file": "09.png",
+    "alt": "Gallery_Belfiore01",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.178,
+    "rgb": [
+     194,
+     177,
+     163
+    ]
+   },
+   {
+    "file": "10.jpg",
+    "alt": "IMG_0061.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.161,
+    "rgb": [
+     110,
+     116,
+     34
+    ]
+   },
+   {
+    "file": "11.jpg",
+    "alt": "IMG_0066.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.14,
+    "rgb": [
+     108,
+     114,
+     33
+    ]
+   },
+   {
+    "file": "12.jpg",
+    "alt": "IMG_0074.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.153,
+    "rgb": [
+     105,
+     115,
+     31
+    ]
+   },
+   {
+    "file": "13.jpg",
+    "alt": "IMG_0078.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.133,
+    "rgb": [
+     116,
+     124,
+     39
+    ]
+   },
+   {
+    "file": "14.jpg",
+    "alt": "IMG_0095.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.138,
+    "rgb": [
+     117,
+     119,
+     54
+    ]
+   }
+  ]
+ },
+ "tum-tum": {
+  "gender": "donna",
+  "title": "Tum Tum",
+  "desc_it": [
+   "Tum Tum come il suono del martello battuto dagli artigiani durante la lavorazione. Shopper verticale di rigore geometrico con una struttura classica declinata nella modernità delle linee e dei materiali."
+  ],
+  "desc_en": [
+   "Tum Tum, as in the sound of the hammer wielded by the craftsmen as they work. Upright shopper, strictly geometrical with a classic structure expressed in modern lines and materials."
+  ],
+  "images": [
+   {
+    "file": "00.jpg",
+    "alt": "TUMTUM_3.jpg",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.287,
+    "rgb": [
+     179,
+     153,
+     106
+    ]
+   },
+   {
+    "file": "01.jpg",
+    "alt": "TUMTUM_6.jpg",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.333,
+    "rgb": [
+     191,
+     168,
+     118
+    ]
+   },
+   {
+    "file": "02.png",
+    "alt": "TumTum_forest_01.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.228,
+    "rgb": [
+     49,
+     69,
+     54
+    ]
+   },
+   {
+    "file": "03.png",
+    "alt": "TumTum_forest_02.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.232,
+    "rgb": [
+     60,
+     78,
+     65
+    ]
+   },
+   {
+    "file": "04.png",
+    "alt": "TumTum_Belfiore_01.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.222,
+    "rgb": [
+     200,
+     155,
+     119
+    ]
+   },
+   {
+    "file": "05.png",
+    "alt": "TumTum_Belfiore_02.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.226,
+    "rgb": [
+     206,
+     158,
+     119
+    ]
+   },
+   {
+    "file": "06.png",
+    "alt": "TumTum_Toy_Belfiore_01.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.094,
+    "rgb": [
+     172,
+     160,
+     156
+    ]
+   },
+   {
+    "file": "07.png",
+    "alt": "TumTum_Toy_Belfiore_02.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.09,
+    "rgb": [
+     188,
+     172,
+     161
+    ]
+   }
+  ]
+ },
+ "aretha": {
+  "gender": "donna",
+  "title": "Aretha",
+  "desc_it": [
+   "Comoda, leggera, pratica. Con tracolla regolabile e chiusura girello che riproduce il logo Fontana Milano 1915",
+   "Adatta a tutti i i giorni e ad ogni momento della giornata, trae ispirazione dai dettagli e dalle forme della sella.",
+   "Presenta costruzione a costa e interno in nappa con tramezza centrale che crea due comparti con tasca a zip. Sulla tracolla sono applicate due fibbie che ne regolano l'ampiezza..",
+   "Disponibile in quattro taglie e in molteplici versioni: vitello liscio, borchiato o abbinato al tessuto o neoprene."
+  ],
+  "desc_en": [
+   "Comfortable, lightweight, everyday bag with adjustable shoulder strap and \"Fontana F logo\" turn lock closure. It recalls details and shapes of the saddle, source of inspiration for this model.",
+   "This new version of the Aretha has a ribbed construction and a central partition that creates two compartments and a zippered pocket. Two buckles are attached to the shoulder strap.",
+   "It is available in 4 sizes in multiple versions: with the Fabric or Neoprene combined with the smooth Romantic calfskin or in the new Polo calfskin both smooth and studded.",
+   "The lining is Nappa leather."
+  ],
+  "images": [
+   {
+    "file": "00.jpg",
+    "alt": "20220922_fontana0475.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.199,
+    "rgb": [
+     156,
+     155,
+     152
+    ]
+   },
+   {
+    "file": "01.jpg",
+    "alt": "20220922_fontana0478.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.181,
+    "rgb": [
+     167,
+     166,
+     161
+    ]
+   },
+   {
+    "file": "02.jpg",
+    "alt": "20220922_fontana0486.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.185,
+    "rgb": [
+     152,
+     150,
+     146
+    ]
+   },
+   {
+    "file": "03.jpg",
+    "alt": "20220922_fontana0493.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.141,
+    "rgb": [
+     168,
+     165,
+     160
+    ]
+   },
+   {
+    "file": "04.jpg",
+    "alt": "20220922_fontana0850.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.104,
+    "rgb": [
+     210,
+     186,
+     90
+    ]
+   },
+   {
+    "file": "05.jpg",
+    "alt": "20220922_fontana0853.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.104,
+    "rgb": [
+     209,
+     183,
+     91
+    ]
+   },
+   {
+    "file": "06.jpg",
+    "alt": "20220922_fontana0857.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.097,
+    "rgb": [
+     214,
+     188,
+     95
+    ]
+   },
+   {
+    "file": "07.jpg",
+    "alt": "20220922_fontana0540.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.095,
+    "rgb": [
+     169,
+     180,
+     178
+    ]
+   },
+   {
+    "file": "08.jpg",
+    "alt": "20220922_fontana0546.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.067,
+    "rgb": [
+     161,
+     174,
+     173
+    ]
+   },
+   {
+    "file": "09.jpg",
+    "alt": "20220922_fontana0530.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.104,
+    "rgb": [
+     165,
+     178,
+     178
+    ]
+   },
+   {
+    "file": "10.jpg",
+    "alt": "20220922_fontana0660.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.126,
+    "rgb": [
+     37,
+     35,
+     33
+    ]
+   },
+   {
+    "file": "11.jpg",
+    "alt": "20220922_fontana0663.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.169,
+    "rgb": [
+     67,
+     64,
+     58
+    ]
+   },
+   {
+    "file": "12.jpg",
+    "alt": "20220922_fontana0666.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.157,
+    "rgb": [
+     41,
+     40,
+     37
+    ]
+   },
+   {
+    "file": "13.jpg",
+    "alt": "20220922_fontana0670.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.047,
+    "rgb": [
+     34,
+     32,
+     32
+    ]
+   },
+   {
+    "file": "14.jpg",
+    "alt": "20220922_fontana0674.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.106,
+    "rgb": [
+     81,
+     80,
+     79
+    ]
+   },
+   {
+    "file": "15.jpg",
+    "alt": "20220922_fontana0579.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.25,
+    "rgb": [
+     21,
+     34,
+     74
+    ]
+   },
+   {
+    "file": "16.jpg",
+    "alt": "20220922_fontana0582.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.171,
+    "rgb": [
+     28,
+     54,
+     71
+    ]
+   },
+   {
+    "file": "17.jpg",
+    "alt": "20220922_fontana0585.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.062,
+    "rgb": [
+     27,
+     34,
+     34
+    ]
+   },
+   {
+    "file": "18.jpg",
+    "alt": "20220922_fontana0588.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.249,
+    "rgb": [
+     17,
+     36,
+     69
+    ]
+   },
+   {
+    "file": "19.jpg",
+    "alt": "20220922_fontana0593.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.132,
+    "rgb": [
+     55,
+     66,
+     97
+    ]
+   }
+  ]
+ },
+ "chelsea": {
+  "gender": "donna",
+  "title": "Chelsea",
+  "desc_it": [
+   "Chelsea: un nome che è sinonimo di eleganza internazionale per la borsa a spalla progettata a partire dall'idea di bisaccia e poi sviluppata affinché si adattasse, nel modo più naturale possibile, alla silhouette di ogni donna di charme.",
+   "Pratica e assai leggera, forme morbide e curve sensuali. Chelsea, si presta ad un uso quotidiano e non manca mai di esprimere, in ogni genere di occasione, la sua elevata femminilità.",
+   "Welcome to Chelsea!"
+  ],
+  "desc_en": [
+   "Chelsea: A name synonymous with international elegance for the shoulder bag that is inspired by the saddlebag but designed to fit as naturally as possible to the figure of any sophisticated woman.",
+   "It is practical, very light, softly shaped with sensual curves.",
+   "Perfect for everyday use, Chelsea never fails to convey its highly feminine style on any occasion.",
+   "Welcome to Chelsea!"
+  ],
+  "images": [
+   {
+    "file": "00.png",
+    "alt": "1.png",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.191,
+    "rgb": [
+     80,
+     79,
+     79
+    ]
+   },
+   {
+    "file": "01.png",
+    "alt": "2.png",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.206,
+    "rgb": [
+     70,
+     66,
+     65
+    ]
+   },
+   {
+    "file": "02.png",
+    "alt": "4.png",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.138,
+    "rgb": [
+     226,
+     162,
+     65
+    ]
+   },
+   {
+    "file": "03.png",
+    "alt": "5.png",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.12,
+    "rgb": [
+     213,
+     144,
+     25
+    ]
+   },
+   {
+    "file": "04.png",
+    "alt": "saddlesoft_uva-miele",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.202,
+    "rgb": [
+     123,
+     58,
+     65
+    ]
+   },
+   {
+    "file": "05.png",
+    "alt": "saddlesoft_uva-miele2",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.211,
+    "rgb": [
+     130,
+     70,
+     76
+    ]
+   },
+   {
+    "file": "06.png",
+    "alt": "saddlesoft_miele-uva",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.199,
+    "rgb": [
+     229,
+     188,
+     128
+    ]
+   },
+   {
+    "file": "07.png",
+    "alt": "saddlesoft_miele-uva2",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.197,
+    "rgb": [
+     227,
+     185,
+     125
+    ]
+   },
+   {
+    "file": "08.jpg",
+    "alt": "02_0023.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.223,
+    "rgb": [
+     75,
+     80,
+     96
+    ]
+   },
+   {
+    "file": "09.jpg",
+    "alt": "04_0053.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.219,
+    "rgb": [
+     61,
+     64,
+     78
+    ]
+   },
+   {
+    "file": "10.jpg",
+    "alt": "03_0029.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.27,
+    "rgb": [
+     106,
+     112,
+     128
+    ]
+   },
+   {
+    "file": "11.jpg",
+    "alt": "08_0044 .jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.315,
+    "rgb": [
+     84,
+     87,
+     102
+    ]
+   },
+   {
+    "file": "12.png",
+    "alt": "Chelsea_Media_Belfiore1",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.216,
+    "rgb": [
+     139,
+     137,
+     153
+    ]
+   },
+   {
+    "file": "13.png",
+    "alt": "Chelsea_Media_Belfiore2",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.205,
+    "rgb": [
+     144,
+     142,
+     160
+    ]
+   },
+   {
+    "file": "14.png",
+    "alt": "Chelsea_Media_Cachemire1",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.215,
+    "rgb": [
+     217,
+     186,
+     150
+    ]
+   },
+   {
+    "file": "15.png",
+    "alt": "Chelsea_Media_Cachemire2",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.195,
+    "rgb": [
+     217,
+     182,
+     141
+    ]
+   },
+   {
+    "file": "16.png",
+    "alt": "Chelsea_Piccola_Cachemire01",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.136,
+    "rgb": [
+     226,
+     164,
+     103
+    ]
+   },
+   {
+    "file": "17.png",
+    "alt": "Chelsea_Piccola_Cachemire01",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.125,
+    "rgb": [
+     222,
+     162,
+     103
+    ]
+   },
+   {
+    "file": "18.png",
+    "alt": "Chelsea_Piccola_Cachemire_01",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.133,
+    "rgb": [
+     196,
+     180,
+     165
+    ]
+   },
+   {
+    "file": "19.png",
+    "alt": "Chelsea_Piccola_Cachemire_02",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.135,
+    "rgb": [
+     187,
+     170,
+     157
+    ]
+   },
+   {
+    "file": "20.png",
+    "alt": "Chelsea_Toy_Cachemire01",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.1,
+    "rgb": [
+     167,
+     20,
+     34
+    ]
+   },
+   {
+    "file": "21.png",
+    "alt": "Chelsea_Toy_Cachemire01",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.099,
+    "rgb": [
+     172,
+     27,
+     38
+    ]
+   },
+   {
+    "file": "22.png",
+    "alt": "Chelsea_Toy_Cachemire_01",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.09,
+    "rgb": [
+     199,
+     179,
+     166
+    ]
+   },
+   {
+    "file": "23.png",
+    "alt": "Chelsea_Toy_Cachemire_02",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.097,
+    "rgb": [
+     198,
+     178,
+     164
+    ]
+   },
+   {
+    "file": "24.jpg",
+    "alt": "Chelsea_Media_fw23_01",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.205,
+    "rgb": [
+     84,
+     81,
+     82
+    ]
+   },
+   {
+    "file": "25.jpg",
+    "alt": "Chelsea_Media_fw23_03",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.161,
+    "rgb": [
+     80,
+     77,
+     74
+    ]
+   },
+   {
+    "file": "26.jpg",
+    "alt": "Chelsea_Media_fw23_04",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.082,
+    "rgb": [
+     91,
+     86,
+     86
+    ]
+   }
+  ]
+ },
+ "noemi": {
+  "gender": "donna",
+  "title": "Noemi",
+  "desc_it": [
+   "Una interpretazione verticale della borsa Mina sempre con tracolla, disponibile in quattro misure. Un modello totalmente nuovo che nasce dalla reinterpretazione del Timeless A in chiave morbidezza. Dettagli che rievocano i codici di FM1915: le 2 chiusure con laccetti, il motivo a onda delle cuciture e delle tasche, sia interna che esterna, e i piedini di appoggio che proteggono il fondo della borsa. Nuovi tratti distintivi: gli attacchi della maniglia e della tracolla interamente ricoperti in pelle e un laccetto con moschettone, presente all’interno, per poter chiudere e indossare la borsa evitando, eventualmente, i laccetti esterni. La fodera è in nappa e la tracolla in pelle. Data la costruzione rovesciata con filetto, questo modello può essere realizzato solo con pellami morbidi come togo e shaking box."
+  ],
+  "desc_en": [
+   "A vertical interpretation of the Mina bag, with shoulder strap, available in four sizes. A totally new model that comes from the reinterpretation of the Timeless A in a soft key. The details that evoke the FM1915 codes are: the two closures with straps, the wave pattern of the stitching and of the interior and exterior pockets, and the four feet that protect the bottom of the bag. There are new features too, such as the leather-covered handle attachments and shoulder strap, and a strap with carabiner inside the bag so that it can be closed and worn without having to use the exterior straps. The lining is in nappa leather, whilst the shoulder strap is in fabric. Since its construction is turned inside out with piping, this model can only be made with soft leathers such as togo or shaking box."
+  ],
+  "images": [
+   {
+    "file": "00.png",
+    "alt": "1.png",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.282,
+    "rgb": [
+     187,
+     167,
+     144
+    ]
+   },
+   {
+    "file": "01.png",
+    "alt": "2.png",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.313,
+    "rgb": [
+     196,
+     176,
+     152
+    ]
+   },
+   {
+    "file": "02.png",
+    "alt": "3.png",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.216,
+    "rgb": [
+     156,
+     136,
+     113
+    ]
+   },
+   {
+    "file": "03.png",
+    "alt": "4.png",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.217,
+    "rgb": [
+     188,
+     168,
+     147
+    ]
+   },
+   {
+    "file": "04.png",
+    "alt": "5.png",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.159,
+    "rgb": [
+     164,
+     146,
+     126
+    ]
+   },
+   {
+    "file": "05.png",
+    "alt": "6.png",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.215,
+    "rgb": [
+     179,
+     159,
+     136
+    ]
+   },
+   {
+    "file": "06.png",
+    "alt": "Noemi_Cachemire_Jaune_01.png",
+    "w": 794,
+    "h": 529,
+    "studio": true,
+    "frac": 0.237,
+    "rgb": [
+     196,
+     149,
+     105
+    ]
+   },
+   {
+    "file": "07.png",
+    "alt": "Noemi_Cachemire_Jaune_04.png",
+    "w": 794,
+    "h": 529,
+    "studio": true,
+    "frac": 0.257,
+    "rgb": [
+     201,
+     150,
+     101
+    ]
+   },
+   {
+    "file": "08.jpg",
+    "alt": "Noemi Verticale Toy_1_Aral_Stone.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.206,
+    "rgb": [
+     55,
+     70,
+     75
+    ]
+   },
+   {
+    "file": "09.jpg",
+    "alt": "Noemi Verticale Toy_Frontale_Aral_Stone.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.209,
+    "rgb": [
+     51,
+     66,
+     71
+    ]
+   },
+   {
+    "file": "10.jpg",
+    "alt": "Noemi Verticale Toy_2_Aral_Stone.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.282,
+    "rgb": [
+     51,
+     64,
+     69
+    ]
+   },
+   {
+    "file": "11.jpg",
+    "alt": "Noemi Verticale Toy_3_Aral_Stone.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.199,
+    "rgb": [
+     57,
+     72,
+     76
+    ]
+   },
+   {
+    "file": "12.jpg",
+    "alt": "Noemi Verticale Toy_4_Aral_Stone.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.142,
+    "rgb": [
+     58,
+     72,
+     77
+    ]
+   }
+  ]
+ },
+ "key-west": {
+  "gender": "donna",
+  "title": "Key West",
+  "desc_it": [
+   "La borsa a tracolla Key West, pratica e leggera, esalta naturalmente la femminilità e si adatta ad ogni occasione.",
+   "Design essenziale, pellame di pregio e due catene gioiello (una all'interno e l'altra sulla tracolla) per un modello speciale, che ambisce al ruolo di nuova icona di eleganza contemporanea.",
+   "La catena all’interno consente di inserire un porta chiavi, un porta carte o qualsivoglia piccolo oggetto, mentre la catena degradè permette di indossare la borsa sia a spalla sia crossbody, consentendo l'adattabilità perfetta a look e funzione d'uso.",
+   "Le linearità delle forme, arricchita dalla sofisticata bombatura sulla patella e sul corpo borsa e la chiusura a F, che riproduce il logo realizzato da Giò Pomodoro, ne sanciscono in maniera inconfondibile l'autenticità."
+  ],
+  "desc_en": [
+   "The practical, lightweight Key West crossbody bag naturally enhances a woman’s femininity and adapts to any occasion.",
+   "This special model with its understated design, fine leather and two jewel chain straps (one inside and the other on the shoulder strap), aims to be a new icon of modern-day elegance.",
+   "The interior chain allows you to add a key case, a card holder or any other small item, while the degradé chain allows you to wear the bag over the shoulder or crossbody, adapting effortlessly to the desired look and functionality.",
+   "Its linear form, enhanced by the elegant curvature of the flap and the body, as well as the F-shaped fastener replicating the logo created by Giò Pomodoro, unmistakably stamp the authenticity of the bag."
+  ],
+  "images": [
+   {
+    "file": "00.jpg",
+    "alt": "Key west certosa blu/bianca",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.099,
+    "rgb": [
+     59,
+     71,
+     103
+    ]
+   },
+   {
+    "file": "01.jpg",
+    "alt": "Key west certosa blu/bianca2",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.218,
+    "rgb": [
+     41,
+     56,
+     95
+    ]
+   },
+   {
+    "file": "02.jpg",
+    "alt": "foto wey west per sito SS 2025.jpg",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.177,
+    "rgb": [
+     192,
+     178,
+     160
+    ]
+   },
+   {
+    "file": "03.jpg",
+    "alt": "foto wey west per sito SS 20252.jpg",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.199,
+    "rgb": [
+     194,
+     180,
+     160
+    ]
+   },
+   {
+    "file": "04.jpg",
+    "alt": "foto wey west per sito SS 20253.jpg",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.171,
+    "rgb": [
+     201,
+     186,
+     164
+    ]
+   },
+   {
+    "file": "05.jpg",
+    "alt": "foto wey west per sito SS 20254.jpg",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.21,
+    "rgb": [
+     210,
+     191,
+     165
+    ]
+   },
+   {
+    "file": "06.jpg",
+    "alt": "foto wey west per sito SS 20255.jpg",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.17,
+    "rgb": [
+     205,
+     191,
+     173
+    ]
+   },
+   {
+    "file": "07.jpg",
+    "alt": "foto wey west per sito SS 20256.jpg",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.153,
+    "rgb": [
+     204,
+     188,
+     169
+    ]
+   },
+   {
+    "file": "08.jpg",
+    "alt": "foto wey west per sito SS 20257.jpg",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.152,
+    "rgb": [
+     202,
+     182,
+     160
+    ]
+   },
+   {
+    "file": "09.jpg",
+    "alt": "foto wey west per sito SS 20258.jpg",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.187,
+    "rgb": [
+     204,
+     178,
+     158
+    ]
+   },
+   {
+    "file": "10.jpg",
+    "alt": "foto wey west per sito SS 20259.jpg",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.148,
+    "rgb": [
+     190,
+     178,
+     160
+    ]
+   },
+   {
+    "file": "11.jpg",
+    "alt": "foto wey west per sito SS 202510.jpg",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.172,
+    "rgb": [
+     188,
+     175,
+     154
+    ]
+   },
+   {
+    "file": "12.jpg",
+    "alt": "foto wey west per sito SS 202511.jpg",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.155,
+    "rgb": [
+     194,
+     179,
+     163
+    ]
+   },
+   {
+    "file": "13.jpg",
+    "alt": "foto wey west per sito SS 202512.jpg",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.168,
+    "rgb": [
+     198,
+     187,
+     169
+    ]
+   },
+   {
+    "file": "14.jpg",
+    "alt": "foto wey west per sito SS 202513.jpg",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.193,
+    "rgb": [
+     40,
+     46,
+     80
+    ]
+   },
+   {
+    "file": "15.jpg",
+    "alt": "foto wey west per sito SS 202514.jpg",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.161,
+    "rgb": [
+     36,
+     51,
+     81
+    ]
+   },
+   {
+    "file": "16.jpg",
+    "alt": "foto wey west per sito SS 202515.jpg",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.149,
+    "rgb": [
+     44,
+     47,
+     81
+    ]
+   },
+   {
+    "file": "17.jpg",
+    "alt": "foto wey west per sito SS 202516.jpg",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.172,
+    "rgb": [
+     59,
+     54,
+     82
+    ]
+   },
+   {
+    "file": "18.jpg",
+    "alt": "foto wey west per sito SS 202517.jpg",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.185,
+    "rgb": [
+     61,
+     80,
+     64
+    ]
+   },
+   {
+    "file": "19.jpg",
+    "alt": "foto wey west per sito SS 202518.jpg",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.188,
+    "rgb": [
+     43,
+     77,
+     56
+    ]
+   },
+   {
+    "file": "20.jpg",
+    "alt": "foto wey west per sito SS 202519.jpg",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.152,
+    "rgb": [
+     67,
+     86,
+     66
+    ]
+   },
+   {
+    "file": "21.jpg",
+    "alt": "foto wey west per sito SS 202520.jpg",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.182,
+    "rgb": [
+     49,
+     80,
+     55
+    ]
+   },
+   {
+    "file": "22.jpg",
+    "alt": "foto wey west per sito SS 202521.jpg",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.156,
+    "rgb": [
+     217,
+     186,
+     57
+    ]
+   },
+   {
+    "file": "23.jpg",
+    "alt": "foto wey west per sito SS 202522.jpg",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.186,
+    "rgb": [
+     223,
+     194,
+     72
+    ]
+   },
+   {
+    "file": "24.jpg",
+    "alt": "foto wey west per sito SS 202525.jpg",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.204,
+    "rgb": [
+     48,
+     57,
+     85
+    ]
+   },
+   {
+    "file": "25.jpg",
+    "alt": "foto wey west per sito SS 202526.jpg",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.187,
+    "rgb": [
+     46,
+     56,
+     83
+    ]
+   },
+   {
+    "file": "26.jpg",
+    "alt": "foto wey west per sito SS 202527.jpg",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.158,
+    "rgb": [
+     51,
+     62,
+     87
+    ]
+   },
+   {
+    "file": "27.jpg",
+    "alt": "foto wey west per sito SS 202528.jpg",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.187,
+    "rgb": [
+     50,
+     61,
+     87
+    ]
+   },
+   {
+    "file": "28.jpg",
+    "alt": "foto wey west per sito SS 202529.jpg",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.192,
+    "rgb": [
+     53,
+     81,
+     60
+    ]
+   },
+   {
+    "file": "29.jpg",
+    "alt": "foto wey west per sito SS 202530.jpg",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.178,
+    "rgb": [
+     40,
+     76,
+     56
+    ]
+   },
+   {
+    "file": "30.jpg",
+    "alt": "foto wey west per sito SS 202531.jpg",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.154,
+    "rgb": [
+     59,
+     86,
+     66
+    ]
+   },
+   {
+    "file": "31.jpg",
+    "alt": "foto wey west per sito SS 202532.jpg",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.168,
+    "rgb": [
+     48,
+     78,
+     57
+    ]
+   },
+   {
+    "file": "32.jpg",
+    "alt": "foto campagna per sito4.jpg",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.111,
+    "rgb": [
+     62,
+     64,
+     63
+    ]
+   },
+   {
+    "file": "33.jpg",
+    "alt": "foto campagna per sito5.jpg",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.094,
+    "rgb": [
+     69,
+     70,
+     68
+    ]
+   },
+   {
+    "file": "34.jpg",
+    "alt": "foto campagna per sito6.jpg",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.222,
+    "rgb": [
+     90,
+     76,
+     77
+    ]
+   },
+   {
+    "file": "35.png",
+    "alt": "34.png",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.105,
+    "rgb": [
+     134,
+     80,
+     103
+    ]
+   },
+   {
+    "file": "36.png",
+    "alt": "35.png",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.211,
+    "rgb": [
+     106,
+     51,
+     80
+    ]
+   },
+   {
+    "file": "37.png",
+    "alt": "1.png",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.161,
+    "rgb": [
+     233,
+     191,
+     132
+    ]
+   },
+   {
+    "file": "38.png",
+    "alt": "2.png",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.139,
+    "rgb": [
+     156,
+     152,
+     134
+    ]
+   },
+   {
+    "file": "39.png",
+    "alt": "3.png",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.135,
+    "rgb": [
+     222,
+     184,
+     132
+    ]
+   },
+   {
+    "file": "40.png",
+    "alt": "4.png",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.132,
+    "rgb": [
+     197,
+     190,
+     160
+    ]
+   },
+   {
+    "file": "41.png",
+    "alt": "5.png",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.192,
+    "rgb": [
+     226,
+     186,
+     128
+    ]
+   },
+   {
+    "file": "42.png",
+    "alt": "6.png",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.195,
+    "rgb": [
+     230,
+     188,
+     129
+    ]
+   },
+   {
+    "file": "43.png",
+    "alt": "7.png",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.167,
+    "rgb": [
+     228,
+     154,
+     116
+    ]
+   },
+   {
+    "file": "44.png",
+    "alt": "8.png",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.216,
+    "rgb": [
+     233,
+     158,
+     105
+    ]
+   },
+   {
+    "file": "45.png",
+    "alt": "9.png",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.183,
+    "rgb": [
+     128,
+     59,
+     64
+    ]
+   },
+   {
+    "file": "46.png",
+    "alt": "10.png",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.24,
+    "rgb": [
+     146,
+     85,
+     81
+    ]
+   },
+   {
+    "file": "47.png",
+    "alt": "vele-azalea",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.16,
+    "rgb": [
+     160,
+     42,
+     133
+    ]
+   },
+   {
+    "file": "48.png",
+    "alt": "vele-azalea2",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.156,
+    "rgb": [
+     167,
+     57,
+     136
+    ]
+   },
+   {
+    "file": "49.png",
+    "alt": "vele-blu",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.181,
+    "rgb": [
+     17,
+     86,
+     137
+    ]
+   },
+   {
+    "file": "50.png",
+    "alt": "vele-blu2",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.171,
+    "rgb": [
+     54,
+     108,
+     156
+    ]
+   },
+   {
+    "file": "51.png",
+    "alt": "vele-tela_porcellana",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.142,
+    "rgb": [
+     215,
+     201,
+     182
+    ]
+   },
+   {
+    "file": "52.png",
+    "alt": "vele-tela_porcellana2",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.156,
+    "rgb": [
+     206,
+     193,
+     171
+    ]
+   },
+   {
+    "file": "53.png",
+    "alt": "vele-tela_blunavy",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.192,
+    "rgb": [
+     206,
+     191,
+     174
+    ]
+   },
+   {
+    "file": "54.png",
+    "alt": "vele-tela_blunavy2",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.223,
+    "rgb": [
+     200,
+     184,
+     165
+    ]
+   },
+   {
+    "file": "55.png",
+    "alt": "vele-tela_cuoio",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.204,
+    "rgb": [
+     203,
+     188,
+     167
+    ]
+   },
+   {
+    "file": "56.png",
+    "alt": "vele_tela-cuoio2",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.188,
+    "rgb": [
+     204,
+     192,
+     174
+    ]
+   }
+  ]
+ },
+ "trebbia-26": {
+  "gender": "donna",
+  "title": "Trebbia 26",
+  "desc_it": [
+   "Nomen Omen. Trebbia 26 è in un certo senso testimonial di se stessa, deve il suo nome all’indirizzo della sede e del workshop Fontana Milano 1915 e racchiude in se alcuni degli elementi cardine dello stile unico della maison. Il design trae ispirazione dalla cartella classica, reinterpretata con un twist in chiave contemporanea, e arricchita dalla chiusura con fibbia/scultura “F” che l’artista Giò Pomodoro creò espressamente per FM1915.",
+   "La costruzione è rigida, caratterizzata da una lavorazione a costa trattata e tinta a mano e i 2 o 3 soffietti dividono comodamente l’interno in nappa o in morbido suede cachemire.",
+   "Nella taglia Media la tracolla è rigida e bombata, la cui forma scultorea ad arco consente di indossare la borsa a spalla, rendendo questo modello un classico intramontabile.",
+   "Nella taglia Mini, invece, la maniglia si inserisce delicatamente nel ‘do’ della patella tramite due asole ‘a vivo’ e, a completare questa borsa speciale, la sottile tracollina è regolabile ed eventualmente staccabile con gemelli."
+  ],
+  "desc_en": [
+   "Nomen Omen, the name is a sign. In a sense, Trebbia 26 speaks for itself since it is named after the address of the Fontana Milano 1915 headquarters and workshop, and features several of the key elements of the unique style of the company. Inspired by the classic satchel, the bag has been redesigned with a contemporary twist and enhanced by the “F” buckle/sculpture closure specifically created for FM1915 by artist Giò Pomodoro.",
+   "The rigid, ribbed structure has been treated and dyed by hand and the roomy napa or soft suedecashmere interior is divided by two or three gussets.",
+   "In the Medium size, the shoulder strap is rigid and rounded. Its sculptural, arched shape allows the bag to be worn over the shoulder, making this model a timeless classic.",
+   "On the Mini size, on the other hand, the handle is gracefully inserted through 2 raw-edged slits on the curve of the flap, and completing this special bag the slim shoulder strap is adjustable and, if desired, detachable via buttons studs."
+  ],
+  "images": [
+   {
+    "file": "00.jpg",
+    "alt": "foto trebbia per sito koto 2025.jpg",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.136,
+    "rgb": [
+     167,
+     158,
+     132
+    ]
+   },
+   {
+    "file": "01.jpg",
+    "alt": "foto trebbia per sito koto 20252.jpg",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.144,
+    "rgb": [
+     153,
+     145,
+     116
+    ]
+   },
+   {
+    "file": "02.jpg",
+    "alt": "foto trebbia per sito koto 20253.jpg",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.143,
+    "rgb": [
+     177,
+     168,
+     138
+    ]
+   },
+   {
+    "file": "03.jpg",
+    "alt": "foto trebbia per sito koto 20254.jpg",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.136,
+    "rgb": [
+     169,
+     158,
+     136
+    ]
+   },
+   {
+    "file": "04.jpg",
+    "alt": "foto trebbia per sito koto 20255.jpg",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.144,
+    "rgb": [
+     155,
+     145,
+     120
+    ]
+   },
+   {
+    "file": "05.jpg",
+    "alt": "foto trebbia per sito koto 20256.jpg",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.143,
+    "rgb": [
+     177,
+     168,
+     139
+    ]
+   },
+   {
+    "file": "06.jpg",
+    "alt": "foto trebbia per sito koto 20257.jpg",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.148,
+    "rgb": [
+     175,
+     159,
+     13
+    ]
+   },
+   {
+    "file": "07.jpg",
+    "alt": "foto trebbia per sito koto 20258.jpg",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.166,
+    "rgb": [
+     184,
+     166,
+     7
+    ]
+   },
+   {
+    "file": "08.jpg",
+    "alt": "foto trebbia per sito koto 20259.jpg",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.156,
+    "rgb": [
+     177,
+     162,
+     16
+    ]
+   },
+   {
+    "file": "09.jpg",
+    "alt": "foto trebbia per sito koto 202510.jpg",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.149,
+    "rgb": [
+     161,
+     31,
+     53
+    ]
+   },
+   {
+    "file": "10.jpg",
+    "alt": "foto trebbia per sito koto 202511.jpg",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.163,
+    "rgb": [
+     181,
+     16,
+     41
+    ]
+   },
+   {
+    "file": "11.jpg",
+    "alt": "foto trebbia per sito koto 202512.jpg",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.157,
+    "rgb": [
+     167,
+     27,
+     48
+    ]
+   },
+   {
+    "file": "12.jpg",
+    "alt": "foto trebbia per sito SS 2025.jpg",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.182,
+    "rgb": [
+     217,
+     186,
+     63
+    ]
+   },
+   {
+    "file": "13.jpg",
+    "alt": "foto trebbia per sito SS 20252.jpg",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.167,
+    "rgb": [
+     33,
+     49,
+     36
+    ]
+   },
+   {
+    "file": "14.jpg",
+    "alt": "foto trebbia per sito SS 20253.jpg",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.161,
+    "rgb": [
+     214,
+     205,
+     197
+    ]
+   },
+   {
+    "file": "15.jpg",
+    "alt": "foto trebbia per sito SS 20255.jpg",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.135,
+    "rgb": [
+     219,
+     55,
+     46
+    ]
+   },
+   {
+    "file": "16.jpg",
+    "alt": "foto trebbia per sito SS 20256.jpg",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.128,
+    "rgb": [
+     48,
+     54,
+     84
+    ]
+   },
+   {
+    "file": "17.jpg",
+    "alt": "foto trebbia per sito SS 20257.jpg",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.123,
+    "rgb": [
+     114,
+     116,
+     126
+    ]
+   },
+   {
+    "file": "18.jpg",
+    "alt": "foto trebbia per sito SS 20258.jpg",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.131,
+    "rgb": [
+     112,
+     118,
+     113
+    ]
+   },
+   {
+    "file": "19.jpg",
+    "alt": "foto campagna per sito12.jpg",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.127,
+    "rgb": [
+     66,
+     66,
+     66
+    ]
+   },
+   {
+    "file": "20.jpg",
+    "alt": "foto campagna per sito13.jpg",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.124,
+    "rgb": [
+     64,
+     64,
+     64
+    ]
+   },
+   {
+    "file": "21.jpg",
+    "alt": "foto campagna per sito14.jpg",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.108,
+    "rgb": [
+     70,
+     70,
+     70
+    ]
+   },
+   {
+    "file": "22.png",
+    "alt": "19.png",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.128,
+    "rgb": [
+     53,
+     66,
+     98
+    ]
+   },
+   {
+    "file": "23.png",
+    "alt": "20.png",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.128,
+    "rgb": [
+     40,
+     51,
+     85
+    ]
+   },
+   {
+    "file": "24.png",
+    "alt": "21.png",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.137,
+    "rgb": [
+     120,
+     61,
+     88
+    ]
+   },
+   {
+    "file": "25.png",
+    "alt": "22.png",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.135,
+    "rgb": [
+     117,
+     57,
+     86
+    ]
+   },
+   {
+    "file": "26.png",
+    "alt": "23.png",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.112,
+    "rgb": [
+     104,
+     112,
+     42
+    ]
+   },
+   {
+    "file": "27.jpg",
+    "alt": "foto campagna per sito10.jpg",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.087,
+    "rgb": [
+     85,
+     98,
+     21
+    ]
+   },
+   {
+    "file": "28.jpg",
+    "alt": "foto campagna per sito11.jpg",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.108,
+    "rgb": [
+     78,
+     88,
+     14
+    ]
+   }
+  ]
+ },
+ "a": {
+  "gender": "donna",
+  "title": "A",
+  "desc_it": [
+   "A, prima lettera dell’alfabeto e primo modello timeless di FONTANA MILANO 1915. A come atipica, autentica, affascinante. A come amatissima dalle celebrities di ogni parte del globo. Femminile ma essenziale, minimale ma strutturata, quasi una cartella da città dall’eleganza senza tempo, visivamente accattivante, ha per unico vezzo un’ampia tasca interna con briglia."
+  ],
+  "desc_en": [
+   "A, the first letter of the alphabet and the first timeless model of FONTANA MILANO 1915. A as in atypical, authentic, attractive. A as in adored by celebrities from all over the world. Feminine but fundamental, minimal but structured, almost a city briefcase due to its timeless elegance and visual appeal, its distinguishing feature is a large interior pocket with a bridle strap"
+  ],
+  "images": [
+   {
+    "file": "00.jpg",
+    "alt": "foto A per sito koto 2025.jpg",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.263,
+    "rgb": [
+     169,
+     33,
+     48
+    ]
+   },
+   {
+    "file": "01.jpg",
+    "alt": "foto A per sito koto 20252.jpg",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.175,
+    "rgb": [
+     176,
+     53,
+     63
+    ]
+   },
+   {
+    "file": "02.jpg",
+    "alt": "foto A per sito koto 20253.jpg",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.232,
+    "rgb": [
+     163,
+     26,
+     37
+    ]
+   },
+   {
+    "file": "03.jpg",
+    "alt": "foto A per sito koto 20254.jpg",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.243,
+    "rgb": [
+     198,
+     191,
+     163
+    ]
+   },
+   {
+    "file": "04.jpg",
+    "alt": "foto A per sito koto 20255.jpg",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.155,
+    "rgb": [
+     196,
+     186,
+     159
+    ]
+   },
+   {
+    "file": "05.jpg",
+    "alt": "foto A per sito koto 20256.jpg",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.212,
+    "rgb": [
+     189,
+     177,
+     151
+    ]
+   },
+   {
+    "file": "06.jpg",
+    "alt": "foto A per sito koto 202510.jpg",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.266,
+    "rgb": [
+     81,
+     28,
+     89
+    ]
+   },
+   {
+    "file": "07.jpg",
+    "alt": "foto A per sito koto 202511.jpg",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.176,
+    "rgb": [
+     98,
+     44,
+     112
+    ]
+   },
+   {
+    "file": "08.jpg",
+    "alt": "foto A per sito koto 202512.jpg",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.236,
+    "rgb": [
+     89,
+     28,
+     98
+    ]
+   },
+   {
+    "file": "09.jpg",
+    "alt": "foto A per sito SS 2025.jpg",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.22,
+    "rgb": [
+     37,
+     53,
+     40
+    ]
+   },
+   {
+    "file": "10.jpg",
+    "alt": "foto A per sito SS 20252.jpg",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.197,
+    "rgb": [
+     199,
+     186,
+     174
+    ]
+   },
+   {
+    "file": "11.jpg",
+    "alt": "foto A per sito SS 20253.jpg",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.234,
+    "rgb": [
+     176,
+     164,
+     144
+    ]
+   },
+   {
+    "file": "12.jpg",
+    "alt": "foto A per sito SS 20254.jpg",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.234,
+    "rgb": [
+     178,
+     170,
+     159
+    ]
+   },
+   {
+    "file": "13.jpg",
+    "alt": "foto A per sito SS 20255.jpg",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.223,
+    "rgb": [
+     184,
+     169,
+     152
+    ]
+   },
+   {
+    "file": "14.png",
+    "alt": "11.png",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.158,
+    "rgb": [
+     123,
+     60,
+     89
+    ]
+   },
+   {
+    "file": "15.png",
+    "alt": "10.png",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.173,
+    "rgb": [
+     108,
+     45,
+     74
+    ]
+   },
+   {
+    "file": "16.png",
+    "alt": "12.png",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.178,
+    "rgb": [
+     119,
+     49,
+     83
+    ]
+   },
+   {
+    "file": "17.png",
+    "alt": "7.png",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.205,
+    "rgb": [
+     94,
+     101,
+     32
+    ]
+   },
+   {
+    "file": "18.png",
+    "alt": "8.png",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.183,
+    "rgb": [
+     100,
+     106,
+     43
+    ]
+   },
+   {
+    "file": "19.png",
+    "alt": "9.png",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.19,
+    "rgb": [
+     97,
+     104,
+     37
+    ]
+   },
+   {
+    "file": "20.png",
+    "alt": "1.png",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.279,
+    "rgb": [
+     194,
+     192,
+     164
+    ]
+   },
+   {
+    "file": "21.png",
+    "alt": "2.png",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.276,
+    "rgb": [
+     195,
+     194,
+     164
+    ]
+   },
+   {
+    "file": "22.png",
+    "alt": "3.png",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.214,
+    "rgb": [
+     221,
+     180,
+     120
+    ]
+   },
+   {
+    "file": "23.png",
+    "alt": "4.png",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.206,
+    "rgb": [
+     220,
+     178,
+     119
+    ]
+   },
+   {
+    "file": "24.png",
+    "alt": "5.png",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.217,
+    "rgb": [
+     44,
+     65,
+     124
+    ]
+   },
+   {
+    "file": "25.png",
+    "alt": "6.png",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.225,
+    "rgb": [
+     48,
+     62,
+     139
+    ]
+   },
+   {
+    "file": "26.png",
+    "alt": "A_Lady_Belfiore",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.248,
+    "rgb": [
+     184,
+     146,
+     69
+    ]
+   },
+   {
+    "file": "27.png",
+    "alt": "A_Lady_Belfiore2",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.242,
+    "rgb": [
+     199,
+     161,
+     76
+    ]
+   },
+   {
+    "file": "28.jpg",
+    "alt": "A_Lady_fw23_01",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.259,
+    "rgb": [
+     72,
+     63,
+     60
+    ]
+   },
+   {
+    "file": "29.jpg",
+    "alt": "A_Lady_fw23_02",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.267,
+    "rgb": [
+     73,
+     64,
+     61
+    ]
+   },
+   {
+    "file": "30.jpg",
+    "alt": "A_Lady_fw23_03",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.158,
+    "rgb": [
+     67,
+     59,
+     57
+    ]
+   },
+   {
+    "file": "31.jpg",
+    "alt": "A_Lady_fw23_04",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.089,
+    "rgb": [
+     75,
+     68,
+     65
+    ]
+   },
+   {
+    "file": "32.jpg",
+    "alt": "A_Toy_fw23_01",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.114,
+    "rgb": [
+     85,
+     70,
+     65
+    ]
+   },
+   {
+    "file": "33.jpg",
+    "alt": "A_Toy_fw23_02",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.093,
+    "rgb": [
+     86,
+     74,
+     70
+    ]
+   },
+   {
+    "file": "34.jpg",
+    "alt": "A_Toy_fw23_03",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.106,
+    "rgb": [
+     79,
+     69,
+     67
+    ]
+   },
+   {
+    "file": "35.jpg",
+    "alt": "A_8803_Bis.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.349,
+    "rgb": [
+     57,
+     65,
+     112
+    ]
+   },
+   {
+    "file": "36.jpg",
+    "alt": "A_8784_Bis.jpg",
+    "w": 1920,
+    "h": 1283,
+    "studio": true,
+    "frac": 0.318,
+    "rgb": [
+     65,
+     72,
+     129
+    ]
+   },
+   {
+    "file": "37.jpg",
+    "alt": "A_8797_bis.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.37,
+    "rgb": [
+     59,
+     67,
+     119
+    ]
+   },
+   {
+    "file": "38.jpg",
+    "alt": "A_8793_Bis 1200x848.jpg",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.144,
+    "rgb": [
+     42,
+     48,
+     81
+    ]
+   }
+  ]
+ },
+ "mini-lucky": {
+  "gender": "donna",
+  "title": "Darling",
+  "desc_it": [
+   "Darling di nome e di fatto: piccola, leggera e soprattutto pratica, da portare sempre con sé in molteplici occasioni, sia di giorno sia di sera.",
+   "Dalle forme geometriche ed essenziali, impreziosita da dettagli in corno e dalla catena-gioiello che adempie alla funzione di chiusura.",
+   "Darling è realizzata in pregiati pellami, dal coccodrillo allo struzzo, dal minuzioso lizard al morbidissimo suede cachemire.",
+   "Infine, la tracolla si compone, da un lato, in pelle (di lunghezza regolabile) a contrasto rispetto al corpo borsa e, dall’altro, da una catena-gioiello con 2 T-bar che permettono sia di avere 2 lunghezze diverse della tracolla e sia di agganciare un piccolo oggetto.",
+   "Darling, un gioiello di borsa, che accompagna con stile, ogni giornata della donna di stile."
+  ],
+  "desc_en": [
+   "Darling in name and in fact: small, light and above all practical, for wearing on multiple occasions during both the day and evening.",
+   "Coming in geometric and streamlined shapes, it is embellished with horn details and a jewel-chain that serves as the clasp.",
+   "Darling is made of precious leathers, including crocodile, ostrich, fine-grained lizard and the softest cashmere suede.",
+   "Lastly, one end of the shoulder strap is made of leather (with adjustable length) that contrasts with the body of the bag whilst the other end is a jewel-chain featuring 2 T-bars that allows you to adjust the shoulder strap to two different lengths as well as attach a small object.",
+   "Darling, a jewel of a bag, which accompanies each day of the stylish woman with style."
+  ],
+  "images": [
+   {
+    "file": "00.jpg",
+    "alt": "foto darling per sito7.jpg",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.238,
+    "rgb": [
+     140,
+     79,
+     12
+    ]
+   },
+   {
+    "file": "01.jpg",
+    "alt": "foto darling per sito5.jpg",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.247,
+    "rgb": [
+     141,
+     78,
+     13
+    ]
+   },
+   {
+    "file": "02.jpg",
+    "alt": "foto darling per sito.jpg",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.062,
+    "rgb": [
+     162,
+     154,
+     140
+    ]
+   },
+   {
+    "file": "03.jpg",
+    "alt": "foto darling per sito2.jpg",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.065,
+    "rgb": [
+     162,
+     146,
+     136
+    ]
+   },
+   {
+    "file": "04.jpg",
+    "alt": "foto darling per sito3.jpg",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.063,
+    "rgb": [
+     152,
+     117,
+     111
+    ]
+   },
+   {
+    "file": "05.jpg",
+    "alt": "foto darling per sito8.jpg",
+    "w": 1200,
+    "h": 848,
+    "studio": false,
+    "frac": 0.986,
+    "rgb": [
+     148,
+     85,
+     18
+    ]
+   },
+   {
+    "file": "06.jpg",
+    "alt": "foto darling per sito9.jpg",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.671,
+    "rgb": [
+     131,
+     73,
+     7
+    ]
+   },
+   {
+    "file": "07.jpg",
+    "alt": "foto darling per sito10.jpg",
+    "w": 1200,
+    "h": 848,
+    "studio": false,
+    "frac": 0.981,
+    "rgb": [
+     142,
+     79,
+     11
+    ]
+   },
+   {
+    "file": "08.jpg",
+    "alt": "foto darling colorate per sito.jpg",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.246,
+    "rgb": [
+     40,
+     23,
+     139
+    ]
+   },
+   {
+    "file": "09.jpg",
+    "alt": "foto darling colorate per sito2.jpg",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.236,
+    "rgb": [
+     46,
+     38,
+     137
+    ]
+   },
+   {
+    "file": "10.jpg",
+    "alt": "foto darling colorate per sito3.jpg",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.228,
+    "rgb": [
+     67,
+     53,
+     168
+    ]
+   },
+   {
+    "file": "11.jpg",
+    "alt": "foto darling colorate per sito4.jpg",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.23,
+    "rgb": [
+     186,
+     23,
+     27
+    ]
+   },
+   {
+    "file": "12.jpg",
+    "alt": "foto darling colorate per sito5.jpg",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.242,
+    "rgb": [
+     198,
+     30,
+     23
+    ]
+   },
+   {
+    "file": "13.jpg",
+    "alt": "foto darling colorate per sito6.jpg",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.244,
+    "rgb": [
+     193,
+     40,
+     37
+    ]
+   },
+   {
+    "file": "14.jpg",
+    "alt": "foto darling colorate per sito7.jpg",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.241,
+    "rgb": [
+     49,
+     72,
+     57
+    ]
+   },
+   {
+    "file": "15.jpg",
+    "alt": "foto darling colorate per sito8.jpg",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.241,
+    "rgb": [
+     60,
+     88,
+     67
+    ]
+   },
+   {
+    "file": "16.jpg",
+    "alt": "foto darling colorate per sito9.jpg",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.149,
+    "rgb": [
+     213,
+     206,
+     194
+    ]
+   },
+   {
+    "file": "17.jpg",
+    "alt": "foto darling colorate per sito10.jpg",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.239,
+    "rgb": [
+     119,
+     22,
+     68
+    ]
+   },
+   {
+    "file": "18.jpg",
+    "alt": "foto darling colorate per sito11.jpg",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.235,
+    "rgb": [
+     121,
+     43,
+     77
+    ]
+   }
+  ]
+ },
+ "lulli": {
+  "gender": "donna",
+  "title": "Lulli",
+  "desc_it": [
+   "Nuovo modello Timeless di Fontana Milano 1915: classico e strutturato, rivisitato in chiave contemporanea.",
+   "Le linee pulite ed essenziali esaltano la chiusura F di Giò Pomodoro.",
+   "Connotata da un'estrema cura nei dettagli, come la lavorazione della costa fatta a mano e dell'anello ricoperto, si indossa sia a spalla che a tracolla grazie al doppio anello della maniglia.",
+   "Realizzata in vitello liscio con 2 soffietti divisori in nappa."
+  ],
+  "desc_en": [
+   "Lulli, the new Timeless model from Fontana Milano 1915, is a classic, structured bag that has been reinterpreted with a more modern look.",
+   "The clean, minimalist lines accentuate the F closure by Giò Pomodoro.",
+   "Distinctive for its great attention to the details such as the handmade ribbing and the leather-covered ring, it can be worn over the shoulder or crossbody thanks to the double handle rings where the shoulder strap can also be attached.",
+   "Made in smooth calfskin with two compartments in nappa."
+  ],
+  "images": [
+   {
+    "file": "00.jpg",
+    "alt": "foto campagna per sito7.jpg",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.221,
+    "rgb": [
+     13,
+     20,
+     44
+    ]
+   },
+   {
+    "file": "01.jpg",
+    "alt": "foto campagna per sito8.jpg",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.137,
+    "rgb": [
+     42,
+     54,
+     87
+    ]
+   },
+   {
+    "file": "02.png",
+    "alt": "30.png",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.22,
+    "rgb": [
+     101,
+     109,
+     40
+    ]
+   },
+   {
+    "file": "03.png",
+    "alt": "33.png",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.225,
+    "rgb": [
+     100,
+     107,
+     39
+    ]
+   },
+   {
+    "file": "04.jpg",
+    "alt": "Lulli Media_Aral.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.211,
+    "rgb": [
+     48,
+     63,
+     68
+    ]
+   },
+   {
+    "file": "05.jpg",
+    "alt": "Lulli Media_Ikat.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.226,
+    "rgb": [
+     78,
+     48,
+     58
+    ]
+   },
+   {
+    "file": "06.jpg",
+    "alt": "Lulli Media_Scarlett.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.211,
+    "rgb": [
+     132,
+     27,
+     29
+    ]
+   },
+   {
+    "file": "07.jpg",
+    "alt": "Lulli Media_4_Aral.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.183,
+    "rgb": [
+     53,
+     66,
+     71
+    ]
+   },
+   {
+    "file": "08.jpg",
+    "alt": "Lulli Media_1_Aral.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.181,
+    "rgb": [
+     49,
+     64,
+     69
+    ]
+   },
+   {
+    "file": "09.jpg",
+    "alt": "Lulli Media_2_Aral.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.057,
+    "rgb": [
+     65,
+     78,
+     82
+    ]
+   },
+   {
+    "file": "10.jpg",
+    "alt": "Lulli Media_3_Aral.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.128,
+    "rgb": [
+     67,
+     81,
+     85
+    ]
+   },
+   {
+    "file": "11.jpg",
+    "alt": "Lulli grande_Champagne_A.jpg",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.178,
+    "rgb": [
+     183,
+     174,
+     165
+    ]
+   },
+   {
+    "file": "12.jpg",
+    "alt": "Lulli grande_Champagne_B.jpg",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.175,
+    "rgb": [
+     187,
+     178,
+     169
+    ]
+   },
+   {
+    "file": "13.jpg",
+    "alt": "Lulli grande_Champagne_C.jpg",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.166,
+    "rgb": [
+     186,
+     177,
+     168
+    ]
+   }
+  ]
+ },
+ "milano": {
+  "gender": "donna",
+  "title": "Milano",
+  "desc_it": [
+   "Milano is made in Milano. Come dire nome e imprinting per la nuova shopping bag strutturata e genderless, dalla forma lineare e rigorosa, di Fontana Milano 1915.",
+   "Pratica e capiente, comoda per l'uso quotidiano, perfetta sempre: sia per lavoro, sia per il tempo libero, o per entrambi.",
+   "Si porta a mano agevolmente e, grazie ai colori intensi e brillanti del vitello liscio, dona ad ogni look un originalissimo tocco di charme.",
+   "La chiusura sia a zip che con i 2 laccetti, si presenta in 3 taglie, con una variante impreziosita da rivetti lungo i bordi.",
+   "Milano, sancisce l'appartenenza ad una città con una spiccata vocazione all’internazionalità e allo stile."
+  ],
+  "desc_en": [
+   "Milano is made in Milan. That is to say, it is the name and the imprinting on the new structured, genderless shopping bag from Fontana Milano 1915, characterised by its strict, linear lines.",
+   "Practical, roomy, and comfortable for everyday use, it is always perfect, either for work or leisure or for both.",
+   "It is comfortably carried by hand, and the intense, bright colours of the smooth calfskin lend a very original touch of charm to any look.",
+   "The bag is fastened either with a zip or the two straps, and comes in three sizes together with a version that is trimmed with rivets along the edges.",
+   "Milano shows that you belong to a city that is distinguished for its international outlook and style."
+  ],
+  "images": [
+   {
+    "file": "00.jpg",
+    "alt": "IMG_0036.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.246,
+    "rgb": [
+     33,
+     53,
+     113
+    ]
+   },
+   {
+    "file": "01.png",
+    "alt": "IMG_0006.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.213,
+    "rgb": [
+     35,
+     57,
+     112
+    ]
+   },
+   {
+    "file": "02.jpg",
+    "alt": "IMG_0024.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.183,
+    "rgb": [
+     38,
+     63,
+     129
+    ]
+   },
+   {
+    "file": "03.jpg",
+    "alt": "IMG_0099.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.197,
+    "rgb": [
+     38,
+     57,
+     123
+    ]
+   },
+   {
+    "file": "04.jpg",
+    "alt": "2.jpg",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.236,
+    "rgb": [
+     114,
+     73,
+     62
+    ]
+   },
+   {
+    "file": "05.jpg",
+    "alt": "1.jpg",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.227,
+    "rgb": [
+     30,
+     55,
+     58
+    ]
+   },
+   {
+    "file": "06.png",
+    "alt": "IMG_0085.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.166,
+    "rgb": [
+     175,
+     16,
+     35
+    ]
+   },
+   {
+    "file": "07.png",
+    "alt": "IMG_0081.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.083,
+    "rgb": [
+     167,
+     25,
+     40
+    ]
+   },
+   {
+    "file": "08.jpg",
+    "alt": "IMG_0082.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.131,
+    "rgb": [
+     174,
+     8,
+     32
+    ]
+   },
+   {
+    "file": "09.png",
+    "alt": "Milano_Belfiore_01",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.155,
+    "rgb": [
+     135,
+     132,
+     149
+    ]
+   },
+   {
+    "file": "10.png",
+    "alt": "Milano_Belfiore_02",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.155,
+    "rgb": [
+     122,
+     119,
+     136
+    ]
+   },
+   {
+    "file": "11.png",
+    "alt": "Milano_Belfiore_Toy_01",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.095,
+    "rgb": [
+     187,
+     166,
+     148
+    ]
+   },
+   {
+    "file": "12.png",
+    "alt": "Milano_Belfiore_Toy_01",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.105,
+    "rgb": [
+     186,
+     157,
+     126
+    ]
+   }
+  ]
+ },
+ "mimosa": {
+  "gender": "donna",
+  "title": "Mimosa",
+  "desc_it": [
+   "Mimosa è l’handbag compatta, morbida e capiente, che porta impresso il segno della storia: la chiusura metallica che riproduce il logo di FONTANA MILANO 1915, creato da Giò Pomodoro negli anni’80. Le forme sinuose della borsa creano un contrappunto armonico con le altrettanto sinuose linee della chiusura a F e donano all’oggetto un’eleganza formale dal carattere deciso."
+  ],
+  "desc_en": [
+   "Mimosa is the compact, soft and generous handbag imprinted with history: the metal closure that replicates the logo of FONTANA MILANO 1915, created by Giò Pomodoro in the 1980s. The sinuous shapes of the bag create a harmonious counterpoint to the equally sinuous lines of the F-shaped closure and lend it a bold, formal elegance."
+  ],
+  "images": [
+   {
+    "file": "00.jpg",
+    "alt": "mimosa_8709.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.327,
+    "rgb": [
+     127,
+     76,
+     60
+    ]
+   },
+   {
+    "file": "01.jpg",
+    "alt": "mimosa_8721 1200x848.jpg",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.175,
+    "rgb": [
+     111,
+     68,
+     52
+    ]
+   },
+   {
+    "file": "02.jpg",
+    "alt": "mimosa_8715.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.255,
+    "rgb": [
+     135,
+     79,
+     62
+    ]
+   },
+   {
+    "file": "03.jpg",
+    "alt": "mimosa_8716.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.286,
+    "rgb": [
+     130,
+     75,
+     60
+    ]
+   },
+   {
+    "file": "04.jpg",
+    "alt": "1.png",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.253,
+    "rgb": [
+     66,
+     79,
+     65
+    ]
+   },
+   {
+    "file": "05.jpg",
+    "alt": "1.png",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.106,
+    "rgb": [
+     66,
+     78,
+     63
+    ]
+   },
+   {
+    "file": "06.jpg",
+    "alt": "1.png",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.286,
+    "rgb": [
+     67,
+     77,
+     66
+    ]
+   },
+   {
+    "file": "07.png",
+    "alt": "1.png",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.196,
+    "rgb": [
+     45,
+     42,
+     43
+    ]
+   },
+   {
+    "file": "08.png",
+    "alt": "3.png",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.088,
+    "rgb": [
+     62,
+     62,
+     66
+    ]
+   },
+   {
+    "file": "09.png",
+    "alt": "2.png",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.199,
+    "rgb": [
+     31,
+     31,
+     34
+    ]
+   }
+  ]
+ },
+ "mymosa": {
+  "gender": "donna",
+  "title": "MYMOSA",
+  "desc_it": [
+   "Morbida e destrutturata, Mymosa, reinterpreta il Timeless Mimosa in chiave contemporanea mantenendo le linee sinuose del modello da cui trae ispirazione. Leggera e pratica con chiusura a F, è caratterizzata dalla bordatura sul corpo borsa."
+  ],
+  "desc_en": [
+   "Soft and destructured, Mymosa is a modern reinterpretation of the Timeless Mimosa bag but retains the same sinuous and feminine lines of the model that inspired it.Light, practical and featuring the F closure, it is distinguished by the edging on the body of the bag."
+  ],
+  "images": [
+   {
+    "file": "00.jpg",
+    "alt": "foto mymosa per sito koto 2025.jpg",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.316,
+    "rgb": [
+     74,
+     24,
+     94
+    ]
+   },
+   {
+    "file": "01.jpg",
+    "alt": "foto mymosa per sito koto 20252.jpg",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.173,
+    "rgb": [
+     96,
+     50,
+     119
+    ]
+   },
+   {
+    "file": "02.jpg",
+    "alt": "foto mymosa per sito koto 20253.jpg",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.286,
+    "rgb": [
+     70,
+     22,
+     94
+    ]
+   },
+   {
+    "file": "03.jpg",
+    "alt": "foto mymosa per sito koto 20254.jpg",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.309,
+    "rgb": [
+     197,
+     180,
+     18
+    ]
+   },
+   {
+    "file": "04.jpg",
+    "alt": "foto mymosa per sito koto 20255.jpg",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.281,
+    "rgb": [
+     194,
+     180,
+     16
+    ]
+   },
+   {
+    "file": "05.png",
+    "alt": "26.png",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.256,
+    "rgb": [
+     39,
+     45,
+     76
+    ]
+   },
+   {
+    "file": "06.png",
+    "alt": "27.png",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.256,
+    "rgb": [
+     35,
+     46,
+     81
+    ]
+   },
+   {
+    "file": "07.png",
+    "alt": "28.png",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.257,
+    "rgb": [
+     198,
+     135,
+     25
+    ]
+   },
+   {
+    "file": "08.png",
+    "alt": "29.png",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.268,
+    "rgb": [
+     181,
+     114,
+     13
+    ]
+   },
+   {
+    "file": "09.png",
+    "alt": "1.png",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.198,
+    "rgb": [
+     159,
+     55,
+     128
+    ]
+   },
+   {
+    "file": "10.png",
+    "alt": "2.png",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.189,
+    "rgb": [
+     155,
+     51,
+     131
+    ]
+   },
+   {
+    "file": "11.png",
+    "alt": "5.png",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.194,
+    "rgb": [
+     164,
+     62,
+     136
+    ]
+   },
+   {
+    "file": "12.png",
+    "alt": "3.png",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.195,
+    "rgb": [
+     147,
+     153,
+     28
+    ]
+   },
+   {
+    "file": "13.png",
+    "alt": "4.png",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.203,
+    "rgb": [
+     143,
+     150,
+     18
+    ]
+   },
+   {
+    "file": "14.png",
+    "alt": "6.png",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.218,
+    "rgb": [
+     155,
+     163,
+     43
+    ]
+   },
+   {
+    "file": "15.png",
+    "alt": "7.png",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.226,
+    "rgb": [
+     200,
+     185,
+     163
+    ]
+   },
+   {
+    "file": "16.png",
+    "alt": "8.png",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.233,
+    "rgb": [
+     199,
+     186,
+     161
+    ]
+   },
+   {
+    "file": "17.png",
+    "alt": "9.png",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.246,
+    "rgb": [
+     184,
+     175,
+     160
+    ]
+   },
+   {
+    "file": "18.png",
+    "alt": "10.png",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.225,
+    "rgb": [
+     180,
+     162,
+     137
+    ]
+   },
+   {
+    "file": "19.png",
+    "alt": "11.png",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.222,
+    "rgb": [
+     189,
+     175,
+     149
+    ]
+   },
+   {
+    "file": "20.png",
+    "alt": "12.png",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.248,
+    "rgb": [
+     193,
+     165,
+     136
+    ]
+   },
+   {
+    "file": "21.png",
+    "alt": "Cachemire_ Mymosa_01.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.288,
+    "rgb": [
+     171,
+     151,
+     128
+    ]
+   },
+   {
+    "file": "22.png",
+    "alt": "Cachemire_ Mymosa_02.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.27,
+    "rgb": [
+     165,
+     144,
+     119
+    ]
+   },
+   {
+    "file": "23.png",
+    "alt": "Cachemire_ Mymosa_01_.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.269,
+    "rgb": [
+     191,
+     182,
+     158
+    ]
+   },
+   {
+    "file": "24.png",
+    "alt": "Cachemire_ Mymosa_02_",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.265,
+    "rgb": [
+     190,
+     184,
+     158
+    ]
+   },
+   {
+    "file": "25.png",
+    "alt": "Mymosa_Elephant_Cachemire_02.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.218,
+    "rgb": [
+     155,
+     146,
+     137
+    ]
+   },
+   {
+    "file": "26.png",
+    "alt": "Mymosa_Elephant_Cachemire_01.jpg",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.207,
+    "rgb": [
+     154,
+     145,
+     136
+    ]
+   },
+   {
+    "file": "27.png",
+    "alt": "Cachemire_ Mymosa_01__",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.236,
+    "rgb": [
+     100,
+     100,
+     97
+    ]
+   },
+   {
+    "file": "28.png",
+    "alt": "Cachemire_ Mymosa_02__",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.232,
+    "rgb": [
+     78,
+     82,
+     84
+    ]
+   },
+   {
+    "file": "29.png",
+    "alt": "Cachemire_ Mymosa_03__",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.215,
+    "rgb": [
+     158,
+     97,
+     74
+    ]
+   },
+   {
+    "file": "30.png",
+    "alt": "Cachemire_ Mymosa_04__",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.222,
+    "rgb": [
+     147,
+     89,
+     64
+    ]
+   },
+   {
+    "file": "31.png",
+    "alt": "Cachemire_ Mymosa_05__",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.218,
+    "rgb": [
+     158,
+     10,
+     29
+    ]
+   }
+  ]
+ },
+ "mini-a": {
+  "gender": "donna",
+  "title": "mini a",
+  "desc_it": [
+   "La Mini A rappresenta un’evoluzione del modello A, mantenendo la stessa linearità e funzionalità così come alcuni dettagli come le metallerie e la chiusura.",
+   "Fontana Milano 1915 reinterpreta la pochette tradizionale, tenendo conto delle nuove esigenze sociali e tecnologiche.",
+   "Una soluzione essenziale, con due tasche per i-phone, progettata per soddisfare le esigenze minimal di donne urbane e dinamiche e perfetta sia da giorno che da sera."
+  ],
+  "desc_en": [
+   "It is an evolution of the model A, retains the same linearity and functionality, as well as some details like the closure and metals.",
+   "It is compressed to create a smaller and more compact clutch, designed to carry either by day or night, by hand or shoulder."
+  ],
+  "images": [
+   {
+    "file": "00.jpg",
+    "alt": "foto MINI A per sito 20254.jpg",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.126,
+    "rgb": [
+     88,
+     21,
+     104
+    ]
+   },
+   {
+    "file": "01.jpg",
+    "alt": "foto MINI A per sito 20255.jpg",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.122,
+    "rgb": [
+     96,
+     30,
+     106
+    ]
+   },
+   {
+    "file": "02.jpg",
+    "alt": "foto MINI A per sito 20256.jpg",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.095,
+    "rgb": [
+     90,
+     44,
+     96
+    ]
+   },
+   {
+    "file": "03.jpg",
+    "alt": "foto MINI A per sito 20257.jpg",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.131,
+    "rgb": [
+     191,
+     174,
+     8
+    ]
+   },
+   {
+    "file": "04.jpg",
+    "alt": "foto MINI A per sito 20258.jpg",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.116,
+    "rgb": [
+     190,
+     175,
+     9
+    ]
+   },
+   {
+    "file": "05.jpg",
+    "alt": "foto MINI A per sito 20259.jpg",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.092,
+    "rgb": [
+     169,
+     155,
+     27
+    ]
+   },
+   {
+    "file": "06.jpg",
+    "alt": "foto MINI A per sito 2025.jpg",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.136,
+    "rgb": [
+     39,
+     39,
+     39
+    ]
+   },
+   {
+    "file": "07.jpg",
+    "alt": "foto MINI A per sito 20252.jpg",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.121,
+    "rgb": [
+     39,
+     38,
+     38
+    ]
+   },
+   {
+    "file": "08.jpg",
+    "alt": "foto MINI A per sito 20253.jpg",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.102,
+    "rgb": [
+     64,
+     64,
+     62
+    ]
+   },
+   {
+    "file": "09.png",
+    "alt": "saddlesoft1",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.128,
+    "rgb": [
+     252,
+     160,
+     70
+    ]
+   },
+   {
+    "file": "10.png",
+    "alt": "saddlesoft2",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.121,
+    "rgb": [
+     239,
+     144,
+     64
+    ]
+   },
+   {
+    "file": "11.png",
+    "alt": "togo-saddlesoft",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.144,
+    "rgb": [
+     40,
+     58,
+     133
+    ]
+   },
+   {
+    "file": "12.png",
+    "alt": "togo-saddlesoft2",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.152,
+    "rgb": [
+     49,
+     63,
+     135
+    ]
+   },
+   {
+    "file": "13.png",
+    "alt": "MiniA_Belfiore_05",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.146,
+    "rgb": [
+     169,
+     150,
+     131
+    ]
+   },
+   {
+    "file": "14.png",
+    "alt": "MiniA_Belfiore_06",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.139,
+    "rgb": [
+     180,
+     161,
+     143
+    ]
+   },
+   {
+    "file": "15.png",
+    "alt": "MiniA_Belfiore_01",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.143,
+    "rgb": [
+     182,
+     161,
+     141
+    ]
+   },
+   {
+    "file": "16.png",
+    "alt": "MiniA_Belfiore_02",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.144,
+    "rgb": [
+     176,
+     156,
+     136
+    ]
+   },
+   {
+    "file": "17.png",
+    "alt": "MiniA_Belfiore_03",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.143,
+    "rgb": [
+     196,
+     182,
+     156
+    ]
+   },
+   {
+    "file": "18.png",
+    "alt": "MiniA_Belfiore_04",
+    "w": 1920,
+    "h": 1280,
+    "studio": true,
+    "frac": 0.142,
+    "rgb": [
+     196,
+     182,
+     155
+    ]
+   },
+   {
+    "file": "19.png",
+    "alt": "1.png",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.128,
+    "rgb": [
+     213,
+     201,
+     192
+    ]
+   },
+   {
+    "file": "20.png",
+    "alt": "6.png",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.067,
+    "rgb": [
+     167,
+     152,
+     139
+    ]
+   },
+   {
+    "file": "21.png",
+    "alt": "7.png",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.129,
+    "rgb": [
+     216,
+     205,
+     196
+    ]
+   },
+   {
+    "file": "22.png",
+    "alt": "5.png",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.114,
+    "rgb": [
+     75,
+     79,
+     56
+    ]
+   },
+   {
+    "file": "23.png",
+    "alt": "3.png",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.159,
+    "rgb": [
+     128,
+     74,
+     48
+    ]
+   },
+   {
+    "file": "24.png",
+    "alt": "4.png",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.107,
+    "rgb": [
+     213,
+     201,
+     192
+    ]
+   },
+   {
+    "file": "25.png",
+    "alt": "8.png",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.068,
+    "rgb": [
+     197,
+     185,
+     174
+    ]
+   },
+   {
+    "file": "26.png",
+    "alt": "9.png",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.142,
+    "rgb": [
+     209,
+     198,
+     188
+    ]
+   },
+   {
+    "file": "27.png",
+    "alt": "2.png",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.152,
+    "rgb": [
+     81,
+     72,
+     44
+    ]
+   }
+  ]
+ },
+ "angie": {
+  "gender": "donna",
+  "title": "Angie",
+  "desc_it": [
+   "Angie è la bowling bag di Fontana Milano 1915.",
+   "Un modello dalla forma strutturata e sofisticata, dai dettagli unici (il design della tracolla ad esempio, è una rivisitazione della briglia da equitazione), connotato come sempre dai codici classici della maison: come le caratteristiche cuciture sellier e la distintiva chiusura ad F che riproduce il celebre logo realizzato da Giò Pomodoro e che insieme alla ricercatezza dei pellami utilizzati donano al manufatto quell'eleganza, oltre i confini del tempo e delle mode, che è il tratto distintivo dello stile Fontana Milano 1915."
+  ],
+  "desc_en": [
+   "Angie is the bowling bag model created by Fontana Milano 1915.",
+   "Its structured and sophisticated shape, with unique details (such as the shoulder strap, which is a reinterpretation of a horse’s bridle), and distinguished as always by the maison’s classic design touches, as the saddle seams and the distinctive F-shaped fastener replicating the famous logo created by Giò Pomodoro, as well as the fine leathers used, confer the bag with the timeless, enduring elegance that is the hallmark of the Fontana Milano 1915 style."
+  ],
+  "images": [
+   {
+    "file": "00.png",
+    "alt": "1.png",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.276,
+    "rgb": [
+     226,
+     184,
+     123
+    ]
+   },
+   {
+    "file": "01.png",
+    "alt": "2.png",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.311,
+    "rgb": [
+     221,
+     180,
+     120
+    ]
+   },
+   {
+    "file": "02.png",
+    "alt": "3.png",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.145,
+    "rgb": [
+     197,
+     157,
+     106
+    ]
+   },
+   {
+    "file": "03.png",
+    "alt": "4.png",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.329,
+    "rgb": [
+     225,
+     183,
+     123
+    ]
+   },
+   {
+    "file": "04.png",
+    "alt": "5.png",
+    "w": 1200,
+    "h": 848,
+    "studio": false,
+    "frac": 0.429,
+    "rgb": [
+     154,
+     118,
+     77
+    ]
+   },
+   {
+    "file": "05.png",
+    "alt": "6.png",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.339,
+    "rgb": [
+     205,
+     168,
+     114
+    ]
+   },
+   {
+    "file": "06.png",
+    "alt": "7.png",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.218,
+    "rgb": [
+     224,
+     184,
+     125
+    ]
+   },
+   {
+    "file": "07.png",
+    "alt": "8.png",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.253,
+    "rgb": [
+     225,
+     186,
+     127
+    ]
+   },
+   {
+    "file": "08.png",
+    "alt": "9.png",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.248,
+    "rgb": [
+     218,
+     179,
+     118
+    ]
+   },
+   {
+    "file": "09.png",
+    "alt": "10.png",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.265,
+    "rgb": [
+     221,
+     182,
+     123
+    ]
+   },
+   {
+    "file": "10.png",
+    "alt": "11.png",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.186,
+    "rgb": [
+     219,
+     177,
+     115
+    ]
+   },
+   {
+    "file": "11.png",
+    "alt": "12.png",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.219,
+    "rgb": [
+     218,
+     178,
+     120
+    ]
+   },
+   {
+    "file": "12.png",
+    "alt": "13.png",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.109,
+    "rgb": [
+     190,
+     148,
+     99
+    ]
+   },
+   {
+    "file": "13.png",
+    "alt": "14.png",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.222,
+    "rgb": [
+     208,
+     169,
+     108
+    ]
+   }
+  ]
+ },
+ "bambi": {
+  "gender": "donna",
+  "title": "Bambi",
+  "desc_it": [
+   "Contrasto tra macro e micro enfatizzato dai 2 elementi protagonisti del modello Bambi: la fibbia ovale F e la lunga tracolla che vivono in relazione simmetricamente opposta al corpo borsa di dimensioni più ridotte.",
+   "Molto pratica e leggera, è realizzata in vitello liscio con fodera in nappa."
+  ],
+  "desc_en": [
+   "A contrast between macro and micro accentuated by the two predominant features of the Bambi model: the oval F buckle and the long shoulder strap that are diametrically the opposite of the smaller dimensions of the body of the bag.",
+   "Very practical and light, the bag is made of smooth calfskin with nappa interior."
+  ],
+  "images": [
+   {
+    "file": "00.png",
+    "alt": "1.png",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.115,
+    "rgb": [
+     194,
+     190,
+     182
+    ]
+   },
+   {
+    "file": "01.png",
+    "alt": "2.png",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.127,
+    "rgb": [
+     89,
+     88,
+     87
+    ]
+   },
+   {
+    "file": "02.png",
+    "alt": "3.png",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.136,
+    "rgb": [
+     43,
+     43,
+     40
+    ]
+   },
+   {
+    "file": "03.png",
+    "alt": "4.png",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.178,
+    "rgb": [
+     50,
+     50,
+     50
+    ]
+   },
+   {
+    "file": "04.png",
+    "alt": "ocean-mahogany.png",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.177,
+    "rgb": [
+     78,
+     55,
+     52
+    ]
+   },
+   {
+    "file": "05.png",
+    "alt": "champagne.png",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.066,
+    "rgb": [
+     198,
+     185,
+     175
+    ]
+   },
+   {
+    "file": "06.png",
+    "alt": "fibbia.png",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.077,
+    "rgb": [
+     217,
+     205,
+     195
+    ]
+   },
+   {
+    "file": "07.png",
+    "alt": "retro.png",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.11,
+    "rgb": [
+     213,
+     202,
+     195
+    ]
+   },
+   {
+    "file": "08.png",
+    "alt": "ocean-mink.png",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.189,
+    "rgb": [
+     56,
+     53,
+     58
+    ]
+   }
+  ]
+ },
+ "busy-day": {
+  "gender": "donna",
+  "title": "Busy Day",
+  "desc_it": [
+   "Capiente, pratica e a tracolla, Busy Day è stata progettata proprio per le numerose esigenze di una donna contemporanea, dinamica e indipendente. Numerosi gli scomparti che si prestano ad alloggiare smartphone, tablet, chiavette usb, chiavi di casa e quant’altro. Busy Day riesce a contenere sempre più di quanto ci si possa immaginare."
+  ],
+  "desc_en": [
+   "Strong, practical and with a shoulder strap, Busy Day is designed for the many needs of the contemporary, dynamic and independent woman. There are numerous compartments that can accommodate smartphones, tablets, USB keys, house keys, and whatever else. Busy Day can hold much more than you could imagine."
+  ],
+  "images": [
+   {
+    "file": "00.png",
+    "alt": "1.png",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.306,
+    "rgb": [
+     202,
+     168,
+     156
+    ]
+   },
+   {
+    "file": "01.png",
+    "alt": "2.png",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.294,
+    "rgb": [
+     201,
+     57,
+     8
+    ]
+   },
+   {
+    "file": "02.png",
+    "alt": "3.png",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.16,
+    "rgb": [
+     193,
+     60,
+     8
+    ]
+   },
+   {
+    "file": "03.png",
+    "alt": "4.png",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.079,
+    "rgb": [
+     203,
+     196,
+     190
+    ]
+   },
+   {
+    "file": "04.png",
+    "alt": "5.png",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.1,
+    "rgb": [
+     202,
+     197,
+     192
+    ]
+   },
+   {
+    "file": "05.png",
+    "alt": "6.png",
+    "w": 1200,
+    "h": 848,
+    "studio": true,
+    "frac": 0.079,
+    "rgb": [
+     206,
+     202,
+     199
+    ]
+   }
+  ]
+ },
+ "coccodrillo": {
+  "gender": "donna",
+  "title": "crocodile edition",
+  "desc_it": [
+   "Lo Spirito, che muove la ricerca di soluzioni estetico funzionali sempre inedite e innovative che sfociano in complessi processi di lavorazione in esclusiva. La Materia pregiata, ottenuta dalla parte più pregiata, del pellame più pregiato. La Magia del Fare, oggetti speciali ed eleganti con un’anima senza tempo che durino nel tempo. L’Autenticità di un’artigianalità evoluta al servizio di Bellezza e Verità. Le parole chiave dei modelli Timeless di Fontana Milano 1915 definiscono in modo chiaro anche la variante più preziosa ed esclusiva dell’intera collezione: quella in Coccodrillo.",
+   "Un Coccodrillo in maiuscolo, in grado di interpretare a livelli ineguagliati tutti i modelli Timeless e a rendere ogni realizzazione ancora più unica e speciale, grazie alla cura meticolosa di Fontana Milano 1915 esercitata in ogni fase della lavorazione, di ogni singolo modello, e soprattutto grazie ad un processo di elaborazione, fino ad oggi inedito, del pellame stesso, ideato da Fontana Milano 1915, e sviluppato in collaborazione con una rinomata conceria specializzata.",
+   "Grazie ad una lucidatura lenta e accurata, definita Agatatura dal nome della pietra utilizzata (Agata), e ripetuta innumerevoli volte, il pellame assume una lucentezza straordinaria che ne esalta le qualità tridimensionali e che a seconda della luce riflette tonalità di colore che impreziosiscono e rendono senza pari, il Coccodrillo Black di Fontana Milano 1915. Modelli total black, ma con sfumature sensazionali: Verde Bosco, Bordeaux Damasco e Blueberry Blu Notte. E poi metallerie con percentuali di autentico oro e interni in nappa di altissima qualità in toni che enfatizzano le sfumature del nero. Modelli senza tempo, per un tempo di qualità. Unicità, Fascino, Valore, per aumentare l’incanto di ogni momento importante e imprimere, indelebili nella memoria, tutte le occasioni speciali che meritano di essere vissute al meglio."
+  ],
+  "desc_en": [
+   "The Spirit, which drives the search for aesthetic functional solutions that are always fresh and innovative, giving rise to exclusive, complex production processes. The finest Material, obtained from the finest part of the finest leather. The Charm of Making, special, elegant items with a timeless soul that last over time. The Authenticity of a craftsmanship that has evolved in the service of Beauty and Truth. The keywords that describe the Timeless models of Fontana Milano 1915 also clearly define the most precious and exclusive version of the entire collection, namely the Crocodile edition. Crocodile with a capital C, which has what it takes to interpret all the Timeless models at unmatched levels, and makes every creation even more unique and special thanks to the meticulous care taken by Fontana Milano 1915 at every stage of the workmanship for every single model, and most importantly, thanks to a still pioneering leatherworking process that was devised by Fontana Milano 1915 and developed in conjunction with a well-known specialised tannery.",
+   "As a result of a slow, thorough polishing process known as agatatura, named after the stone used (agate), which is repeated numerous times, the leather takes on an extraordinary sheen that highlights its three-dimensional qualities and, depending upon the light, reflects shades of colour that enhance and make the Crocodile Black by Fontana Milano 1915 like no other. Totally black models, but with dramatic tinges: Forest Green, Damask Bordeaux and Blue Night Blueberry. Not to mention the metal hardware that contains amounts of real gold and the interiors made of very high quality soft leather in shades that emphasise the nuances of the black. Timeless models for a time of quality. One-of-a-kind, Glamour, Quality, to raise the enchantment of every important moment and leave unforgettable memories of all the special occasions that deserve to be experienced to the utmost."
+  ],
+  "images": [
+   {
+    "file": "00.jpg",
+    "alt": "COCCO_1.jpg",
+    "w": 1200,
+    "h": 848,
+    "studio": false,
+    "frac": 1.0,
+    "rgb": [
+     30,
+     37,
+     32
+    ]
+   },
+   {
+    "file": "01.jpg",
+    "alt": "COCCO_2.jpg",
+    "w": 1200,
+    "h": 848,
+    "studio": false,
+    "frac": 1.0,
+    "rgb": [
+     27,
+     31,
+     28
+    ]
+   },
+   {
+    "file": "02.jpg",
+    "alt": "COCCO_3.jpg",
+    "w": 1200,
+    "h": 848,
+    "studio": false,
+    "frac": 1.0,
+    "rgb": [
+     40,
+     43,
+     40
+    ]
+   },
+   {
+    "file": "03.jpg",
+    "alt": "COCCO_4.jpg",
+    "w": 1200,
+    "h": 848,
+    "studio": false,
+    "frac": 1.0,
+    "rgb": [
+     25,
+     32,
+     25
+    ]
+   },
+   {
+    "file": "04.jpg",
+    "alt": "COCCO_5.jpg",
+    "w": 1200,
+    "h": 848,
+    "studio": false,
+    "frac": 1.0,
+    "rgb": [
+     24,
+     29,
+     41
+    ]
+   },
+   {
+    "file": "05.jpg",
+    "alt": "COCCO_6.jpg",
+    "w": 1200,
+    "h": 848,
+    "studio": false,
+    "frac": 1.0,
+    "rgb": [
+     27,
+     33,
+     45
+    ]
+   },
+   {
+    "file": "06.jpg",
+    "alt": "COCCO_7.jpg",
+    "w": 1200,
+    "h": 848,
+    "studio": false,
+    "frac": 1.0,
+    "rgb": [
+     28,
+     29,
+     32
+    ]
+   },
+   {
+    "file": "07.jpg",
+    "alt": "COCCO_8.jpg",
+    "w": 1200,
+    "h": 848,
+    "studio": false,
+    "frac": 1.0,
+    "rgb": [
+     54,
+     40,
+     42
+    ]
+   },
+   {
+    "file": "08.jpg",
+    "alt": "COCCO_9.jpg",
+    "w": 1200,
+    "h": 848,
+    "studio": false,
+    "frac": 1.0,
+    "rgb": [
+     51,
+     41,
+     45
+    ]
+   },
+   {
+    "file": "09.jpg",
+    "alt": "COCCO_10.jpg",
+    "w": 1200,
+    "h": 848,
+    "studio": false,
+    "frac": 1.0,
+    "rgb": [
+     53,
+     36,
+     39
+    ]
+   },
+   {
+    "file": "10.jpg",
+    "alt": "fontana trolley A1 1018x720 px 01.jpg",
+    "w": 1018,
+    "h": 720,
+    "studio": false,
+    "frac": 1.0,
+    "rgb": [
+     54,
+     32,
+     36
+    ]
+   }
+  ]
+ }
+}

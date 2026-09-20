@@ -1,12 +1,11 @@
 import type { Key } from '../lib/i18n'
 import type { ImgName } from '../components/Pic'
-import { MEN, WOMEN, SITE } from './catalog'
+import { MEN, WOMEN } from './catalog'
 
 export type NavLink = { key?: Key; label?: string; href: string; external?: boolean }
 export type NavCard = { img: ImgName; label?: string; key?: Key; href: string; external?: boolean }
 export type NavItem = { id: string; key: Key; href: string; links: NavLink[]; cards: NavCard[] }
 
-const ext = (p: string) => SITE + p
 const pick = (list: typeof MEN, ids: string[]) => ids.map((id) => list.find((c) => c.id === id)!)
 
 export const NAV: NavItem[] = [
@@ -14,20 +13,20 @@ export const NAV: NavItem[] = [
     id: 'women', key: 'nav.women', href: '/donna',
     links: [
       { key: 'col.title.women', href: '/donna' },
-      ...pick(WOMEN, ['mina', 'wight', 'gallery', 'tum-tum']).map((c) => ({ label: c.name, href: ext(c.path), external: true })),
+      ...pick(WOMEN, ['mina', 'wight', 'gallery', 'tum-tum']).map((c) => ({ label: c.name, href: c.path })),
     ],
-    cards: pick(WOMEN, ['mina', 'wight', 'key-west']).map((c) => ({ img: c.img, label: c.name, href: ext(c.path), external: true })),
+    cards: pick(WOMEN, ['mina', 'wight', 'key-west']).map((c) => ({ img: c.img, label: c.name, href: c.path })),
   },
   {
     id: 'men', key: 'nav.men', href: '/uomo',
     links: [
       { key: 'col.title.men', href: '/uomo' },
       { label: 'A Man', href: '/uomo/a-man' },
-      ...pick(MEN, ['summit', 'wonderland', 'titan']).map((c) => ({ label: c.name, href: ext(c.path), external: true })),
+      ...pick(MEN, ['summit', 'wonderland', 'titan']).map((c) => ({ label: c.name, href: c.path })),
     ],
     cards: [
       { img: 'c-a-man', label: 'A Man', href: '/uomo/a-man' },
-      ...pick(MEN, ['summit', 'wonderland']).map((c) => ({ img: c.img, label: c.name, href: ext(c.path), external: true })),
+      ...pick(MEN, ['summit', 'wonderland']).map((c) => ({ img: c.img, label: c.name, href: c.path })),
     ],
   },
   {
@@ -39,8 +38,8 @@ export const NAV: NavItem[] = [
     ],
     cards: [
       { img: 'carbon-front', label: 'A Man', href: '/uomo/a-man' },
-      { img: 'c-wight', label: 'Wight', href: ext('/donna/wight'), external: true },
-      { img: 'c-titan', label: 'Titan', href: ext('/uomo/titan'), external: true },
+      { img: 'c-wight', label: 'Wight', href: '/donna/wight' },
+      { img: 'c-titan', label: 'Titan', href: '/uomo/titan' },
     ],
   },
   {

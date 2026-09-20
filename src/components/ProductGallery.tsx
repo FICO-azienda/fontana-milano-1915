@@ -1,21 +1,22 @@
 import { useState } from 'react'
 import { useStore } from '../lib/store'
-import { A_MAN } from '../data/catalog'
+import type { Product } from '../data/products'
 import { Lightbox } from './Lightbox'
 import { Pic } from './Pic'
 import { Reveal } from './Reveal'
 
 /** Galleria editoriale: immagini grandi in griglia asimmetrica (largo / coppia / largo / coppia). */
-export function ProductGallery({ colorId }: { colorId: string }) {
+export function ProductGallery({ product, colorId }: { product: Product; colorId: string }) {
   const { lang, t } = useStore()
-  const color = A_MAN.colors.find((c) => c.id === colorId) ?? A_MAN.colors[0]
+  const color = product.colors.find((c) => c.id === colorId) ?? product.colors[0]
+  const n = color.images.length
   const [open, setOpen] = useState<number | null>(null)
 
   return (
     <>
       <ul key={color.id} className="contents xl:col-span-8 xl:grid xl:grid-cols-2 xl:gap-3" aria-label={t('product.gallery')}>
         {color.images.map((img, i) => {
-          const wide = i % 3 === 0
+          const wide = i % 3 === 0 || (i === n - 1 && i % 3 === 1)
           return (
             <li key={img} className={`${wide ? 'xl:col-span-2' : ''} ${i === 0 ? '' : 'order-2 xl:order-none'}`}>
               <Reveal delay={i % 3 === 2 ? 90 : 0} instant={i === 0}>

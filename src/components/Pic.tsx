@@ -1,7 +1,11 @@
 import type { CSSProperties } from 'react'
-import manifest from '../data/images.json'
+import base_manifest from '../data/images.json'
+import product_manifest from '../data/product-images.json'
 
-export type ImgName = keyof typeof manifest
+type Entry = { w: number; h: number; widths: number[]; studio?: boolean }
+const manifest = { ...base_manifest, ...product_manifest } as Record<string, Entry>
+
+export type ImgName = keyof typeof base_manifest | keyof typeof product_manifest
 
 const base = import.meta.env.BASE_URL + 'img/'
 
@@ -19,6 +23,7 @@ type Props = {
 /** <picture> con AVIF + WebP responsive, dimensioni intrinseche (niente layout shift) e lazy loading. */
 export function Pic({ name, alt, sizes = '100vw', eager, className, imgClassName, style }: Props) {
   const m = manifest[name]
+  const cls = [m.studio ? 'blend' : '', imgClassName].filter(Boolean).join(' ')
   const set = (ext: string) => m.widths.map((w) => `${base}${name}-${w}.${ext} ${w}w`).join(', ')
   const largest = m.widths[m.widths.length - 1]
   return (
@@ -33,7 +38,7 @@ export function Pic({ name, alt, sizes = '100vw', eager, className, imgClassName
         loading={eager ? 'eager' : 'lazy'}
         decoding={eager ? 'sync' : 'async'}
         fetchPriority={eager ? 'high' : undefined}
-        className={imgClassName}
+        className={cls}
         style={style}
       />
     </picture>

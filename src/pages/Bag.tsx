@@ -2,8 +2,8 @@ import { useState, type FormEvent } from 'react'
 import { Cta } from '../components/Cta'
 import { IconMinus, IconPlus } from '../components/Icons'
 import { Pic } from '../components/Pic'
-import { A_MAN } from '../data/catalog'
-import { useStore } from '../lib/store'
+import { findProduct } from '../data/products'
+import { lineKey, useStore } from '../lib/store'
 
 const Shell = ({ title, children }: { title: string; children: React.ReactNode }) => (
   <main id="main" tabIndex={-1} className="pt-[var(--header-h)]">
@@ -43,28 +43,29 @@ export function Bag() {
       <div className="grid gap-12 xl:grid-cols-[1fr_400px] xl:gap-20">
         <ul className="border-t border-line">
           {cart.map((l) => {
-            const c = A_MAN.colors.find((x) => x.id === l.colorId)!
+            const pr = findProduct(l.productId)!
+            const c = pr.colors.find((x) => x.id === l.colorId) ?? pr.colors[0]
             return (
-              <li key={l.colorId} className="grid grid-cols-[120px_1fr] gap-6 border-b border-line py-8 md:grid-cols-[180px_1fr]">
-                <a href="#/uomo/a-man" className="block aspect-[4/5] bg-stone">
+              <li key={lineKey(l)} className="grid grid-cols-[120px_1fr] gap-6 border-b border-line py-8 md:grid-cols-[180px_1fr]">
+                <a href={`#/${pr.gender === 'men' ? 'uomo' : 'donna'}/${pr.id}`} className="block aspect-[4/5] bg-stone">
                   <Pic name={c.images[0]} alt={c.alts[lang][0]} sizes="180px" className="block h-full w-full overflow-hidden" imgClassName="blend h-full w-full object-cover" />
                 </a>
                 <div className="flex flex-col">
                   <div className="flex justify-between gap-4">
                     <div>
-                      <p className="eyebrow">A Man</p>
-                      <p className="serif mt-2 text-[28px] font-light leading-none">{t('product.name')}</p>
+                      <p className="eyebrow">{pr.eyebrow ?? t(pr.gender === 'men' ? 'nav.men' : 'nav.women')}</p>
+                      <p className="serif mt-2 text-[28px] font-light leading-none">{pr.title ?? pr.name}</p>
                       <p className="mt-2 text-[13px] text-mute">{c.name[lang]}</p>
                     </div>
-                    <p className="tabular-nums">{money(A_MAN.price * l.qty)}</p>
+                    <p className="tabular-nums">{money(pr.price * l.qty)}</p>
                   </div>
                   <div className="mt-auto flex items-center justify-between pt-6">
                     <div className="flex items-center border border-line" role="group" aria-label={t('mini.qty')}>
-                      <button type="button" aria-label={t('mini.less')} onClick={() => l.qty > 1 && dispatch({ t: 'qty', colorId: l.colorId, qty: l.qty - 1 })} className="grid h-10 w-10 place-items-center"><IconMinus width={14} height={14} /></button>
+                      <button type="button" aria-label={t('mini.less')} onClick={() => l.qty > 1 && dispatch({ t: 'qty', productId: l.productId, colorId: l.colorId, qty: l.qty - 1 })} className="grid h-10 w-10 place-items-center"><IconMinus width={14} height={14} /></button>
                       <output className="w-8 text-center tabular-nums">{l.qty}</output>
-                      <button type="button" aria-label={t('mini.more')} onClick={() => dispatch({ t: 'qty', colorId: l.colorId, qty: l.qty + 1 })} className="grid h-10 w-10 place-items-center"><IconPlus width={14} height={14} /></button>
+                      <button type="button" aria-label={t('mini.more')} onClick={() => dispatch({ t: 'qty', productId: l.productId, colorId: l.colorId, qty: l.qty + 1 })} className="grid h-10 w-10 place-items-center"><IconPlus width={14} height={14} /></button>
                     </div>
-                    <button type="button" onClick={() => dispatch({ t: 'remove', colorId: l.colorId })} className="u-link text-[11px] uppercase tracking-[0.16em] text-mute">{t('mini.remove')}</button>
+                    <button type="button" onClick={() => dispatch({ t: 'remove', productId: l.productId, colorId: l.colorId })} className="u-link text-[11px] uppercase tracking-[0.16em] text-mute">{t('mini.remove')}</button>
                   </div>
                 </div>
               </li>

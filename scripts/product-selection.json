@@ -1,0 +1,1344 @@
+{
+ "a-man": {
+  "gender": "uomo",
+  "title": "A Man",
+  "desc_it": [
+   "A: essenziale, minimale, strutturata.",
+   "A: anche per Lui.",
+   "Più lunga e più stretta rispetto alla versione femminile, mantiene ogni elemento distintivo del primo modello \"senza tempo\", realizzato dalla maison.",
+   "Una cartella da città, che si fa riconoscere, tra la folla, nel corso di un meeting, durante un pranzo di lavoro e in mille altre occasioni, tutte da vivere."
+  ],
+  "desc_en": [
+   "A: quintessential, minimalist, structured.",
+   "A: for him too.",
+   "Longer and narrower than the women’s version, it retains each distinctive element of the first Timeless model created by our firm.",
+   "A briefcase for the city, which stands out in the crowd, in a meeting, during a business lunch and a host of other occasions, all for his enjoyment."
+  ],
+  "colorways": [
+   {
+    "name": {
+     "it": "Nero",
+     "en": "Black"
+    },
+    "swatch": "#2f2e2e",
+    "images": [
+     "00.png",
+     "01.png",
+     "02.png",
+     "08.jpg",
+     "09.jpg"
+    ]
+   },
+   {
+    "name": {
+     "it": "Grigio ardesia",
+     "en": "Slate grey"
+    },
+    "swatch": "#4d545a",
+    "images": [
+     "03.jpg",
+     "04.jpg",
+     "05.jpg",
+     "06.jpg",
+     "07.jpg"
+    ]
+   }
+  ]
+ },
+ "summit": {
+  "gender": "uomo",
+  "title": "SUMMIT",
+  "desc_it": [
+   "Lineare, sobria, ma fortemente autorevole. Di poche parole e tutte estremamente ponderate. Nasce con una vocazione diplomatica e vive per trasportare quei contenuti importanti (oggetti, documenti e cose) in grado di fare la differenza, nelle mani di chi si accompagna ad essa.",
+   "Soffietti a costa, chiusura preziosa in oro chiaro, totalmente in box calf, sia all'interno che all'esterno.",
+   "Summit è il vertice, sia in termini di sintesi estrema del concetto di cartella, sia della maestria artigianale Fontana Milano 1915 stratificata nel tempo, al servizio delle molteplici funzioni d'uso della contemporaneità."
+  ],
+  "desc_en": [
+   "Straightforward, serious, but very authoritative. Of few words and all extremely thoughtful. Created with the calling of a diplomat and existing to convey those important contents (objects, documents and things) that can make the difference, in the hands of the person carrying it. Ribbed gussets, precious light gold clasp, entirely made of box calfskin both inside and out.",
+   "Summit is the pinnacle, quite simply both in terms of the concept of briefcase and the craftmanship of Fontana Milano 1915, accumulated over time at the service of the multiple uses of today’s world."
+  ],
+  "colorways": [
+   {
+    "name": {
+     "it": "Nero",
+     "en": "Black"
+    },
+    "swatch": "#373737",
+    "images": [
+     "00.jpg",
+     "01.jpg",
+     "02.jpg",
+     "03.jpg",
+     "04.jpg"
+    ]
+   },
+   {
+    "name": {
+     "it": "Rosso",
+     "en": "Red"
+    },
+    "swatch": "#891016",
+    "images": [
+     "06.jpg",
+     "07.jpg",
+     "08.jpg",
+     "09.jpg",
+     "10.jpg"
+    ]
+   }
+  ]
+ },
+ "wonderland": {
+  "gender": "uomo",
+  "title": "Wonderland",
+  "desc_it": [
+   "Per il viaggio, reale o immaginario, Wonderland è la compagna perfetta.",
+   "La nuova travel bag genderless e ultracapiente (presenta 3 pratici scomparti in cui custodire tutto il necessario) ideale, per scoprire le meraviglie di ogni paese e le peculiarità di qualsiasi latitudine.",
+   "Wonderland è unica, grazie alla ricerca effettuata, sia sui pellami selezionati per qualità materiche intrinseche (e generale lucentezza), sia sul colore, affinché si giungesse a quel grado di tonalità esclusiva, capace di renderla bella e inconfondibile."
+  ],
+  "desc_en": [
+   "For travel – real or imagined – Wonderland is the perfect companion.",
+   "The new, genderless and ultra-spacious travel bag, with 3 practical compartments to store everything you need, is ideal for discovering the wonders of every country and the uniqueness of any latitude.",
+   "Wonderland is unique as a result of the research conducted on both the leather, chosen for its innate texture (and overall sheen), and the colour, in order to achieve an exclusive shade which makes the bag beautiful and distinctive."
+  ],
+  "colorways": [
+   {
+    "name": {
+     "it": "Petrolio",
+     "en": "Petrol"
+    },
+    "swatch": "#303a3e",
+    "images": [
+     "00.jpg",
+     "01.jpg",
+     "02.jpg",
+     "03.jpg",
+     "04.jpg"
+    ]
+   }
+  ]
+ },
+ "back24-back48": {
+  "gender": "uomo",
+  "title": "BACK24 & BACK48",
+  "desc_it": [
+   "C’era una volta la ventiquattr’ore, la cosiddetta “valigetta”, sinonimo del viaggio di lavoro da effettuare in giornata, capiente quanto basta per portare tutto l’occorrente per la breve trasferta.",
+   "Poi arrivò la quarantott’ore, grande il doppio pensata per la giornata di lavoro più pernottamento. Nella quotidianità di oggi, ed in particolare nei terminal e nelle stazioni, è facile osservare come questi piccoli grandi classici siano stati sostituiti dall’utilizzo di zaini nelle più diverse fogge che però mantengono la medesima funzione d’uso di ieri, con, in più, un maggior confort. Giacche, cravatte e zaino in spalla. Fontana Milano 1915 ha voluto così rendere omaggio all’attuale tipologia d’uso con un’edizione speciale di zaini elegantissimi e pratici, concepiti proprio per le trasferte di lavoro di uno o due giorni: il Back24 e il Back48.",
+   "Chiusura con coulisse. Fondo e schienale rinforzati. Due capienti tasche anteriori. Soffietti laterali apribili (con zip) che permettono di aumentarne la capienza. Maniglietta per trasporto a mano. Tasca interna con zip."
+  ],
+  "desc_en": [
+   "Once upon a time there was the 24-hour briefcase, the epitome of the single-day business trip, just big enough to contain everything necessary for a short trip. Then came the 48-hour briefcase, twice as big for the day’s work plus an overnight stay. Nowadays, you can easily see, especially in terminals and stations, that these little big classics have been replaced by backpacks in all shapes and sizes that still perform the same function as before but more comfortably. Jackets, ties and backpack.",
+   "Fontana Milano 1915 wanted to pay homage to their function today with a special edition of very elegant, practical backpacks specifically designed for business trips of one to two days: the Back24 and the Back48. Drawstring closure. Reinforced bottom and back. Two roomy front pockets. Zippered side gussets that can be opened to increase capacity. Carry handle. Zippered interior pocket."
+  ],
+  "colorways": [
+   {
+    "name": {
+     "it": "Antracite",
+     "en": "Charcoal"
+    },
+    "swatch": "#393e41",
+    "images": [
+     "00.png",
+     "01.png",
+     "02.png",
+     "03.jpg",
+     "04.jpg"
+    ]
+   }
+  ]
+ },
+ "rush-peterpan": {
+  "gender": "uomo",
+  "title": "Rush",
+  "desc_it": [
+   "Apollinea come la cavalcata forsennata del pony express per andare a consegnare in tempo limite, quelle carte strategiche che cambieranno l’esito della battaglia o Dionisiaca come l’eterna primavera dell’immaginazione che trasporta suggestioni dal sogno alla realtà e viceversa?",
+   "Due nature interscambiabili della postina a tracolla FM1915 per decidere di volta in volta come affronterà la sua giornata, l’uomo che sarai oggi."
+  ],
+  "desc_en": [
+   "Apollonian as the crazy pony express ride to deliver within a short deadline the strategic cards that will change the outcome of the battle, or Dionysian as the eternal spring of the imagination that transports suggestions from dream to reality and vice versa?",
+   "Two interchangeable concepts for the FM1915 messenger bag to decide from time to time how to tackle the day, the man you will be today."
+  ],
+  "colorways": [
+   {
+    "name": {
+     "it": "Nero",
+     "en": "Black"
+    },
+    "swatch": "#3b3131",
+    "images": [
+     "00.png",
+     "01.png",
+     "02.png",
+     "03.jpg",
+     "04.jpg"
+    ]
+   },
+   {
+    "name": {
+     "it": "Petrolio",
+     "en": "Petrol"
+    },
+    "swatch": "#667679",
+    "images": [
+     "09.jpg",
+     "10.jpg",
+     "11.jpg",
+     "12.jpg",
+     "13.jpg"
+    ]
+   }
+  ]
+ },
+ "timothy": {
+  "gender": "uomo",
+  "title": "Timothy",
+  "desc_it": [
+   "Timothy è uno zaino pensato per la città e ispirato al mondo della selleria con spallacci ergonomici che si adattano ad ogni figura.",
+   "La sua chiusura a zip, direttamente sullo schienale, è pensata per una maggiore sicurezza. All’interno dello zaino si trova una tasca, sempre con chiusura a zip, per riporre i propri oggetti di valore. Una seconda zip introduce un’ulteriore tasca, capiente, per piccoli oggetti. Altre tasche sono presenti una integrata sullo spallaccio e un'altra su un fianco, dove si possono riporre le chiavi fissate ad una catena staccabile mediante moschettone. Lo schienale è imbottito per un maggiore comfort, trapuntato con un motivo ispirato alla selleria."
+  ],
+  "desc_en": [
+   "Saddlebag-inspired city backpack with ergonomic shoulder straps that adapt to each figure.",
+   "It has a special zip fastener directly on the back for extra security. Inside the body of the bag there is a pocket, also with a zip, for valuables personal belongings. A second zip leads to another large pocket for small items. There is also a handy integrated pocket on the shoulder strap. On one side there is a small pocket with a flap where you can store your keys, which are attached to a detachable chain with a snap hook. The back is padded for greater comfort, quilted with a pattern inspired by saddlery."
+  ],
+  "colorways": [
+   {
+    "name": {
+     "it": "Nero",
+     "en": "Black"
+    },
+    "swatch": "#392f2e",
+    "images": [
+     "00.jpg",
+     "01.jpg",
+     "02.jpg",
+     "03.jpg",
+     "04.jpg"
+    ]
+   },
+   {
+    "name": {
+     "it": "Tortora",
+     "en": "Taupe"
+    },
+    "swatch": "#aba08e",
+    "images": [
+     "05.jpg",
+     "06.jpg"
+    ]
+   }
+  ]
+ },
+ "bazooka": {
+  "gender": "uomo",
+  "title": "Bazooka",
+  "desc_it": [
+   "Ispirato al modello A, assottigliato, semplificato e adattato per portare comodamente Laptop e documenti.",
+   "È dotato di una tasca interna ed una esterna per organizzare al meglio la disposizione dei propri effetti personali al loro interno."
+  ],
+  "desc_en": [
+   "Inspired by the A model, slimmed down, simplified and adapted to comfortably carry laptops and documents.",
+   "It features an internal and an external pocket to better organise the arrangement of your personal belongings inside."
+  ],
+  "colorways": [
+   {
+    "name": {
+     "it": "Nero",
+     "en": "Black"
+    },
+    "swatch": "#28373c",
+    "images": [
+     "00.jpg",
+     "02.jpg",
+     "03.jpg",
+     "04.jpg",
+     "05.jpg"
+    ]
+   }
+  ]
+ },
+ "titan": {
+  "gender": "uomo",
+  "title": "Titan",
+  "desc_it": [
+   "Titan accompagna la giornata di lei o di lui portando documenti e tablet con eleganza.",
+   "Questa cartella a mano è disponibille in tre misure, ha una chiusura centrale a spadino, di forma rettangolare, dotata di quattro fori per la regolazione e di una linguetta in pelle che ne facilita l’apertura.",
+   "La struttura, a costa, presenta un fianco e una tasca applicata, entrambi a soffietto."
+  ],
+  "desc_en": [
+   "Titan comes every day with her or him bringing documents and tablet in an elegant way.",
+   "This rectangular hand briefcase is available in three sizes with a central spadework closure, four holes for adjustment and a leather flap for easy opening.",
+   "The ribbed structure features a side panel and a patch pocket, both with gussets."
+  ],
+  "colorways": [
+   {
+    "name": {
+     "it": "Nero",
+     "en": "Black"
+    },
+    "swatch": "#1d1d1d",
+    "images": [
+     "00.png",
+     "01.png",
+     "02.png",
+     "11.jpg",
+     "12.jpg"
+    ]
+   },
+   {
+    "name": {
+     "it": "Petrolio",
+     "en": "Petrol"
+    },
+    "swatch": "#354146",
+    "images": [
+     "03.jpg",
+     "04.jpg",
+     "05.jpg",
+     "06.jpg",
+     "07.jpg"
+    ]
+   },
+   {
+    "name": {
+     "it": "Tortora",
+     "en": "Taupe"
+    },
+    "swatch": "#957c68",
+    "images": [
+     "08.jpg",
+     "09.jpg",
+     "10.jpg"
+    ]
+   }
+  ]
+ },
+ "wall-street": {
+  "gender": "uomo",
+  "title": "Wall Street",
+  "desc_it": [
+   "Porta documenti piatto a mano, ispirato alle buste da lettere. La chiusura è in metallo a spadino che unisce forme più rigide a forme più morbide.",
+   "All’interno sono presenti due scomparti. L’intero modello è costruito a costa con fianco a soffietto."
+  ],
+  "desc_en": [
+   "Handmade flat document holder, inspired by envelopes. The metal clasp combines stiffer and softer shapes.",
+   "Inside it has two compartments. The entire model is constructed in the shape of a rib with a gusseted side."
+  ],
+  "colorways": [
+   {
+    "name": {
+     "it": "Nero",
+     "en": "Black"
+    },
+    "swatch": "#201f20",
+    "images": [
+     "00.png",
+     "01.png",
+     "02.png",
+     "04.jpg"
+    ]
+   },
+   {
+    "name": {
+     "it": "Antracite",
+     "en": "Charcoal"
+    },
+    "swatch": "#404040",
+    "images": [
+     "03.jpg",
+     "05.jpg",
+     "06.jpg"
+    ]
+   }
+  ]
+ },
+ "mina": {
+  "gender": "donna",
+  "title": "Mina",
+  "desc_it": [
+   "Nasce dalla reinterpretazione del modello Timeless A in chiave di morbidezza e sensualità.",
+   "Le 2 chiusure a laccetti, il motivo a onda delle cuciture e delle tasche (interna ed esterna), i piedini di appoggio che proteggono il fondo della borsa, sono i dettagli che rievocano i codici classici di FM1915, che in questo nuovo modello si abbinano ad inediti tratti distintivi, come ad esempio, gli attacchi della maniglia e della tracolla interamente ricoperti in pelle e un laccetto con moschettone, presente all'interno, per poter chiudere e indossare la borsa evitando, eventualmente, i laccetti esterni.",
+   "Viene realizzata in diversi materiali e mix: vitello liscio, martellato, abbinato al canvas o ricoperto da una moltitudine di borchiette. Fodera in nappa e tracolla in pelle."
+  ],
+  "desc_en": [
+   "A completely new model that originates from a reinterpretation of the Timeless A with a take on softness and sensuality.",
+   "Details that evoke the distinctive features of FM1915: the two closures with straps, the wave pattern of the stitching and the interior and exterior pockets, and the feet that protect the bottom of the bag.",
+   "There are new features too, such as the leather-covered handle attachments and shoulder strap, and a strap with carabiner inside the bag so that it can be closed and worn without having to use the exterior straps.",
+   "Available in a single material, togo, or a bi-material, togo and natural canvas.",
+   "The bag is lined in nappa leather, whilst the shoulder strap is in fabric."
+  ],
+  "colorways": [
+   {
+    "name": {
+     "it": "Grigio",
+     "en": "Grey"
+    },
+    "swatch": "#a4a6a1",
+    "images": [
+     "00.jpg",
+     "01.jpg",
+     "02.jpg",
+     "19.jpg",
+     "20.jpg"
+    ]
+   },
+   {
+    "name": {
+     "it": "Cuoio",
+     "en": "Tan"
+    },
+    "swatch": "#d5a85d",
+    "images": [
+     "08.png",
+     "09.png",
+     "10.png",
+     "11.png",
+     "13.png"
+    ]
+   },
+   {
+    "name": {
+     "it": "Marrone",
+     "en": "Brown"
+    },
+    "swatch": "#533b2d",
+    "images": [
+     "15.jpg",
+     "16.jpg",
+     "17.jpg",
+     "18.jpg"
+    ]
+   }
+  ]
+ },
+ "wight": {
+  "gender": "donna",
+  "title": "WIGHT",
+  "desc_it": [
+   "Soft bag figlia dei figli dei fiori, prende il proprio nome dall’omonima isola del celebre Festival Rock, quando soffiavano forti i venti di libertà e le utopie degli anni’70. Dal mood libero e casual chic, è la borsa che più entra in empatia con la donna che la porta, adattandosi naturalmente alla sua silhouette."
+  ],
+  "desc_en": [
+   "A soft bag, the offspring of the children of the flower children, which takes its name from the island with the same name, famous for its Rock Festival, when the winds of freedom and the utopia of the 1970s blew strong. Free in spirit and casually chic, this is the bag that empathises most with the woman who wears it, adapting naturally to her figure."
+  ],
+  "colorways": [
+   {
+    "name": {
+     "it": "Tortora",
+     "en": "Taupe"
+    },
+    "swatch": "#887d6d",
+    "images": [
+     "06.jpg",
+     "07.jpg",
+     "08.jpg",
+     "09.jpg",
+     "10.jpg"
+    ]
+   },
+   {
+    "name": {
+     "it": "Grigio perla",
+     "en": "Pearl grey"
+    },
+    "swatch": "#b0bdbb",
+    "images": [
+     "11.jpg",
+     "12.jpg",
+     "13.jpg"
+    ]
+   },
+   {
+    "name": {
+     "it": "Nero",
+     "en": "Black"
+    },
+    "swatch": "#363535",
+    "images": [
+     "00.png",
+     "01.png"
+    ]
+   }
+  ]
+ },
+ "gallery": {
+  "gender": "donna",
+  "title": "Gallery",
+  "desc_it": [
+   "Gallery, milanese di nome e di fatto, ultima nata in casa Fontana Milano 1915 è il secchiello simbolo della nuova internazionalità dell'eleganza meneghina.",
+   "Le forme sinuose e armoniche e il gioco di lacci, tracolla e maniglia, si intersecano tra loro rievocando il mondo della selleria.",
+   "L’ispirazione al mondo equestre non si limita alla forme, ma si estende ai dettagli come l'anello attraverso il quale si inserisce il laccio di chiusura.",
+   "Gallery è versatile, può essere indossata sia con la sola maniglia, sia con la sola tracolla o con entrambe, e anche grazie alla rimovibilità dei suoi elementi si presta agevolmente alla vita in città.",
+   "Il vitello liscio del corpo borsa è a contrasto con il suede tono su tono dell’ermetta con zip e il suo interno in nappa è caratterizzato da una pratica pochette staccabile.",
+   "Gallery è disponibile in 4 taglie con preziose metallerie in oro chiaro o palladio lucido."
+  ],
+  "desc_en": [
+   "Gallery, Milanese in name and in fact, is the latest creation from Fontana Milano 1915, a bucket bag that symbolises the new international reach of the elegance of Milan.",
+   "Its curvaceous, harmonious lines and the interplay between the straps, shoulder strap and handle are reminiscent of the world of saddlery.",
+   "Its equestrian inspiration is not limited to the lines but extends to details such as the ring used to insert the fastener strap.",
+   "The versatile Gallery can be carried by either just the handle or the shoulder strap or both, and easily adjusts to life in the city due to the detachability of its elements.",
+   "The smooth calfskin of the body contrasts with the tone-on-tone suede recessed zip fastening, whilst its nappa interior features a practical, detachable clutch.",
+   "Gallery is available in four sizes, with exquisite metallic trim in light gold or shiny palladium."
+  ],
+  "colorways": [
+   {
+    "name": {
+     "it": "Testa di moro",
+     "en": "Dark brown"
+    },
+    "swatch": "#6e4127",
+    "images": [
+     "04.jpg",
+     "05.jpg",
+     "06.jpg",
+     "07.jpg",
+     "08.jpg"
+    ]
+   },
+   {
+    "name": {
+     "it": "Oliva",
+     "en": "Olive"
+    },
+    "swatch": "#6f7526",
+    "images": [
+     "10.jpg",
+     "11.jpg",
+     "12.jpg",
+     "13.jpg",
+     "14.jpg"
+    ]
+   },
+   {
+    "name": {
+     "it": "Nero",
+     "en": "Black"
+    },
+    "swatch": "#312f30",
+    "images": [
+     "00.png",
+     "01.png"
+    ]
+   }
+  ]
+ },
+ "tum-tum": {
+  "gender": "donna",
+  "title": "Tum Tum",
+  "desc_it": [
+   "Tum Tum come il suono del martello battuto dagli artigiani durante la lavorazione. Shopper verticale di rigore geometrico con una struttura classica declinata nella modernità delle linee e dei materiali."
+  ],
+  "desc_en": [
+   "Tum Tum, as in the sound of the hammer wielded by the craftsmen as they work. Upright shopper, strictly geometrical with a classic structure expressed in modern lines and materials."
+  ],
+  "colorways": [
+   {
+    "name": {
+     "it": "Cuoio",
+     "en": "Tan"
+    },
+    "swatch": "#c29e73",
+    "images": [
+     "00.jpg",
+     "01.jpg",
+     "04.png",
+     "05.png"
+    ]
+   },
+   {
+    "name": {
+     "it": "Verde bosco",
+     "en": "Forest green"
+    },
+    "swatch": "#36493b",
+    "images": [
+     "02.png",
+     "03.png"
+    ]
+   },
+   {
+    "name": {
+     "it": "Grigio perla",
+     "en": "Pearl grey"
+    },
+    "swatch": "#b4a69e",
+    "images": [
+     "06.png",
+     "07.png"
+    ]
+   }
+  ]
+ },
+ "aretha": {
+  "gender": "donna",
+  "title": "Aretha",
+  "desc_it": [
+   "Comoda, leggera, pratica. Con tracolla regolabile e chiusura girello che riproduce il logo Fontana Milano 1915",
+   "Adatta a tutti i i giorni e ad ogni momento della giornata, trae ispirazione dai dettagli e dalle forme della sella.",
+   "Presenta costruzione a costa e interno in nappa con tramezza centrale che crea due comparti con tasca a zip. Sulla tracolla sono applicate due fibbie che ne regolano l'ampiezza..",
+   "Disponibile in quattro taglie e in molteplici versioni: vitello liscio, borchiato o abbinato al tessuto o neoprene."
+  ],
+  "desc_en": [
+   "Comfortable, lightweight, everyday bag with adjustable shoulder strap and \"Fontana F logo\" turn lock closure. It recalls details and shapes of the saddle, source of inspiration for this model.",
+   "This new version of the Aretha has a ribbed construction and a central partition that creates two compartments and a zippered pocket. Two buckles are attached to the shoulder strap.",
+   "It is available in 4 sizes in multiple versions: with the Fabric or Neoprene combined with the smooth Romantic calfskin or in the new Polo calfskin both smooth and studded.",
+   "The lining is Nappa leather."
+  ],
+  "colorways": [
+   {
+    "name": {
+     "it": "Grigio",
+     "en": "Grey"
+    },
+    "swatch": "#a2a6a4",
+    "images": [
+     "00.jpg",
+     "01.jpg",
+     "02.jpg",
+     "03.jpg",
+     "07.jpg"
+    ]
+   },
+   {
+    "name": {
+     "it": "Nero",
+     "en": "Black"
+    },
+    "swatch": "#2d3031",
+    "images": [
+     "10.jpg",
+     "11.jpg",
+     "12.jpg",
+     "13.jpg",
+     "14.jpg"
+    ]
+   },
+   {
+    "name": {
+     "it": "Giallo",
+     "en": "Yellow"
+    },
+    "swatch": "#d3b95c",
+    "images": [
+     "04.jpg",
+     "05.jpg",
+     "06.jpg"
+    ]
+   }
+  ]
+ },
+ "chelsea": {
+  "gender": "donna",
+  "title": "Chelsea",
+  "desc_it": [
+   "Chelsea: un nome che è sinonimo di eleganza internazionale per la borsa a spalla progettata a partire dall'idea di bisaccia e poi sviluppata affinché si adattasse, nel modo più naturale possibile, alla silhouette di ogni donna di charme.",
+   "Pratica e assai leggera, forme morbide e curve sensuali. Chelsea, si presta ad un uso quotidiano e non manca mai di esprimere, in ogni genere di occasione, la sua elevata femminilità.",
+   "Welcome to Chelsea!"
+  ],
+  "desc_en": [
+   "Chelsea: A name synonymous with international elegance for the shoulder bag that is inspired by the saddlebag but designed to fit as naturally as possible to the figure of any sophisticated woman.",
+   "It is practical, very light, softly shaped with sensual curves.",
+   "Perfect for everyday use, Chelsea never fails to convey its highly feminine style on any occasion.",
+   "Welcome to Chelsea!"
+  ],
+  "colorways": [
+   {
+    "name": {
+     "it": "Antracite",
+     "en": "Charcoal"
+    },
+    "swatch": "#515157",
+    "images": [
+     "00.png",
+     "01.png",
+     "08.jpg",
+     "09.jpg",
+     "10.jpg"
+    ]
+   },
+   {
+    "name": {
+     "it": "Cuoio",
+     "en": "Tan"
+    },
+    "swatch": "#dfb17d",
+    "images": [
+     "06.png",
+     "07.png",
+     "14.png",
+     "15.png",
+     "16.png"
+    ]
+   },
+   {
+    "name": {
+     "it": "Beige",
+     "en": "Beige"
+    },
+    "swatch": "#c3b0a3",
+    "images": [
+     "18.png",
+     "19.png",
+     "22.png",
+     "23.png"
+    ]
+   }
+  ]
+ },
+ "noemi": {
+  "gender": "donna",
+  "title": "Noemi",
+  "desc_it": [
+   "Una interpretazione verticale della borsa Mina sempre con tracolla, disponibile in quattro misure. Un modello totalmente nuovo che nasce dalla reinterpretazione del Timeless A in chiave morbidezza. Dettagli che rievocano i codici di FM1915: le 2 chiusure con laccetti, il motivo a onda delle cuciture e delle tasche, sia interna che esterna, e i piedini di appoggio che proteggono il fondo della borsa. Nuovi tratti distintivi: gli attacchi della maniglia e della tracolla interamente ricoperti in pelle e un laccetto con moschettone, presente all’interno, per poter chiudere e indossare la borsa evitando, eventualmente, i laccetti esterni. La fodera è in nappa e la tracolla in pelle. Data la costruzione rovesciata con filetto, questo modello può essere realizzato solo con pellami morbidi come togo e shaking box."
+  ],
+  "desc_en": [
+   "A vertical interpretation of the Mina bag, with shoulder strap, available in four sizes. A totally new model that comes from the reinterpretation of the Timeless A in a soft key. The details that evoke the FM1915 codes are: the two closures with straps, the wave pattern of the stitching and of the interior and exterior pockets, and the four feet that protect the bottom of the bag. There are new features too, such as the leather-covered handle attachments and shoulder strap, and a strap with carabiner inside the bag so that it can be closed and worn without having to use the exterior straps. The lining is in nappa leather, whilst the shoulder strap is in fabric. Since its construction is turned inside out with piping, this model can only be made with soft leathers such as togo or shaking box."
+  ],
+  "colorways": [
+   {
+    "name": {
+     "it": "Tortora",
+     "en": "Taupe"
+    },
+    "swatch": "#b29e88",
+    "images": [
+     "00.png",
+     "01.png",
+     "02.png",
+     "03.png",
+     "04.png"
+    ]
+   },
+   {
+    "name": {
+     "it": "Petrolio",
+     "en": "Petrol"
+    },
+    "swatch": "#364449",
+    "images": [
+     "08.jpg",
+     "09.jpg",
+     "10.jpg",
+     "11.jpg",
+     "12.jpg"
+    ]
+   }
+  ]
+ },
+ "key-west": {
+  "gender": "donna",
+  "title": "Key West",
+  "desc_it": [
+   "La borsa a tracolla Key West, pratica e leggera, esalta naturalmente la femminilità e si adatta ad ogni occasione.",
+   "Design essenziale, pellame di pregio e due catene gioiello (una all'interno e l'altra sulla tracolla) per un modello speciale, che ambisce al ruolo di nuova icona di eleganza contemporanea.",
+   "La catena all’interno consente di inserire un porta chiavi, un porta carte o qualsivoglia piccolo oggetto, mentre la catena degradè permette di indossare la borsa sia a spalla sia crossbody, consentendo l'adattabilità perfetta a look e funzione d'uso.",
+   "Le linearità delle forme, arricchita dalla sofisticata bombatura sulla patella e sul corpo borsa e la chiusura a F, che riproduce il logo realizzato da Giò Pomodoro, ne sanciscono in maniera inconfondibile l'autenticità."
+  ],
+  "desc_en": [
+   "The practical, lightweight Key West crossbody bag naturally enhances a woman’s femininity and adapts to any occasion.",
+   "This special model with its understated design, fine leather and two jewel chain straps (one inside and the other on the shoulder strap), aims to be a new icon of modern-day elegance.",
+   "The interior chain allows you to add a key case, a card holder or any other small item, while the degradé chain allows you to wear the bag over the shoulder or crossbody, adapting effortlessly to the desired look and functionality.",
+   "Its linear form, enhanced by the elegant curvature of the flap and the body, as well as the F-shaped fastener replicating the logo created by Giò Pomodoro, unmistakably stamp the authenticity of the bag."
+  ],
+  "colorways": [
+   {
+    "name": {
+     "it": "Beige",
+     "en": "Beige"
+    },
+    "swatch": "#c6b8a4",
+    "images": [
+     "02.jpg",
+     "03.jpg",
+     "04.jpg",
+     "05.jpg",
+     "06.jpg"
+    ]
+   },
+   {
+    "name": {
+     "it": "Blu notte",
+     "en": "Navy"
+    },
+    "swatch": "#2c3a5b",
+    "images": [
+     "00.jpg",
+     "01.jpg",
+     "14.jpg",
+     "15.jpg",
+     "16.jpg"
+    ]
+   },
+   {
+    "name": {
+     "it": "Verde bosco",
+     "en": "Forest green"
+    },
+    "swatch": "#3a4d3e",
+    "images": [
+     "18.jpg",
+     "19.jpg",
+     "20.jpg",
+     "21.jpg",
+     "28.jpg"
+    ]
+   }
+  ]
+ },
+ "trebbia-26": {
+  "gender": "donna",
+  "title": "Trebbia 26",
+  "desc_it": [
+   "Nomen Omen. Trebbia 26 è in un certo senso testimonial di se stessa, deve il suo nome all’indirizzo della sede e del workshop Fontana Milano 1915 e racchiude in se alcuni degli elementi cardine dello stile unico della maison. Il design trae ispirazione dalla cartella classica, reinterpretata con un twist in chiave contemporanea, e arricchita dalla chiusura con fibbia/scultura “F” che l’artista Giò Pomodoro creò espressamente per FM1915.",
+   "La costruzione è rigida, caratterizzata da una lavorazione a costa trattata e tinta a mano e i 2 o 3 soffietti dividono comodamente l’interno in nappa o in morbido suede cachemire.",
+   "Nella taglia Media la tracolla è rigida e bombata, la cui forma scultorea ad arco consente di indossare la borsa a spalla, rendendo questo modello un classico intramontabile.",
+   "Nella taglia Mini, invece, la maniglia si inserisce delicatamente nel ‘do’ della patella tramite due asole ‘a vivo’ e, a completare questa borsa speciale, la sottile tracollina è regolabile ed eventualmente staccabile con gemelli."
+  ],
+  "desc_en": [
+   "Nomen Omen, the name is a sign. In a sense, Trebbia 26 speaks for itself since it is named after the address of the Fontana Milano 1915 headquarters and workshop, and features several of the key elements of the unique style of the company. Inspired by the classic satchel, the bag has been redesigned with a contemporary twist and enhanced by the “F” buckle/sculpture closure specifically created for FM1915 by artist Giò Pomodoro.",
+   "The rigid, ribbed structure has been treated and dyed by hand and the roomy napa or soft suedecashmere interior is divided by two or three gussets.",
+   "In the Medium size, the shoulder strap is rigid and rounded. Its sculptural, arched shape allows the bag to be worn over the shoulder, making this model a timeless classic.",
+   "On the Mini size, on the other hand, the handle is gracefully inserted through 2 raw-edged slits on the curve of the flap, and completing this special bag the slim shoulder strap is adjustable and, if desired, detachable via buttons studs."
+  ],
+  "colorways": [
+   {
+    "name": {
+     "it": "Sabbia",
+     "en": "Sand"
+    },
+    "swatch": "#a69d82",
+    "images": [
+     "00.jpg",
+     "01.jpg",
+     "02.jpg",
+     "03.jpg",
+     "04.jpg"
+    ]
+   },
+   {
+    "name": {
+     "it": "Giallo",
+     "en": "Yellow"
+    },
+    "swatch": "#bca818",
+    "images": [
+     "06.jpg",
+     "07.jpg",
+     "08.jpg",
+     "12.jpg"
+    ]
+   },
+   {
+    "name": {
+     "it": "Antracite",
+     "en": "Charcoal"
+    },
+    "swatch": "#3a3e3b",
+    "images": [
+     "13.jpg",
+     "19.jpg",
+     "20.jpg",
+     "21.jpg"
+    ]
+   }
+  ]
+ },
+ "a": {
+  "gender": "donna",
+  "title": "A",
+  "desc_it": [
+   "A, prima lettera dell’alfabeto e primo modello timeless di FONTANA MILANO 1915. A come atipica, autentica, affascinante. A come amatissima dalle celebrities di ogni parte del globo. Femminile ma essenziale, minimale ma strutturata, quasi una cartella da città dall’eleganza senza tempo, visivamente accattivante, ha per unico vezzo un’ampia tasca interna con briglia."
+  ],
+  "desc_en": [
+   "A, the first letter of the alphabet and the first timeless model of FONTANA MILANO 1915. A as in atypical, authentic, attractive. A as in adored by celebrities from all over the world. Feminine but fundamental, minimal but structured, almost a city briefcase due to its timeless elegance and visual appeal, its distinguishing feature is a large interior pocket with a bridle strap"
+  ],
+  "colorways": [
+   {
+    "name": {
+     "it": "Sabbia",
+     "en": "Sand"
+    },
+    "swatch": "#bdb59e",
+    "images": [
+     "03.jpg",
+     "04.jpg",
+     "05.jpg",
+     "10.jpg",
+     "11.jpg"
+    ]
+   },
+   {
+    "name": {
+     "it": "Marrone",
+     "en": "Brown"
+    },
+    "swatch": "#47413c",
+    "images": [
+     "09.jpg",
+     "28.jpg",
+     "29.jpg",
+     "30.jpg",
+     "31.jpg"
+    ]
+   },
+   {
+    "name": {
+     "it": "Blu",
+     "en": "Blue"
+    },
+    "swatch": "#343f75",
+    "images": [
+     "24.png",
+     "25.png",
+     "35.jpg",
+     "36.jpg",
+     "37.jpg"
+    ]
+   }
+  ]
+ },
+ "mini-lucky": {
+  "gender": "donna",
+  "title": "Darling",
+  "desc_it": [
+   "Darling di nome e di fatto: piccola, leggera e soprattutto pratica, da portare sempre con sé in molteplici occasioni, sia di giorno sia di sera.",
+   "Dalle forme geometriche ed essenziali, impreziosita da dettagli in corno e dalla catena-gioiello che adempie alla funzione di chiusura.",
+   "Darling è realizzata in pregiati pellami, dal coccodrillo allo struzzo, dal minuzioso lizard al morbidissimo suede cachemire.",
+   "Infine, la tracolla si compone, da un lato, in pelle (di lunghezza regolabile) a contrasto rispetto al corpo borsa e, dall’altro, da una catena-gioiello con 2 T-bar che permettono sia di avere 2 lunghezze diverse della tracolla e sia di agganciare un piccolo oggetto.",
+   "Darling, un gioiello di borsa, che accompagna con stile, ogni giornata della donna di stile."
+  ],
+  "desc_en": [
+   "Darling in name and in fact: small, light and above all practical, for wearing on multiple occasions during both the day and evening.",
+   "Coming in geometric and streamlined shapes, it is embellished with horn details and a jewel-chain that serves as the clasp.",
+   "Darling is made of precious leathers, including crocodile, ostrich, fine-grained lizard and the softest cashmere suede.",
+   "Lastly, one end of the shoulder strap is made of leather (with adjustable length) that contrasts with the body of the bag whilst the other end is a jewel-chain featuring 2 T-bars that allows you to adjust the shoulder strap to two different lengths as well as attach a small object.",
+   "Darling, a jewel of a bag, which accompanies each day of the stylish woman with style."
+  ],
+  "colorways": [
+   {
+    "name": {
+     "it": "Cognac",
+     "en": "Cognac"
+    },
+    "swatch": "#894c0a",
+    "images": [
+     "00.jpg",
+     "01.jpg",
+     "06.jpg"
+    ]
+   },
+   {
+    "name": {
+     "it": "Cipria",
+     "en": "Blush"
+    },
+    "swatch": "#9e8b81",
+    "images": [
+     "02.jpg",
+     "03.jpg",
+     "04.jpg"
+    ]
+   },
+   {
+    "name": {
+     "it": "Blu",
+     "en": "Blue"
+    },
+    "swatch": "#332694",
+    "images": [
+     "08.jpg",
+     "09.jpg",
+     "10.jpg"
+    ]
+   }
+  ]
+ },
+ "lulli": {
+  "gender": "donna",
+  "title": "Lulli",
+  "desc_it": [
+   "Nuovo modello Timeless di Fontana Milano 1915: classico e strutturato, rivisitato in chiave contemporanea.",
+   "Le linee pulite ed essenziali esaltano la chiusura F di Giò Pomodoro.",
+   "Connotata da un'estrema cura nei dettagli, come la lavorazione della costa fatta a mano e dell'anello ricoperto, si indossa sia a spalla che a tracolla grazie al doppio anello della maniglia.",
+   "Realizzata in vitello liscio con 2 soffietti divisori in nappa."
+  ],
+  "desc_en": [
+   "Lulli, the new Timeless model from Fontana Milano 1915, is a classic, structured bag that has been reinterpreted with a more modern look.",
+   "The clean, minimalist lines accentuate the F closure by Giò Pomodoro.",
+   "Distinctive for its great attention to the details such as the handmade ribbing and the leather-covered ring, it can be worn over the shoulder or crossbody thanks to the double handle rings where the shoulder strap can also be attached.",
+   "Made in smooth calfskin with two compartments in nappa."
+  ],
+  "colorways": [
+   {
+    "name": {
+     "it": "Petrolio",
+     "en": "Petrol"
+    },
+    "swatch": "#38464b",
+    "images": [
+     "04.jpg",
+     "07.jpg",
+     "08.jpg",
+     "09.jpg",
+     "10.jpg"
+    ]
+   },
+   {
+    "name": {
+     "it": "Grigio perla",
+     "en": "Pearl grey"
+    },
+    "swatch": "#b9b0a7",
+    "images": [
+     "11.jpg",
+     "12.jpg",
+     "13.jpg"
+    ]
+   },
+   {
+    "name": {
+     "it": "Blu notte",
+     "en": "Navy"
+    },
+    "swatch": "#1b2541",
+    "images": [
+     "00.jpg",
+     "01.jpg"
+    ]
+   }
+  ]
+ },
+ "milano": {
+  "gender": "donna",
+  "title": "Milano",
+  "desc_it": [
+   "Milano is made in Milano. Come dire nome e imprinting per la nuova shopping bag strutturata e genderless, dalla forma lineare e rigorosa, di Fontana Milano 1915.",
+   "Pratica e capiente, comoda per l'uso quotidiano, perfetta sempre: sia per lavoro, sia per il tempo libero, o per entrambi.",
+   "Si porta a mano agevolmente e, grazie ai colori intensi e brillanti del vitello liscio, dona ad ogni look un originalissimo tocco di charme.",
+   "La chiusura sia a zip che con i 2 laccetti, si presenta in 3 taglie, con una variante impreziosita da rivetti lungo i bordi.",
+   "Milano, sancisce l'appartenenza ad una città con una spiccata vocazione all’internazionalità e allo stile."
+  ],
+  "desc_en": [
+   "Milano is made in Milan. That is to say, it is the name and the imprinting on the new structured, genderless shopping bag from Fontana Milano 1915, characterised by its strict, linear lines.",
+   "Practical, roomy, and comfortable for everyday use, it is always perfect, either for work or leisure or for both.",
+   "It is comfortably carried by hand, and the intense, bright colours of the smooth calfskin lend a very original touch of charm to any look.",
+   "The bag is fastened either with a zip or the two straps, and comes in three sizes together with a version that is trimmed with rivets along the edges.",
+   "Milano shows that you belong to a city that is distinguished for its international outlook and style."
+  ],
+  "colorways": [
+   {
+    "name": {
+     "it": "Blu",
+     "en": "Blue"
+    },
+    "swatch": "#243977",
+    "images": [
+     "00.jpg",
+     "01.png",
+     "02.jpg",
+     "03.jpg"
+    ]
+   },
+   {
+    "name": {
+     "it": "Rosso",
+     "en": "Red"
+    },
+    "swatch": "#ac1023",
+    "images": [
+     "06.png",
+     "07.png",
+     "08.jpg"
+    ]
+   },
+   {
+    "name": {
+     "it": "Grigio",
+     "en": "Grey"
+    },
+    "swatch": "#807d8e",
+    "images": [
+     "09.png",
+     "10.png"
+    ]
+   }
+  ]
+ },
+ "mimosa": {
+  "gender": "donna",
+  "title": "Mimosa",
+  "desc_it": [
+   "Mimosa è l’handbag compatta, morbida e capiente, che porta impresso il segno della storia: la chiusura metallica che riproduce il logo di FONTANA MILANO 1915, creato da Giò Pomodoro negli anni’80. Le forme sinuose della borsa creano un contrappunto armonico con le altrettanto sinuose linee della chiusura a F e donano all’oggetto un’eleganza formale dal carattere deciso."
+  ],
+  "desc_en": [
+   "Mimosa is the compact, soft and generous handbag imprinted with history: the metal closure that replicates the logo of FONTANA MILANO 1915, created by Giò Pomodoro in the 1980s. The sinuous shapes of the bag create a harmonious counterpoint to the equally sinuous lines of the F-shaped closure and lend it a bold, formal elegance."
+  ],
+  "colorways": [
+   {
+    "name": {
+     "it": "Nero",
+     "en": "Black"
+    },
+    "swatch": "#383d38",
+    "images": [
+     "04.jpg",
+     "05.jpg",
+     "06.jpg",
+     "07.png",
+     "08.png"
+    ]
+   },
+   {
+    "name": {
+     "it": "Cipria",
+     "en": "Blush"
+    },
+    "swatch": "#7d4a3a",
+    "images": [
+     "00.jpg",
+     "01.jpg",
+     "02.jpg",
+     "03.jpg"
+    ]
+   }
+  ]
+ },
+ "mymosa": {
+  "gender": "donna",
+  "title": "MYMOSA",
+  "desc_it": [
+   "Morbida e destrutturata, Mymosa, reinterpreta il Timeless Mimosa in chiave contemporanea mantenendo le linee sinuose del modello da cui trae ispirazione. Leggera e pratica con chiusura a F, è caratterizzata dalla bordatura sul corpo borsa."
+  ],
+  "desc_en": [
+   "Soft and destructured, Mymosa is a modern reinterpretation of the Timeless Mimosa bag but retains the same sinuous and feminine lines of the model that inspired it.Light, practical and featuring the F closure, it is distinguished by the edging on the body of the bag."
+  ],
+  "colorways": [
+   {
+    "name": {
+     "it": "Tortora",
+     "en": "Taupe"
+    },
+    "swatch": "#b4a691",
+    "images": [
+     "15.png",
+     "16.png",
+     "17.png",
+     "18.png",
+     "19.png"
+    ]
+   },
+   {
+    "name": {
+     "it": "Giallo",
+     "en": "Yellow"
+    },
+    "swatch": "#a7a518",
+    "images": [
+     "03.jpg",
+     "04.jpg",
+     "12.png",
+     "13.png",
+     "14.png"
+    ]
+   },
+   {
+    "name": {
+     "it": "Melanzana",
+     "en": "Aubergine"
+    },
+    "swatch": "#502066",
+    "images": [
+     "00.jpg",
+     "01.jpg",
+     "02.jpg"
+    ]
+   }
+  ]
+ },
+ "mini-a": {
+  "gender": "donna",
+  "title": "mini a",
+  "desc_it": [
+   "La Mini A rappresenta un’evoluzione del modello A, mantenendo la stessa linearità e funzionalità così come alcuni dettagli come le metallerie e la chiusura.",
+   "Fontana Milano 1915 reinterpreta la pochette tradizionale, tenendo conto delle nuove esigenze sociali e tecnologiche.",
+   "Una soluzione essenziale, con due tasche per i-phone, progettata per soddisfare le esigenze minimal di donne urbane e dinamiche e perfetta sia da giorno che da sera."
+  ],
+  "desc_en": [
+   "It is an evolution of the model A, retains the same linearity and functionality, as well as some details like the closure and metals.",
+   "It is compressed to create a smaller and more compact clutch, designed to carry either by day or night, by hand or shoulder."
+  ],
+  "colorways": [
+   {
+    "name": {
+     "it": "Beige",
+     "en": "Beige"
+    },
+    "swatch": "#c0b1a1",
+    "images": [
+     "13.png",
+     "14.png",
+     "15.png",
+     "16.png",
+     "17.png"
+    ]
+   },
+   {
+    "name": {
+     "it": "Nero",
+     "en": "Black"
+    },
+    "swatch": "#3b3a2f",
+    "images": [
+     "06.jpg",
+     "07.jpg",
+     "08.jpg",
+     "22.png",
+     "27.png"
+    ]
+   },
+   {
+    "name": {
+     "it": "Melanzana",
+     "en": "Aubergine"
+    },
+    "swatch": "#5b1f66",
+    "images": [
+     "00.jpg",
+     "01.jpg",
+     "02.jpg"
+    ]
+   }
+  ]
+ },
+ "angie": {
+  "gender": "donna",
+  "title": "Angie",
+  "desc_it": [
+   "Angie è la bowling bag di Fontana Milano 1915.",
+   "Un modello dalla forma strutturata e sofisticata, dai dettagli unici (il design della tracolla ad esempio, è una rivisitazione della briglia da equitazione), connotato come sempre dai codici classici della maison: come le caratteristiche cuciture sellier e la distintiva chiusura ad F che riproduce il celebre logo realizzato da Giò Pomodoro e che insieme alla ricercatezza dei pellami utilizzati donano al manufatto quell'eleganza, oltre i confini del tempo e delle mode, che è il tratto distintivo dello stile Fontana Milano 1915."
+  ],
+  "desc_en": [
+   "Angie is the bowling bag model created by Fontana Milano 1915.",
+   "Its structured and sophisticated shape, with unique details (such as the shoulder strap, which is a reinterpretation of a horse’s bridle), and distinguished as always by the maison’s classic design touches, as the saddle seams and the distinctive F-shaped fastener replicating the famous logo created by Giò Pomodoro, as well as the fine leathers used, confer the bag with the timeless, enduring elegance that is the hallmark of the Fontana Milano 1915 style."
+  ],
+  "colorways": [
+   {
+    "name": {
+     "it": "Cuoio",
+     "en": "Tan"
+    },
+    "swatch": "#d7af75",
+    "images": [
+     "00.png",
+     "01.png",
+     "02.png",
+     "03.png",
+     "05.png"
+    ]
+   }
+  ]
+ },
+ "bambi": {
+  "gender": "donna",
+  "title": "Bambi",
+  "desc_it": [
+   "Contrasto tra macro e micro enfatizzato dai 2 elementi protagonisti del modello Bambi: la fibbia ovale F e la lunga tracolla che vivono in relazione simmetricamente opposta al corpo borsa di dimensioni più ridotte.",
+   "Molto pratica e leggera, è realizzata in vitello liscio con fodera in nappa."
+  ],
+  "desc_en": [
+   "A contrast between macro and micro accentuated by the two predominant features of the Bambi model: the oval F buckle and the long shoulder strap that are diametrically the opposite of the smaller dimensions of the body of the bag.",
+   "Very practical and light, the bag is made of smooth calfskin with nappa interior."
+  ],
+  "colorways": [
+   {
+    "name": {
+     "it": "Grigio perla",
+     "en": "Pearl grey"
+    },
+    "swatch": "#cdc3ba",
+    "images": [
+     "00.png",
+     "05.png",
+     "06.png",
+     "07.png"
+    ]
+   },
+   {
+    "name": {
+     "it": "Nero",
+     "en": "Black"
+    },
+    "swatch": "#383232",
+    "images": [
+     "02.png",
+     "03.png",
+     "04.png",
+     "08.png"
+    ]
+   }
+  ]
+ },
+ "busy-day": {
+  "gender": "donna",
+  "title": "Busy Day",
+  "desc_it": [
+   "Capiente, pratica e a tracolla, Busy Day è stata progettata proprio per le numerose esigenze di una donna contemporanea, dinamica e indipendente. Numerosi gli scomparti che si prestano ad alloggiare smartphone, tablet, chiavette usb, chiavi di casa e quant’altro. Busy Day riesce a contenere sempre più di quanto ci si possa immaginare."
+  ],
+  "desc_en": [
+   "Strong, practical and with a shoulder strap, Busy Day is designed for the many needs of the contemporary, dynamic and independent woman. There are numerous compartments that can accommodate smartphones, tablets, USB keys, house keys, and whatever else. Busy Day can hold much more than you could imagine."
+  ],
+  "colorways": [
+   {
+    "name": {
+     "it": "Grigio perla",
+     "en": "Pearl grey"
+    },
+    "swatch": "#cbbeb8",
+    "images": [
+     "00.png",
+     "03.png",
+     "04.png",
+     "05.png"
+    ]
+   },
+   {
+    "name": {
+     "it": "Rosso mattone",
+     "en": "Brick"
+    },
+    "swatch": "#c53a08",
+    "images": [
+     "01.png",
+     "02.png"
+    ]
+   }
+  ]
+ },
+ "coccodrillo": {
+  "gender": "donna",
+  "title": "crocodile edition",
+  "desc_it": [
+   "Lo Spirito, che muove la ricerca di soluzioni estetico funzionali sempre inedite e innovative che sfociano in complessi processi di lavorazione in esclusiva. La Materia pregiata, ottenuta dalla parte più pregiata, del pellame più pregiato. La Magia del Fare, oggetti speciali ed eleganti con un’anima senza tempo che durino nel tempo. L’Autenticità di un’artigianalità evoluta al servizio di Bellezza e Verità. Le parole chiave dei modelli Timeless di Fontana Milano 1915 definiscono in modo chiaro anche la variante più preziosa ed esclusiva dell’intera collezione: quella in Coccodrillo.",
+   "Un Coccodrillo in maiuscolo, in grado di interpretare a livelli ineguagliati tutti i modelli Timeless e a rendere ogni realizzazione ancora più unica e speciale, grazie alla cura meticolosa di Fontana Milano 1915 esercitata in ogni fase della lavorazione, di ogni singolo modello, e soprattutto grazie ad un processo di elaborazione, fino ad oggi inedito, del pellame stesso, ideato da Fontana Milano 1915, e sviluppato in collaborazione con una rinomata conceria specializzata.",
+   "Grazie ad una lucidatura lenta e accurata, definita Agatatura dal nome della pietra utilizzata (Agata), e ripetuta innumerevoli volte, il pellame assume una lucentezza straordinaria che ne esalta le qualità tridimensionali e che a seconda della luce riflette tonalità di colore che impreziosiscono e rendono senza pari, il Coccodrillo Black di Fontana Milano 1915. Modelli total black, ma con sfumature sensazionali: Verde Bosco, Bordeaux Damasco e Blueberry Blu Notte. E poi metallerie con percentuali di autentico oro e interni in nappa di altissima qualità in toni che enfatizzano le sfumature del nero. Modelli senza tempo, per un tempo di qualità. Unicità, Fascino, Valore, per aumentare l’incanto di ogni momento importante e imprimere, indelebili nella memoria, tutte le occasioni speciali che meritano di essere vissute al meglio."
+  ],
+  "desc_en": [
+   "The Spirit, which drives the search for aesthetic functional solutions that are always fresh and innovative, giving rise to exclusive, complex production processes. The finest Material, obtained from the finest part of the finest leather. The Charm of Making, special, elegant items with a timeless soul that last over time. The Authenticity of a craftsmanship that has evolved in the service of Beauty and Truth. The keywords that describe the Timeless models of Fontana Milano 1915 also clearly define the most precious and exclusive version of the entire collection, namely the Crocodile edition. Crocodile with a capital C, which has what it takes to interpret all the Timeless models at unmatched levels, and makes every creation even more unique and special thanks to the meticulous care taken by Fontana Milano 1915 at every stage of the workmanship for every single model, and most importantly, thanks to a still pioneering leatherworking process that was devised by Fontana Milano 1915 and developed in conjunction with a well-known specialised tannery.",
+   "As a result of a slow, thorough polishing process known as agatatura, named after the stone used (agate), which is repeated numerous times, the leather takes on an extraordinary sheen that highlights its three-dimensional qualities and, depending upon the light, reflects shades of colour that enhance and make the Crocodile Black by Fontana Milano 1915 like no other. Totally black models, but with dramatic tinges: Forest Green, Damask Bordeaux and Blue Night Blueberry. Not to mention the metal hardware that contains amounts of real gold and the interiors made of very high quality soft leather in shades that emphasise the nuances of the black. Timeless models for a time of quality. One-of-a-kind, Glamour, Quality, to raise the enchantment of every important moment and leave unforgettable memories of all the special occasions that deserve to be experienced to the utmost."
+  ],
+  "colorways": [
+   {
+    "name": {
+     "it": "Nero",
+     "en": "Black"
+    },
+    "swatch": "#252224",
+    "images": [
+     "00.jpg",
+     "01.jpg",
+     "02.jpg",
+     "03.jpg",
+     "04.jpg"
+    ]
+   }
+  ]
+ }
+}

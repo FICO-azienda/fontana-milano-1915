@@ -54,6 +54,9 @@ const it = {
   'mat.body':
     'Pelle di prima scelta, selezionata e lavorata a mano nel laboratorio milanese di via Trebbia. Accessori in metallo. Cuciture a vista, bordi rifiniti a mano.',
   'dim.body': 'Larghezza 38 cm · Altezza 31 cm · Profondità 12 cm. Manico: 10 cm.',
+  'mat.generic': 'Pelle selezionata, tagliata e lavorata a mano nel laboratorio milanese di via Trebbia. Materiali e finiture possono variare in base alla versione.',
+  'dim.generic': 'Le misure esatte di ogni versione sono disponibili su richiesta al Workshop di via Trebbia 26, tel. +39 02 54 03 02 313.',
+  'product.photo': 'Foto',
   'ship.body':
     'Spedizione gratuita, con imballo in cofanetto Fontana. Consegna in 2–4 giorni lavorativi. Reso gratuito entro 14 giorni dalla consegna.',
   'mini.added': 'Il prodotto è stato aggiunto alla tua selezione.',
@@ -211,6 +214,9 @@ const en: Record<Key, string> = {
   'mat.body':
     'Premium leather, selected and worked by hand in the Milanese workshop on via Trebbia. Metal hardware. Visible stitching, hand-finished edges.',
   'dim.body': 'Width 38 cm · Height 31 cm · Depth 12 cm. Handle drop: 10 cm.',
+  'mat.generic': 'Selected leather, cut and worked by hand in the Milanese workshop on via Trebbia. Materials and finishes may vary by version.',
+  'dim.generic': 'Exact measurements for each version are available on request at the Workshop, via Trebbia 26, tel. +39 02 54 03 02 313.',
+  'product.photo': 'Photo',
   'ship.body':
     'Free shipping, in a Fontana gift box. Delivery in 2–4 working days. Free returns within 14 days of delivery.',
   'mini.added': 'The product has been added to your selection.',

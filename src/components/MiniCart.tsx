@@ -1,6 +1,6 @@
 import { useRef } from 'react'
-import { A_MAN } from '../data/catalog'
-import { useStore } from '../lib/store'
+import { findProduct } from '../data/products'
+import { lineKey, useStore } from '../lib/store'
 import { useDialog, useScrollLock } from '../lib/hooks'
 import { IconClose, IconMinus, IconPlus } from './Icons'
 import { Pic } from './Pic'
@@ -45,24 +45,25 @@ export function MiniCart() {
           ) : (
             <ul>
               {cart.map((l) => {
-                const c = A_MAN.colors.find((x) => x.id === l.colorId)!
+                const pr = findProduct(l.productId)!
+                const c = pr.colors.find((x) => x.id === l.colorId) ?? pr.colors[0]
                 return (
-                  <li key={l.colorId} className="grid grid-cols-[96px_1fr] gap-5 border-b border-line py-6">
+                  <li key={lineKey(l)} className="grid grid-cols-[96px_1fr] gap-5 border-b border-line py-6">
                     <div className="aspect-[4/5] bg-stone">
                       <Pic name={c.images[0]} alt={c.alts[lang][0]} sizes="96px" imgClassName="blend h-full w-full object-cover" className="block h-full w-full overflow-hidden" />
                     </div>
                     <div className="flex flex-col">
-                      <p className="eyebrow">A Man</p>
-                      <p className="serif mt-1 text-[22px] font-light leading-tight">{t('product.name')}</p>
+                      <p className="eyebrow">{pr.eyebrow ?? t(pr.gender === 'men' ? 'nav.men' : 'nav.women')}</p>
+                      <p className="serif mt-1 text-[22px] font-light leading-tight">{pr.title ?? pr.name}</p>
                       <p className="mt-1 text-[12px] text-mute">{c.name[lang]}</p>
-                      <p className="mt-2 text-[13px] tabular-nums">{money(A_MAN.price)}</p>
+                      <p className="mt-2 text-[13px] tabular-nums">{money(pr.price)}</p>
                       <div className="mt-auto flex items-center justify-between pt-4">
                         <div className="flex items-center border border-line" role="group" aria-label={t('mini.qty')}>
-                          <button type="button" aria-label={t('mini.less')} onClick={() => l.qty > 1 && dispatch({ t: 'qty', colorId: l.colorId, qty: l.qty - 1 })} className="grid h-8 w-8 place-items-center"><IconMinus width={12} height={12} /></button>
+                          <button type="button" aria-label={t('mini.less')} onClick={() => l.qty > 1 && dispatch({ t: 'qty', productId: l.productId, colorId: l.colorId, qty: l.qty - 1 })} className="grid h-8 w-8 place-items-center"><IconMinus width={12} height={12} /></button>
                           <output className="w-6 text-center text-[13px] tabular-nums">{l.qty}</output>
-                          <button type="button" aria-label={t('mini.more')} onClick={() => dispatch({ t: 'qty', colorId: l.colorId, qty: l.qty + 1 })} className="grid h-8 w-8 place-items-center"><IconPlus width={12} height={12} /></button>
+                          <button type="button" aria-label={t('mini.more')} onClick={() => dispatch({ t: 'qty', productId: l.productId, colorId: l.colorId, qty: l.qty + 1 })} className="grid h-8 w-8 place-items-center"><IconPlus width={12} height={12} /></button>
                         </div>
-                        <button type="button" onClick={() => dispatch({ t: 'remove', colorId: l.colorId })} className="u-link text-[11px] uppercase tracking-[0.16em] text-mute">{t('mini.remove')}</button>
+                        <button type="button" onClick={() => dispatch({ t: 'remove', productId: l.productId, colorId: l.colorId })} className="u-link text-[11px] uppercase tracking-[0.16em] text-mute">{t('mini.remove')}</button>
                       </div>
                     </div>
                   </li>

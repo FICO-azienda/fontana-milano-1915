@@ -11,8 +11,18 @@ React 19 · TypeScript · Vite · Tailwind CSS v4. Nessuna libreria di animazion
 npm install
 npm run dev      # sviluppo
 npm run build    # produzione → dist/
-npm run images   # rigenera AVIF/WebP responsive da assets-src/
+npm run images   # rigenera AVIF/WebP responsive da assets-src/ (hero, editoriale, miniature)
 ```
+
+## Schede prodotto
+Ogni borsa (9 Uomo + 20 Donna) ha la sua pagina: `#/uomo/<slug>` e `#/donna/<slug>`, con gli stessi slug del sito Fontana.
+Testi, foto e colori sono importati dal sito originale con due script (Python + Pillow, Node + sharp):
+```bash
+python3 scripts/import_products.py     # scarica testi IT/EN e foto in assets-src/products (non versionato)
+python3 scripts/build_products.py      # raggruppa le foto per colore → scripts/product-selection.json
+node scripts/optimize-products.mjs     # ritaglia sul soggetto e genera AVIF/WebP in public/img
+```
+I colori sono stimati dal colore dominante delle foto e nominati in modo descrittivo (es. “Tortora”, “Blu notte”).
 
 ## Struttura
 ```
@@ -27,9 +37,8 @@ scripts          ottimizzazione immagini (sharp)
 
 ## Note sui contenuti
 - Immagini e testi (A Man, storia, workshop, special projects) provengono dal sito ufficiale Fontana; sono di proprietà del marchio. Progetto dimostrativo non ufficiale.
-- **Prezzo (€ 2.450), dimensioni e materiali sono segnaposto**: il sito originale non li espone. Il colore “Grigio ardesia” è una denominazione descrittiva per le foto grigie della pagina originale.
+- **Prezzi, dimensioni e materiali sono segnaposto** (A Man € 2.450, ecc.): il sito originale non li espone. Per gli altri modelli le misure sono “su richiesta”. Il colore “Grigio ardesia” è una denominazione descrittiva per le foto grigie della pagina originale.
 - Carrello e preferiti sono salvati in `localStorage`. Checkout e Account sono pagine dimostrative: nessun dato viene inviato.
-- Gli altri modelli in catalogo rimandano al sito Fontana.
 
 ## Performance & accessibilità
 AVIF/WebP con `srcset`, preload dell'immagine hero, lazy loading, dimensioni intrinseche (niente CLS), JS ≈ 90 kB gzip. HTML semantico, skip link, focus visibile, dialog con focus trap ed Esc (menu, mini-cart, ricerca, lightbox), `aria-expanded` sul mega-menu e sugli accordion, `prefers-reduced-motion` rispettato.

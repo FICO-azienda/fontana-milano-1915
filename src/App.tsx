@@ -13,6 +13,7 @@ import { Collection } from './pages/Collection'
 import { Home } from './pages/Home'
 import { Mondo } from './pages/Mondo'
 import { Product } from './pages/Product'
+import { findProduct } from './data/products'
 import { Service } from './pages/Service'
 
 function NotFound() {
@@ -51,8 +52,13 @@ export default function App() {
   let page
   switch (root) {
     case '': page = <Home />; break
-    case 'uomo': page = sub === 'a-man' ? <Product /> : <Collection scope="men" />; break
-    case 'donna': page = <Collection scope="women" />; break
+    case 'uomo':
+    case 'donna': {
+      const prod = sub ? findProduct(sub) : undefined
+      const gender = root === 'uomo' ? 'men' : 'women'
+      page = prod && prod.gender === gender ? <Product product={prod} /> : sub ? <NotFound /> : <Collection scope={gender} />
+      break
+    }
     case 'collezioni': page = <Collection scope="all" />; break
     case 'il-mondo-fontana': page = <Mondo />; break
     case 'borsa': page = <Bag />; break

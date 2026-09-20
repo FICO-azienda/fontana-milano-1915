@@ -71,7 +71,7 @@ for (const [name, def] of Object.entries(map)) {
     await img.clone().webp({ quality: 80 }).toFile(`${OUT}/${name}-${width}.webp`)
     await img.clone().avif({ quality: 55, effort: 4 }).toFile(`${OUT}/${name}-${width}.avif`)
   }
-  manifest[name] = { w: meta.width, h: meta.height, widths: ws }
+  manifest[name] = { w: meta.width, h: meta.height, widths: ws, studio: !['workshop', 'special-projects'].includes(name) }
   console.log(name, meta.width + 'x' + meta.height)
 }
 
