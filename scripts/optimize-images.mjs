@@ -42,6 +42,16 @@ const map = {
   'c-wight': 'w-27179.png',
   'c-keywest': 'w-27244.png',
   'c-trebbia': 'w-27701.jpg',
+  'c-darling': 'w-27702.jpg',
+  'c-lulli': 'w-27177.png',
+  'c-milano': 'w-27178.png',
+  'c-mimosa': 'w-18440.png',
+  'c-mini-a': 'w-18433.png',
+  'c-busy-day': 'w-18437.png',
+  'c-coccodrillo': 'w-681.jpg',
+  'c-mymosa': 'w-mymosa.png',
+  'c-angie': 'w-angie.png',
+  'c-bambi': 'w-bambi.png',
 }
 
 await mkdir(OUT, { recursive: true })

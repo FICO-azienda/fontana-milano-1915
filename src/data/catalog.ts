@@ -100,7 +100,17 @@ export const CATALOG: CatalogItem[] = [
   women('noemi', 'Noemi', 'c-noemi', '/donna/noemi', ''),
   women('key-west', 'Key West', 'c-keywest', '/donna/key-west', ''),
   women('trebbia', 'Trebbia 26', 'c-trebbia', '/donna/trebbia-26', ''),
-  women('a', 'A', 'c-a', '/donna', 'a travel cartella'),
+  women('a', 'A', 'c-a', '/donna/a', 'a travel cartella'),
+  women('darling', 'Darling', 'c-darling', '/donna/mini-lucky', 'mini lucky'),
+  women('lulli', 'Lulli', 'c-lulli', '/donna/lulli', ''),
+  women('milano', 'Milano', 'c-milano', '/donna/milano', ''),
+  women('mimosa', 'Mimosa', 'c-mimosa', '/donna/mimosa', ''),
+  women('mymosa', 'Mymosa', 'c-mymosa', '/donna/mymosa', ''),
+  women('mini-a', 'Mini A', 'c-mini-a', '/donna/mini-a', 'piccola small'),
+  women('angie', 'Angie', 'c-angie', '/donna/angie', 'borsone weekend duffle'),
+  women('bambi', 'Bambi', 'c-bambi', '/donna/bambi', 'tracolla'),
+  women('busy-day', 'Busy Day', 'c-busy-day', '/donna/busy-day', 'shopper tote'),
+  women('coccodrillo', 'Coccodrillo', 'c-coccodrillo', '/donna/coccodrillo', 'croco'),
 ]
 
 export const MEN = CATALOG.filter((c) => c.gender === 'men')
