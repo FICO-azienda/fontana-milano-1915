@@ -25,7 +25,7 @@ export const NAV: NavItem[] = [
       ...pick(MEN, ['summit', 'wonderland', 'titan']).map((c) => ({ label: c.name, href: c.path })),
     ],
     cards: [
-      { img: 'c-a-man', label: 'A Man', href: '/uomo/a-man' },
+      { img: 't-a-man', label: 'A Man', href: '/uomo/a-man' },
       ...pick(MEN, ['summit', 'wonderland']).map((c) => ({ img: c.img, label: c.name, href: c.path })),
     ],
   },
@@ -38,8 +38,8 @@ export const NAV: NavItem[] = [
     ],
     cards: [
       { img: 'carbon-front', label: 'A Man', href: '/uomo/a-man' },
-      { img: 'c-wight', label: 'Wight', href: '/donna/wight' },
-      { img: 'c-titan', label: 'Titan', href: '/uomo/titan' },
+      { img: 't-wight', label: 'Wight', href: '/donna/wight' },
+      { img: 't-titan', label: 'Titan', href: '/uomo/titan' },
     ],
   },
   {

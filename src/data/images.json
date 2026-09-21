@@ -99,31 +99,32 @@
   "studio": true
  },
  "detail-buckle": {
-  "w": 880,
-  "h": 500,
+  "w": 1040,
+  "h": 650,
   "widths": [
    480,
    800,
-   880
+   1040
   ],
   "studio": true
  },
  "detail-clasp": {
-  "w": 520,
-  "h": 380,
+  "w": 900,
+  "h": 675,
   "widths": [
    480,
-   520
+   800,
+   900
   ],
   "studio": true
  },
  "detail-slate": {
-  "w": 880,
-  "h": 500,
+  "w": 1040,
+  "h": 650,
   "widths": [
    480,
    800,
-   880
+   1040
   ],
   "studio": true
  },
@@ -147,270 +148,5 @@
    1920
   ],
   "studio": false
- },
- "c-summit": {
-  "w": 640,
-  "h": 441,
-  "widths": [
-   480,
-   640
-  ],
-  "studio": true
- },
- "c-wonderland": {
-  "w": 640,
-  "h": 427,
-  "widths": [
-   480,
-   640
-  ],
-  "studio": true
- },
- "c-back": {
-  "w": 640,
-  "h": 427,
-  "widths": [
-   480,
-   640
-  ],
-  "studio": true
- },
- "c-rush": {
-  "w": 640,
-  "h": 427,
-  "widths": [
-   480,
-   640
-  ],
-  "studio": true
- },
- "c-timothy": {
-  "w": 640,
-  "h": 427,
-  "widths": [
-   480,
-   640
-  ],
-  "studio": true
- },
- "c-bazooka": {
-  "w": 640,
-  "h": 427,
-  "widths": [
-   480,
-   640
-  ],
-  "studio": true
- },
- "c-titan": {
-  "w": 640,
-  "h": 427,
-  "widths": [
-   480,
-   640
-  ],
-  "studio": true
- },
- "c-wallstreet": {
-  "w": 640,
-  "h": 413,
-  "widths": [
-   480,
-   640
-  ],
-  "studio": true
- },
- "c-a-man": {
-  "w": 640,
-  "h": 427,
-  "widths": [
-   480,
-   640
-  ],
-  "studio": true
- },
- "c-mina": {
-  "w": 640,
-  "h": 452,
-  "widths": [
-   480,
-   640
-  ],
-  "studio": true
- },
- "c-noemi": {
-  "w": 640,
-  "h": 427,
-  "widths": [
-   480,
-   640
-  ],
-  "studio": true
- },
- "c-gallery": {
-  "w": 640,
-  "h": 452,
-  "widths": [
-   480,
-   640
-  ],
-  "studio": true
- },
- "c-tumtum": {
-  "w": 640,
-  "h": 452,
-  "widths": [
-   480,
-   640
-  ],
-  "studio": true
- },
- "c-aretha": {
-  "w": 640,
-  "h": 427,
-  "widths": [
-   480,
-   640
-  ],
-  "studio": true
- },
- "c-a": {
-  "w": 640,
-  "h": 452,
-  "widths": [
-   480,
-   640
-  ],
-  "studio": true
- },
- "c-chelsea": {
-  "w": 640,
-  "h": 452,
-  "widths": [
-   480,
-   640
-  ],
-  "studio": true
- },
- "c-wight": {
-  "w": 640,
-  "h": 452,
-  "widths": [
-   480,
-   640
-  ],
-  "studio": true
- },
- "c-keywest": {
-  "w": 640,
-  "h": 452,
-  "widths": [
-   480,
-   640
-  ],
-  "studio": true
- },
- "c-trebbia": {
-  "w": 640,
-  "h": 427,
-  "widths": [
-   480,
-   640
-  ],
-  "studio": true
- },
- "c-darling": {
-  "w": 640,
-  "h": 427,
-  "widths": [
-   480,
-   640
-  ],
-  "studio": true
- },
- "c-lulli": {
-  "w": 640,
-  "h": 452,
-  "widths": [
-   480,
-   640
-  ],
-  "studio": true
- },
- "c-milano": {
-  "w": 640,
-  "h": 452,
-  "widths": [
-   480,
-   640
-  ],
-  "studio": true
- },
- "c-mimosa": {
-  "w": 640,
-  "h": 452,
-  "widths": [
-   480,
-   640
-  ],
-  "studio": true
- },
- "c-mini-a": {
-  "w": 640,
-  "h": 452,
-  "widths": [
-   480,
-   640
-  ],
-  "studio": true
- },
- "c-busy-day": {
-  "w": 640,
-  "h": 452,
-  "widths": [
-   480,
-   640
-  ],
-  "studio": true
- },
- "c-coccodrillo": {
-  "w": 640,
-  "h": 452,
-  "widths": [
-   480,
-   640
-  ],
-  "studio": true
- },
- "c-mymosa": {
-  "w": 1920,
-  "h": 1280,
-  "widths": [
-   480,
-   800,
-   1280,
-   1920
-  ],
-  "studio": true
- },
- "c-angie": {
-  "w": 1200,
-  "h": 848,
-  "widths": [
-   480,
-   800,
-   1200
-  ],
-  "studio": true
- },
- "c-bambi": {
-  "w": 1200,
-  "h": 848,
-  "widths": [
-   480,
-   800,
-   1200
-  ],
-  "studio": true
  }
 }
