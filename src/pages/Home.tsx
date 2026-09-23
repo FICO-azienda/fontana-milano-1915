@@ -1,3 +1,4 @@
+import { CollectionGate } from '../components/CollectionGate'
 import { Cta } from '../components/Cta'
 import { EditorialSection } from '../components/EditorialSection'
 import { Hero } from '../components/Hero'
@@ -29,6 +30,7 @@ export function Home() {
         </section>
 
         <ProductRail items={MEN} eyebrow={t('rail.eyebrow')} title={t('rail.title')} />
+        <CollectionGate />
         <EditorialSection />
       </main>
     </>

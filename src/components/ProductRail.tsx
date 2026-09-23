@@ -34,7 +34,7 @@ export function ProductRail({ items, eyebrow, title }: { items: CatalogItem[]; e
         {items.map((c) => {
           const wished = wishlist.includes(c.id)
           return (
-            <li key={c.id} className="w-[72vw] shrink-0 snap-start md:w-[38vw] xl:w-[26vw] xl:max-w-[480px]">
+            <li key={c.id} className="w-[62vw] shrink-0 snap-start md:w-[30vw] xl:w-[19vw] xl:max-w-[320px]">
               <div className="relative">
                 <a href={itemHref(c)} {...(!c.internal ? { target: '_blank', rel: 'noopener noreferrer' } : {})} className="group block" aria-label={`${c.name}${!c.internal ? ' — ' + t('col.external') : ''}`}>
                   <div className="zoom-frame aspect-[4/5] bg-stone">
