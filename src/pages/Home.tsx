@@ -2,9 +2,7 @@ import { CollectionGate } from '../components/CollectionGate'
 import { Cta } from '../components/Cta'
 import { EditorialSection } from '../components/EditorialSection'
 import { Hero } from '../components/Hero'
-import { ProductRail } from '../components/ProductRail'
 import { Reveal } from '../components/Reveal'
-import { MEN } from '../data/catalog'
 import { useStore } from '../lib/store'
 
 export function Home() {
@@ -29,7 +27,6 @@ export function Home() {
           </div>
         </section>
 
-        <ProductRail items={MEN} eyebrow={t('rail.eyebrow')} title={t('rail.title')} />
         <CollectionGate />
         <EditorialSection />
       </main>
